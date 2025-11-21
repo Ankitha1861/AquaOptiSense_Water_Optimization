@@ -1,0 +1,2 @@
+Node,Pressure(m),Delivered_m3_s,Delivered_LPS,Demand_LPS,Shortage_%,Leakage_%,Supplied_LPS,Explanation
+0,109.48796431357174,-1.400084208394286e-16,-1.4000842083942861e-13,3498.16047538945,25.0,14.50714306409916,-1.196971989264667e-13,Shortage due to uneven pipe capacity and high leakage losses.

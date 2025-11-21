@@ -1,0 +1,418 @@
+[TITLE]
+Bangalore WDS - Realistic Simulation INP (auto-generated)
+
+[OPTIONS]
+UNITS LPS
+HEADLOSS H-W
+
+[JUNCTIONS]
+;ID	Elevation	Demand	Pattern	; Ward Name
+J1	81.00	1306.526689815	0	; Kempegowda Ward
+J2	82.00	113.529907407	0	; Chowdeshwari Ward
+J3	83.00	1970.575335648	0	; Attur
+J4	84.00	4695.328275463	0	; Yelahanka Satellite town
+J5	85.00	1250.890231481	0	; Jakkur
+J6	86.00	618.413981481	0	; Thanisandra
+J7	87.00	3474.463807870	0	; Byatarayanapura
+J8	88.00	1552.868553241	0	; Kodigehalli
+J9	89.00	4782.195775463	0	; Vidyaranyapura
+J10	90.00	328.830162037	0	; Doddabommasandra
+J11	91.00	752.962083333	0	; Kuvempunagar
+J12	92.00	1626.283506944	0	; Shettyhalli
+J13	93.00	866.201944444	0	; Mallasandra
+J14	94.00	3162.172384259	0	; Bagalagunte
+J15	95.00	1687.010740741	0	; T. Dasarahalli
+J16	96.00	1096.512858796	0	; Jalahalli
+J17	97.00	1507.518101852	0	; J.P.Park
+J18	98.00	1160.236319444	0	; Radhakrishna Temple Ward
+J19	99.00	985.840821759	0	; Sanjaynagar
+J20	100.00	843.954594907	0	; Ganganagar
+J21	101.00	1945.341412037	0	; Hebbal
+J22	102.00	923.227314815	0	; VishwanathNagenahalli
+J23	103.00	2299.996701389	0	; Nagavara
+J24	104.00	2780.459710648	0	; HBR Layout
+J25	80.00	1420.959768519	0	; Horamavu
+J26	81.00	3054.083148148	0	; Ramamurthynagar
+J27	82.00	3339.578993056	0	; Banasawadi
+J28	83.00	2119.140092593	0	; Kammanahalli
+J29	84.00	1558.862604167	0	; Kacharakanahalli
+J30	85.00	1608.388356481	0	; Kadugondanahalli
+J31	86.00	673.121979167	0	; Kushalnagar
+J32	87.00	1304.914444444	0	; Kavalbyrasandra
+J33	88.00	691.387361111	0	; Manorayanapalya
+J34	89.00	555.691712963	0	; Gangenahalli
+J35	90.00	923.513391204	0	; Aramane Nagar
+J36	91.00	1053.072824074	0	; Mathikere
+J37	92.00	715.087777778	0	; Yeshwanthpur
+J38	93.00	1592.078599537	0	; H.M.T
+J39	94.00	1631.141400463	0	; Chokkasandra
+J40	95.00	-0.000023148	0	; Doddabidirakalu
+J41	96.00	2259.342870370	0	; Peenya Industrial Area
+J42	97.00	1216.639189815	0	; Lakshmidevinagar
+J43	98.00	1786.173796296	0	; Nandini Layout
+J44	99.00	1438.047731481	0	; Marappanahalli
+J45	100.00	1222.007523148	0	; Malleshwaram
+J46	101.00	2098.732164352	0	; Jayachamarajendra Nagar
+J47	102.00	925.948703704	0	; Devarajeevanahalli
+J48	103.00	429.766319444	0	; Muneshwaranagar
+J49	104.00	1102.878437500	0	; Lingarajapura
+J50	80.00	4257.529444444	0	; Benniganahalli
+J51	81.00	1503.875960648	0	; Vijinapura
+J52	82.00	1947.938449074	0	; K.R.Puram
+J53	83.00	2184.084606481	0	; Basavanapura
+J54	84.00	3649.269618056	0	; Hoodi
+J55	85.00	943.077928241	0	; Devasandra
+J56	86.00	2640.135358796	0	; A. Narayanapura
+J57	87.00	941.233831019	0	; C.V. Ramannagar
+J58	88.00	1752.991018519	0	; Hosathippasandra
+J59	89.00	1866.878206019	0	; Maruthiseva Nagar
+J60	90.00	1138.480185185	0	; Sagayapuram
+J61	91.00	918.932199074	0	; S.K. Garden
+J62	92.00	911.466388889	0	; Ramaswamy palya
+J63	93.00	1388.467048611	0	; Jayamahal
+J64	94.00	1067.169421296	0	; Rajamahal
+J65	95.00	1823.009884259	0	; Kadumalleshwara
+J66	96.00	1403.132175926	0	; Subramanyanagar
+J67	97.00	2038.626041667	0	; Nagapura
+J68	98.00	1386.165844907	0	; Mahalakshmipuram
+J69	99.00	2870.616250000	0	; Laggere
+J70	100.00	2328.291296296	0	; Rajagopalanagar
+J71	101.00	2799.506527778	0	; Hegganahalli
+J72	102.00	2386.931747685	0	; herohalli
+J73	103.00	2364.254317130	0	; Kottigepalya
+J74	104.00	1872.564803241	0	; Shakthiganapathi nagar
+J75	80.00	1717.774317130	0	; Shankaramata
+J76	81.00	1371.441307870	0	; Gayathrinagar
+J77	82.00	1340.374571759	0	; Dattathreya Temple
+J78	83.00	1373.672465278	0	; Pulikeshinagar
+J79	84.00	925.909201389	0	; Sarvagnanagar
+J80	85.00	1783.114525463	0	; Hoysalanagar
+J81	86.00	2309.175995370	0	; Vignananagar
+J82	87.00	2177.926493056	0	; Garudacharpalya
+J83	88.00	539.455729167	0	; Kadugodi
+J84	89.00	1426.098564815	0	; Hagadooru
+J85	90.00	5084.986134259	0	; Doddanekkundi
+J86	91.00	1838.618333333	0	; Marathalli
+J87	92.00	1081.433935185	0	; HAL Airport
+J88	93.00	1762.798240741	0	; Jeevanbhimanagar
+J89	94.00	1484.507939815	0	; Jogupalya
+J90	95.00	3785.023888889	0	; Ulsoor
+J91	96.00	1111.814120370	0	; Bharathinagar
+J92	97.00	2408.015775463	0	; Shivajinagar
+J93	98.00	2937.339259259	0	; Vasanthnagar
+J94	99.00	4449.646504630	0	; Gandhinagar
+J95	100.00	691.941226852	0	; Subhashnagar
+J96	101.00	1516.592673611	0	; Okalipuram
+J97	102.00	981.985844907	0	; Dayanandanagar
+J98	103.00	956.592870370	0	; Prakashnagar
+J99	104.00	1340.654780093	0	; Rajajinagar
+J100	80.00	1991.557129630	0	; Basaveshwaranagar
+J101	81.00	1110.876736111	0	; Kamakshipalya
+J102	82.00	1152.219641204	0	; Vrushabhavathi Nagar
+J103	83.00	1257.173472222	0	; Kaveripura
+J104	84.00	786.282442130	0	; Govindrajnagara
+J105	85.00	1078.133263889	0	; Agrahara Dasarahalli
+J106	86.00	992.576863426	0	; Dr. Rajkumar Ward
+J107	87.00	1022.924583333	0	; Shivanagar
+J108	88.00	1368.300370370	0	; Srirammandira ward
+J109	89.00	1309.482708333	0	; Chikpet
+J110	90.00	1539.066620370	0	; Sampangiramnagar
+J111	91.00	2712.326944444	0	; Shanthala Nagar
+J112	92.00	2292.377835648	0	; Dommalur
+J113	93.00	1516.929675926	0	; Konena Agrahara
+J114	94.00	1825.274756944	0	; Agaram
+J115	95.00	1255.926053241	0	; Vannarpet
+J116	96.00	731.628125000	0	; Neelasandra
+J117	97.00	2851.229594907	0	; Shanthinagar
+J118	98.00	1191.504050926	0	; Sudamnagar
+J119	99.00	1155.578252315	0	; Dharmarayaswamy Temple Ward
+J120	100.00	736.741400463	0	; Cottonpet
+J121	101.00	1217.716585648	0	; Binnypet
+J122	102.00	1018.968506944	0	; Kempapura Agrahara
+J123	103.00	1082.926122685	0	; Vijaynagar
+J124	104.00	1360.356793981	0	; Hosahalli
+J125	80.00	1089.754745370	0	; Marenahalli
+J126	81.00	1176.803460648	0	; Maruthi Mandira Ward
+J127	82.00	1555.135578704	0	; Moodalapalya
+J128	83.00	3018.753958333	0	; Nagarabhavi
+J129	84.00	3865.018055556	0	; Jnanabharathi ward
+J130	85.00	2237.451921296	0	; Ullalu
+J131	86.00	1443.746932870	0	; Nayandanahalli
+J132	87.00	2012.219097222	0	; Attiguppe
+J133	88.00	977.869409722	0	; Hampinagar
+J134	89.00	1531.387106481	0	; Bapujinagar
+J135	90.00	845.415682870	0	; Padarayanapura
+J136	91.00	1519.336273148	0	; Jagareevanram Nagar
+J137	92.00	945.982615741	0	; Rayapuram
+J138	93.00	645.727442130	0	; Chalavadipalya
+J139	94.00	625.717905093	0	; K.R. Market
+J140	95.00	1919.864270833	0	; Chamrajpet
+J141	96.00	1270.876493056	0	; Azadnagar
+J142	97.00	765.726539352	0	; Sunkenahalli
+J143	98.00	1413.427916667	0	; Vishweshrapuram
+J144	99.00	1469.930219907	0	; Siddapura
+J145	100.00	2314.174143519	0	; Hombegowdanagar
+J146	101.00	1107.505543981	0	; Lakkasandra
+J147	102.00	1252.370162037	0	; Adugodi
+J148	103.00	1604.960972222	0	; Ejipura
+J149	104.00	1937.672303241	0	; Varthur
+J150	80.00	3876.352743056	0	; Bellandur
+J151	81.00	3358.960844907	0	; Koramangala
+J152	82.00	1670.053252315	0	; Sudduguntepalya
+J153	83.00	2065.004918981	0	; Jayanagar
+J154	84.00	1591.831076389	0	; Basavanagudi
+J155	85.00	1027.080578704	0	; Hanumanthanagar
+J156	86.00	1662.925462963	0	; Srinagar
+J157	87.00	1607.253472222	0	; Gali Anjaneya swamy Temple Ward
+J158	88.00	892.440798611	0	; Deepanjali Nagar
+J159	89.00	3357.908530093	0	; Kengeri
+J160	90.00	5263.442534722	0	; Rajarajeshwarinagar
+J161	91.00	1955.841504630	0	; Hosakerehalli
+J162	92.00	2223.329710648	0	; Girinagar
+J163	93.00	1695.552175926	0	; Katriguppe
+J164	94.00	1250.192708333	0	; Vidyapeetha Ward
+J165	95.00	1289.601805556	0	; Ganeshmandira Ward
+J166	96.00	1402.055983796	0	; Karisandra
+J167	97.00	1251.973958333	0	; Yadiyuru
+J168	98.00	1754.320717593	0	; Pattabhiramnagar
+J169	99.00	1356.627152778	0	; Byrasandra
+J170	100.00	1214.059131944	0	; Jayanagar East
+J171	101.00	2146.327789352	0	; Gurappanapalya
+J172	102.00	2004.451331019	0	; Madiwala
+J173	103.00	1458.677766204	0	; Jakkasandra
+J174	104.00	6622.302650463	0	; HSR Layout
+J175	80.00	3444.383831019	0	; Bommanahalli
+J176	81.00	2990.849942130	0	; BTM Layout
+J177	82.00	2044.671168981	0	; J.P.Nagar
+J178	83.00	2050.388090278	0	; Sarakki
+J179	84.00	1310.168750000	0	; Shakambarinagar
+J180	85.00	1391.755555556	0	; Banashankari Temple Ward
+J181	86.00	3116.581331019	0	; Kumaraswamy Layout
+J182	87.00	2132.913750000	0	; Padmanabhanagar
+J183	88.00	1532.324039352	0	; Chikkallasandra
+J184	89.00	3790.194872685	0	; Uttarahalli
+J185	90.00	2298.943877315	0	; Yelachenahalli
+J186	91.00	970.426261574	0	; Jaraganahalli
+J187	92.00	1795.622685185	0	; Puttenahalli
+J188	93.00	2940.935590278	0	; Bilekahalli
+J189	94.00	4084.269236111	0	; Hongasandra
+J190	95.00	1059.038055556	0	; Mangammanapalya
+J191	96.00	2011.307071759	0	; Singasandra
+J192	97.00	3666.631284722	0	; Begur
+J193	98.00	4201.209490741	0	; Arakere
+J194	99.00	1149.802604167	0	; Gottigere
+J195	100.00	3458.085509259	0	; Konanakunte
+J196	101.00	3299.697164352	0	; Anjanapura
+J197	102.00	1771.064039352	0	; Vasanthapura
+J198	103.00	1111.040428241	0	; Hemmigepura
+
+[RESERVOIRS]
+;ID	Head
+Reservoir1	220.00
+Reservoir2	210.00
+Reservoir3	230.00
+Borewell1	180.00
+Borewell2	190.00
+
+[PIPES]
+;ID	Node1	Node2	Length	Diameter	Roughness	MinorLoss	Status
+P_Reservoir1_J1   Reservoir1   J1   415   200   100   0   Open
+P_Reservoir2_J2   Reservoir2   J2   491   1200   100   0   Open
+P_Reservoir3_J3   Reservoir3   J3   1195   1000   100   0   Open
+P_Borewell1_J4   Borewell1   J4   536   200   100   0   Open
+P_Borewell2_J5   Borewell2   J5   2282   1000   100   0   Open
+P_Reservoir1_J6   Reservoir1   J6   383   200   100   0   Open
+P_Reservoir2_J7   Reservoir2   J7   1479   1500   100   0   Open
+P_Reservoir3_J8   Reservoir3   J8   1030   200   100   0   Open
+P_Borewell1_J9   Borewell1   J9   2174   1500   100   0   Open
+P_Borewell2_J10   Borewell2   J10   651   400   100   0   Open
+P_Reservoir1_J11   Reservoir1   J11   1041   200   100   0   Open
+P_Reservoir2_J12   Reservoir2   J12   1034   800   100   0   Open
+P_Reservoir3_J13   Reservoir3   J13   839   1200   100   0   Open
+P_Borewell1_J14   Borewell1   J14   303   200   100   0   Open
+P_Borewell2_J15   Borewell2   J15   1259   300   100   0   Open
+P_Reservoir1_J16   Reservoir1   J16   492   200   100   0   Open
+P_Reservoir2_J17   Reservoir2   J17   1614   200   100   0   Open
+P_Reservoir3_J18   Reservoir3   J18   453   400   100   0   Open
+P_Borewell1_J19   Borewell1   J19   994   300   100   0   Open
+P_Borewell2_J20   Borewell2   J20   1286   600   100   0   Open
+P_Reservoir1_J21   Reservoir1   J21   2291   800   100   0   Open
+P_Reservoir2_J22   Reservoir2   J22   504   300   100   0   Open
+P_Reservoir3_J23   Reservoir3   J23   612   800   100   0   Open
+P_Borewell1_J24   Borewell1   J24   2038   500   100   0   Open
+P_Borewell2_J25   Borewell2   J25   346   800   100   0   Open
+P_Reservoir1_J26   Reservoir1   J26   2304   400   100   0   Open
+P_Reservoir2_J27   Reservoir2   J27   1561   500   100   0   Open
+P_Reservoir3_J28   Reservoir3   J28   883   600   100   0   Open
+P_Borewell1_J29   Borewell1   J29   2143   1000   100   0   Open
+P_Borewell2_J30   Borewell2   J30   1991   400   100   0   Open
+P_Reservoir1_J31   Reservoir1   J31   1055   1200   100   0   Open
+P_Reservoir2_J32   Reservoir2   J32   2063   600   100   0   Open
+P_Reservoir3_J33   Reservoir3   J33   755   500   100   0   Open
+P_Borewell1_J34   Borewell1   J34   1639   500   100   0   Open
+P_Borewell2_J35   Borewell2   J35   1459   300   100   0   Open
+P_Reservoir1_J36   Reservoir1   J36   2080   400   100   0   Open
+P_Reservoir2_J37   Reservoir2   J37   993   800   100   0   Open
+P_Reservoir3_J38   Reservoir3   J38   1176   1000   100   0   Open
+P_Borewell1_J39   Borewell1   J39   1992   500   100   0   Open
+P_Borewell2_J40   Borewell2   J40   1428   600   100   0   Open
+P_Reservoir1_J41   Reservoir1   J41   1806   800   100   0   Open
+P_Reservoir2_J42   Reservoir2   J42   1704   1500   100   0   Open
+P_Reservoir3_J43   Reservoir3   J43   1766   800   100   0   Open
+P_Borewell1_J44   Borewell1   J44   2258   200   100   0   Open
+P_Borewell2_J45   Borewell2   J45   1369   1200   100   0   Open
+P_Reservoir1_J46   Reservoir1   J46   1770   1500   100   0   Open
+P_Reservoir2_J47   Reservoir2   J47   1123   500   100   0   Open
+P_Reservoir3_J48   Reservoir3   J48   370   600   100   0   Open
+P_Borewell1_J49   Borewell1   J49   1959   200   100   0   Open
+P_Borewell2_J50   Borewell2   J50   699   1200   100   0   Open
+P_Reservoir1_J51   Reservoir1   J51   2104   800   100   0   Open
+P_Reservoir2_J52   Reservoir2   J52   2310   1500   100   0   Open
+P_Reservoir3_J53   Reservoir3   J53   1747   400   100   0   Open
+P_Borewell1_J54   Borewell1   J54   674   300   100   0   Open
+P_Borewell2_J55   Borewell2   J55   1041   500   100   0   Open
+P_Reservoir1_J56   Reservoir1   J56   1160   600   100   0   Open
+P_Reservoir2_J57   Reservoir2   J57   461   1500   100   0   Open
+P_Reservoir3_J58   Reservoir3   J58   1304   800   100   0   Open
+P_Borewell1_J59   Borewell1   J59   1560   1500   100   0   Open
+P_Borewell2_J60   Borewell2   J60   1039   1000   100   0   Open
+P_Reservoir1_J61   Reservoir1   J61   715   300   100   0   Open
+P_Reservoir2_J62   Reservoir2   J62   493   1200   100   0   Open
+P_Reservoir3_J63   Reservoir3   J63   1682   1500   100   0   Open
+P_Borewell1_J64   Borewell1   J64   328   400   100   0   Open
+P_Borewell2_J65   Borewell2   J65   1074   300   100   0   Open
+P_Reservoir1_J66   Reservoir1   J66   804   800   100   0   Open
+P_Reservoir2_J67   Reservoir2   J67   1470   300   100   0   Open
+P_Reservoir3_J68   Reservoir3   J68   1892   500   100   0   Open
+P_Borewell1_J69   Borewell1   J69   2300   1200   100   0   Open
+P_Borewell2_J70   Borewell2   J70   1705   200   100   0   Open
+P_Reservoir1_J71   Reservoir1   J71   2481   200   100   0   Open
+P_Reservoir2_J72   Reservoir2   J72   2420   200   100   0   Open
+P_Reservoir3_J73   Reservoir3   J73   1685   200   100   0   Open
+P_Borewell1_J74   Borewell1   J74   813   400   100   0   Open
+P_Borewell2_J75   Borewell2   J75   1364   1500   100   0   Open
+P_Reservoir1_J76   Reservoir1   J76   690   1500   100   0   Open
+P_Reservoir2_J77   Reservoir2   J77   2482   500   100   0   Open
+P_Reservoir3_J78   Reservoir3   J78   1277   200   100   0   Open
+P_Borewell1_J79   Borewell1   J79   1953   300   100   0   Open
+P_Borewell2_J80   Borewell2   J80   397   400   100   0   Open
+P_Reservoir1_J81   Reservoir1   J81   596   200   100   0   Open
+P_Reservoir2_J82   Reservoir2   J82   724   600   100   0   Open
+P_Reservoir3_J83   Reservoir3   J83   863   1500   100   0   Open
+P_Borewell1_J84   Borewell1   J84   1074   1000   100   0   Open
+P_Borewell2_J85   Borewell2   J85   898   500   100   0   Open
+P_Reservoir1_J86   Reservoir1   J86   1255   800   100   0   Open
+P_Reservoir2_J87   Reservoir2   J87   1224   1200   100   0   Open
+P_Reservoir3_J88   Reservoir3   J88   538   500   100   0   Open
+P_Borewell1_J89   Borewell1   J89   437   1200   100   0   Open
+P_Borewell2_J90   Borewell2   J90   1081   1200   100   0   Open
+P_Reservoir1_J91   Reservoir1   J91   495   500   100   0   Open
+P_Reservoir2_J92   Reservoir2   J92   1253   200   100   0   Open
+P_Reservoir3_J93   Reservoir3   J93   318   500   100   0   Open
+P_Borewell1_J94   Borewell1   J94   1478   800   100   0   Open
+P_Borewell2_J95   Borewell2   J95   461   500   100   0   Open
+P_Reservoir1_J96   Reservoir1   J96   1827   600   100   0   Open
+P_Reservoir2_J97   Reservoir2   J97   1189   1200   100   0   Open
+P_Reservoir3_J98   Reservoir3   J98   2467   1000   100   0   Open
+P_Borewell1_J99   Borewell1   J99   877   1000   100   0   Open
+P_Borewell2_J100   Borewell2   J100   1339   800   100   0   Open
+P_Reservoir1_J101   Reservoir1   J101   1951   500   100   0   Open
+P_Reservoir2_J102   Reservoir2   J102   1036   200   100   0   Open
+P_Reservoir3_J103   Reservoir3   J103   1066   1000   100   0   Open
+P_Borewell1_J104   Borewell1   J104   1706   1200   100   0   Open
+P_Borewell2_J105   Borewell2   J105   2433   1500   100   0   Open
+P_Reservoir1_J106   Reservoir1   J106   2244   400   100   0   Open
+P_Reservoir2_J107   Reservoir2   J107   1221   300   100   0   Open
+P_Reservoir3_J108   Reservoir3   J108   1878   400   100   0   Open
+P_Borewell1_J109   Borewell1   J109   1793   1000   100   0   Open
+P_Borewell2_J110   Borewell2   J110   1118   200   100   0   Open
+P_Reservoir1_J111   Reservoir1   J111   816   300   100   0   Open
+P_Reservoir2_J112   Reservoir2   J112   472   1000   100   0   Open
+P_Reservoir3_J113   Reservoir3   J113   2233   600   100   0   Open
+P_Borewell1_J114   Borewell1   J114   425   200   100   0   Open
+P_Borewell2_J115   Borewell2   J115   1441   1500   100   0   Open
+P_Reservoir1_J116   Reservoir1   J116   1482   1000   100   0   Open
+P_Reservoir2_J117   Reservoir2   J117   621   500   100   0   Open
+P_Reservoir3_J118   Reservoir3   J118   1743   1500   100   0   Open
+P_Borewell1_J119   Borewell1   J119   2314   1200   100   0   Open
+P_Borewell2_J120   Borewell2   J120   2007   1000   100   0   Open
+P_Reservoir1_J121   Reservoir1   J121   1156   1000   100   0   Open
+P_Reservoir2_J122   Reservoir2   J122   578   500   100   0   Open
+P_Reservoir3_J123   Reservoir3   J123   2444   600   100   0   Open
+P_Borewell1_J124   Borewell1   J124   1437   300   100   0   Open
+P_Borewell2_J125   Borewell2   J125   1685   300   100   0   Open
+P_Reservoir1_J126   Reservoir1   J126   2065   1000   100   0   Open
+P_Reservoir2_J127   Reservoir2   J127   1149   300   100   0   Open
+P_Reservoir3_J128   Reservoir3   J128   436   300   100   0   Open
+P_Borewell1_J129   Borewell1   J129   599   600   100   0   Open
+P_Borewell2_J130   Borewell2   J130   1770   600   100   0   Open
+P_Reservoir1_J131   Reservoir1   J131   1068   800   100   0   Open
+P_Reservoir2_J132   Reservoir2   J132   2216   200   100   0   Open
+P_Reservoir3_J133   Reservoir3   J133   1928   600   100   0   Open
+P_Borewell1_J134   Borewell1   J134   2456   1000   100   0   Open
+P_Borewell2_J135   Borewell2   J135   1771   400   100   0   Open
+P_Reservoir1_J136   Reservoir1   J136   968   200   100   0   Open
+P_Reservoir2_J137   Reservoir2   J137   2040   800   100   0   Open
+P_Reservoir3_J138   Reservoir3   J138   362   1000   100   0   Open
+P_Borewell1_J139   Borewell1   J139   1447   1200   100   0   Open
+P_Borewell2_J140   Borewell2   J140   2217   400   100   0   Open
+P_Reservoir1_J141   Reservoir1   J141   1432   200   100   0   Open
+P_Reservoir2_J142   Reservoir2   J142   602   1200   100   0   Open
+P_Reservoir3_J143   Reservoir3   J143   1400   500   100   0   Open
+P_Borewell1_J144   Borewell1   J144   1500   1000   100   0   Open
+P_Borewell2_J145   Borewell2   J145   1111   400   100   0   Open
+P_Reservoir1_J146   Reservoir1   J146   2265   1000   100   0   Open
+P_Reservoir2_J147   Reservoir2   J147   1048   1500   100   0   Open
+P_Reservoir3_J148   Reservoir3   J148   897   1200   100   0   Open
+P_Borewell1_J149   Borewell1   J149   1413   400   100   0   Open
+P_Borewell2_J150   Borewell2   J150   747   500   100   0   Open
+P_Reservoir1_J151   Reservoir1   J151   1008   200   100   0   Open
+P_Reservoir2_J152   Reservoir2   J152   1175   1500   100   0   Open
+P_Reservoir3_J153   Reservoir3   J153   2364   500   100   0   Open
+P_Borewell1_J154   Borewell1   J154   476   300   100   0   Open
+P_Borewell2_J155   Borewell2   J155   733   400   100   0   Open
+P_Reservoir1_J156   Reservoir1   J156   738   600   100   0   Open
+P_Reservoir2_J157   Reservoir2   J157   2489   300   100   0   Open
+P_Reservoir3_J158   Reservoir3   J158   2259   600   100   0   Open
+P_Borewell1_J159   Borewell1   J159   727   1200   100   0   Open
+P_Borewell2_J160   Borewell2   J160   1542   300   100   0   Open
+P_Reservoir1_J161   Reservoir1   J161   487   1500   100   0   Open
+P_Reservoir2_J162   Reservoir2   J162   997   1000   100   0   Open
+P_Reservoir3_J163   Reservoir3   J163   1050   200   100   0   Open
+P_Borewell1_J164   Borewell1   J164   1482   400   100   0   Open
+P_Borewell2_J165   Borewell2   J165   2344   1200   100   0   Open
+P_Reservoir1_J166   Reservoir1   J166   2079   300   100   0   Open
+P_Reservoir2_J167   Reservoir2   J167   1475   300   100   0   Open
+P_Reservoir3_J168   Reservoir3   J168   2029   500   100   0   Open
+P_Borewell1_J169   Borewell1   J169   1364   400   100   0   Open
+P_Borewell2_J170   Borewell2   J170   1907   1000   100   0   Open
+P_Reservoir1_J171   Reservoir1   J171   2009   1500   100   0   Open
+P_Reservoir2_J172   Reservoir2   J172   865   500   100   0   Open
+P_Reservoir3_J173   Reservoir3   J173   2132   600   100   0   Open
+P_Borewell1_J174   Borewell1   J174   1571   400   100   0   Open
+P_Borewell2_J175   Borewell2   J175   1369   1000   100   0   Open
+P_Reservoir1_J176   Reservoir1   J176   1170   600   100   0   Open
+P_Reservoir2_J177   Reservoir2   J177   793   1000   100   0   Open
+P_Reservoir3_J178   Reservoir3   J178   1402   1500   100   0   Open
+P_Borewell1_J179   Borewell1   J179   577   200   100   0   Open
+P_Borewell2_J180   Borewell2   J180   1696   500   100   0   Open
+P_Reservoir1_J181   Reservoir1   J181   2276   500   100   0   Open
+P_Reservoir2_J182   Reservoir2   J182   2039   500   100   0   Open
+P_Reservoir3_J183   Reservoir3   J183   1640   200   100   0   Open
+P_Borewell1_J184   Borewell1   J184   1387   300   100   0   Open
+P_Borewell2_J185   Borewell2   J185   1830   200   100   0   Open
+P_Reservoir1_J186   Reservoir1   J186   569   1200   100   0   Open
+P_Reservoir2_J187   Reservoir2   J187   415   500   100   0   Open
+P_Reservoir3_J188   Reservoir3   J188   2195   1500   100   0   Open
+P_Borewell1_J189   Borewell1   J189   1096   1500   100   0   Open
+P_Borewell2_J190   Borewell2   J190   1771   1500   100   0   Open
+P_Reservoir1_J191   Reservoir1   J191   1225   1000   100   0   Open
+P_Reservoir2_J192   Reservoir2   J192   1089   200   100   0   Open
+P_Reservoir3_J193   Reservoir3   J193   1994   400   100   0   Open
+P_Borewell1_J194   Borewell1   J194   1054   800   100   0   Open
+P_Borewell2_J195   Borewell2   J195   1958   600   100   0   Open
+P_Reservoir1_J196   Reservoir1   J196   2105   200   100   0   Open
+P_Reservoir2_J197   Reservoir2   J197   697   1500   100   0   Open
+P_Reservoir3_J198   Reservoir3   J198   2449   400   100   0   Open
+
+[END]

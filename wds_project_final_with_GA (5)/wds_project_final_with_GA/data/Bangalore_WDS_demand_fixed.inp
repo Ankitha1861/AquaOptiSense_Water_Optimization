@@ -1,0 +1,712 @@
+; Filename: data/Bangalore_WDS_with_heads.inp
+; WNTR: 1.3.2
+; Created: 2025-10-26 18:52:00
+[TITLE]
+Bangalore WDS - Realistic Simulation INP (auto-generated)
+
+[JUNCTIONS]
+;ID                      Elevation       Demand Pattern                 
+ J1                                81    1.3065266898                            ;
+ J2                                82   0.11352990741                            ;
+ J3                                83    1.9705753356                            ;
+ J4                                84    4.6953282755                            ;
+ J5                                85    1.2508902315                            ;
+ J6                                86   0.61841398148                            ;
+ J7                                87    3.4744638079                            ;
+ J8                                88    1.5528685532                            ;
+ J9                                89    4.7821957755                            ;
+ J10                               90   0.32883016204                            ;
+ J11                               91   0.75296208333                            ;
+ J12                               92    1.6262835069                            ;
+ J13                               93   0.86620194444                            ;
+ J14                               94    3.1621723843                            ;
+ J15                               95    1.6870107407                            ;
+ J16                               96    1.0965128588                            ;
+ J17                               97    1.5075181019                            ;
+ J18                               98    1.1602363194                            ;
+ J19                               99   0.98584082176                            ;
+ J20                              100   0.84395459491                            ;
+ J21                              101     1.945341412                            ;
+ J22                              102   0.92322731481                            ;
+ J23                              103    2.2999967014                            ;
+ J24                              104    2.7804597106                            ;
+ J25                               80    1.4209597685                            ;
+ J26                               81    3.0540831481                            ;
+ J27                               82    3.3395789931                            ;
+ J28                               83    2.1191400926                            ;
+ J29                               84    1.5588626042                            ;
+ J30                               85    1.6083883565                            ;
+ J31                               86   0.67312197917                            ;
+ J32                               87    1.3049144444                            ;
+ J33                               88   0.69138736111                            ;
+ J34                               89   0.55569171296                            ;
+ J35                               90    0.9235133912                            ;
+ J36                               91    1.0530728241                            ;
+ J37                               92   0.71508777778                            ;
+ J38                               93    1.5920785995                            ;
+ J39                               94    1.6311414005                            ;
+ J40                               95     -2.3148e-05                            ;
+ J41                               96    2.2593428704                            ;
+ J42                               97    1.2166391898                            ;
+ J43                               98    1.7861737963                            ;
+ J44                               99    1.4380477315                            ;
+ J45                              100    1.2220075231                            ;
+ J46                              101    2.0987321644                            ;
+ J47                              102    0.9259487037                            ;
+ J48                              103   0.42976631944                            ;
+ J49                              104    1.1028784375                            ;
+ J50                               80    4.2575294444                            ;
+ J51                               81    1.5038759606                            ;
+ J52                               82    1.9479384491                            ;
+ J53                               83    2.1840846065                            ;
+ J54                               84    3.6492696181                            ;
+ J55                               85   0.94307792824                            ;
+ J56                               86    2.6401353588                            ;
+ J57                               87   0.94123383102                            ;
+ J58                               88    1.7529910185                            ;
+ J59                               89     1.866878206                            ;
+ J60                               90    1.1384801852                            ;
+ J61                               91   0.91893219907                            ;
+ J62                               92   0.91146638889                            ;
+ J63                               93    1.3884670486                            ;
+ J64                               94    1.0671694213                            ;
+ J65                               95    1.8230098843                            ;
+ J66                               96    1.4031321759                            ;
+ J67                               97    2.0386260417                            ;
+ J68                               98    1.3861658449                            ;
+ J69                               99      2.87061625                            ;
+ J70                              100    2.3282912963                            ;
+ J71                              101    2.7995065278                            ;
+ J72                              102    2.3869317477                            ;
+ J73                              103    2.3642543171                            ;
+ J74                              104    1.8725648032                            ;
+ J75                               80    1.7177743171                            ;
+ J76                               81    1.3714413079                            ;
+ J77                               82    1.3403745718                            ;
+ J78                               83    1.3736724653                            ;
+ J79                               84   0.92590920139                            ;
+ J80                               85    1.7831145255                            ;
+ J81                               86    2.3091759954                            ;
+ J82                               87    2.1779264931                            ;
+ J83                               88   0.53945572917                            ;
+ J84                               89    1.4260985648                            ;
+ J85                               90    5.0849861343                            ;
+ J86                               91    1.8386183333                            ;
+ J87                               92    1.0814339352                            ;
+ J88                               93    1.7627982407                            ;
+ J89                               94    1.4845079398                            ;
+ J90                               95    3.7850238889                            ;
+ J91                               96    1.1118141204                            ;
+ J92                               97    2.4080157755                            ;
+ J93                               98    2.9373392593                            ;
+ J94                               99    4.4496465046                            ;
+ J95                              100   0.69194122685                            ;
+ J96                              101    1.5165926736                            ;
+ J97                              102   0.98198584491                            ;
+ J98                              103   0.95659287037                            ;
+ J99                              104    1.3406547801                            ;
+ J100                              80    1.9915571296                            ;
+ J101                              81    1.1108767361                            ;
+ J102                              82    1.1522196412                            ;
+ J103                              83    1.2571734722                            ;
+ J104                              84   0.78628244213                            ;
+ J105                              85    1.0781332639                            ;
+ J106                              86   0.99257686343                            ;
+ J107                              87    1.0229245833                            ;
+ J108                              88    1.3683003704                            ;
+ J109                              89    1.3094827083                            ;
+ J110                              90    1.5390666204                            ;
+ J111                              91    2.7123269444                            ;
+ J112                              92    2.2923778356                            ;
+ J113                              93    1.5169296759                            ;
+ J114                              94    1.8252747569                            ;
+ J115                              95    1.2559260532                            ;
+ J116                              96     0.731628125                            ;
+ J117                              97    2.8512295949                            ;
+ J118                              98    1.1915040509                            ;
+ J119                              99    1.1555782523                            ;
+ J120                             100   0.73674140046                            ;
+ J121                             101    1.2177165856                            ;
+ J122                             102    1.0189685069                            ;
+ J123                             103    1.0829261227                            ;
+ J124                             104     1.360356794                            ;
+ J125                              80    1.0897547454                            ;
+ J126                              81    1.1768034606                            ;
+ J127                              82    1.5551355787                            ;
+ J128                              83    3.0187539583                            ;
+ J129                              84    3.8650180556                            ;
+ J130                              85    2.2374519213                            ;
+ J131                              86    1.4437469329                            ;
+ J132                              87    2.0122190972                            ;
+ J133                              88   0.97786940972                            ;
+ J134                              89    1.5313871065                            ;
+ J135                              90   0.84541568287                            ;
+ J136                              91    1.5193362731                            ;
+ J137                              92   0.94598261574                            ;
+ J138                              93   0.64572744213                            ;
+ J139                              94   0.62571790509                            ;
+ J140                              95    1.9198642708                            ;
+ J141                              96    1.2708764931                            ;
+ J142                              97   0.76572653935                            ;
+ J143                              98    1.4134279167                            ;
+ J144                              99    1.4699302199                            ;
+ J145                             100    2.3141741435                            ;
+ J146                             101     1.107505544                            ;
+ J147                             102     1.252370162                            ;
+ J148                             103    1.6049609722                            ;
+ J149                             104    1.9376723032                            ;
+ J150                              80    3.8763527431                            ;
+ J151                              81    3.3589608449                            ;
+ J152                              82    1.6700532523                            ;
+ J153                              83     2.065004919                            ;
+ J154                              84    1.5918310764                            ;
+ J155                              85    1.0270805787                            ;
+ J156                              86     1.662925463                            ;
+ J157                              87    1.6072534722                            ;
+ J158                              88   0.89244079861                            ;
+ J159                              89    3.3579085301                            ;
+ J160                              90    5.2634425347                            ;
+ J161                              91    1.9558415046                            ;
+ J162                              92    2.2233297106                            ;
+ J163                              93    1.6955521759                            ;
+ J164                              94    1.2501927083                            ;
+ J165                              95    1.2896018056                            ;
+ J166                              96    1.4020559838                            ;
+ J167                              97    1.2519739583                            ;
+ J168                              98    1.7543207176                            ;
+ J169                              99    1.3566271528                            ;
+ J170                             100    1.2140591319                            ;
+ J171                             101    2.1463277894                            ;
+ J172                             102     2.004451331                            ;
+ J173                             103    1.4586777662                            ;
+ J174                             104    6.6223026505                            ;
+ J175                              80     3.444383831                            ;
+ J176                              81    2.9908499421                            ;
+ J177                              82     2.044671169                            ;
+ J178                              83    2.0503880903                            ;
+ J179                              84      1.31016875                            ;
+ J180                              85    1.3917555556                            ;
+ J181                              86     3.116581331                            ;
+ J182                              87      2.13291375                            ;
+ J183                              88    1.5323240394                            ;
+ J184                              89    3.7901948727                            ;
+ J185                              90    2.2989438773                            ;
+ J186                              91   0.97042626157                            ;
+ J187                              92    1.7956226852                            ;
+ J188                              93    2.9409355903                            ;
+ J189                              94    4.0842692361                            ;
+ J190                              95    1.0590380556                            ;
+ J191                              96    2.0113070718                            ;
+ J192                              97    3.6666312847                            ;
+ J193                              98    4.2012094907                            ;
+ J194                              99    1.1498026042                            ;
+ J195                             100    3.4580855093                            ;
+ J196                             101    3.2996971644                            ;
+ J197                             102    1.7710640394                            ;
+ J198                             103    1.1110404282                            ;
+
+[RESERVOIRS]
+;ID                                   Head                  Pattern
+ Reservoir1                       850                            ;
+ Reservoir2                       830                            ;
+ Reservoir3                       810                            ;
+ Borewell1                        800                            ;
+ Borewell2                        795                            ;
+
+[TANKS]
+;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve         Overflow            
+
+[PIPES]
+;ID                   Node1                Node2                              Length             Diameter            Roughness           Minor Loss               Status
+ P_Reservoir1_J1      Reservoir1           J1                               415             200             100               0                 Open   ;
+ P_Reservoir2_J2      Reservoir2           J2                               491             800             100               0                 Open   ;
+ P_Reservoir3_J3      Reservoir3           J3                              1195            1000             100               0                 Open   ;
+ P_Borewell1_J4       Borewell1            J4                               536             200             100               0                 Open   ;
+ P_Borewell2_J5       Borewell2            J5                              2282            1000             100               0                 Open   ;
+ P_Reservoir1_J6      Reservoir1           J6                               383             600             100               0                 Open   ;
+ P_Reservoir2_J7      Reservoir2           J7                              1479             600             100               0                 Open   ;
+ P_Reservoir3_J8      Reservoir3           J8                              1030             200             100               0                 Open   ;
+ P_Borewell1_J9       Borewell1            J9                              2174            1000             100               0                 Open   ;
+ P_Borewell2_J10      Borewell2            J10                              651             600             100               0                 Open   ;
+ P_Reservoir1_J11     Reservoir1           J11                             1041            1500             100               0                 Open   ;
+ P_Reservoir2_J12     Reservoir2           J12                             1034             400             100               0                 Open   ;
+ P_Reservoir3_J13     Reservoir3           J13                              839             300             100               0                 Open   ;
+ P_Borewell1_J14      Borewell1            J14                              303            1500             100               0                 Open   ;
+ P_Borewell2_J15      Borewell2            J15                             1259             800             100               0                 Open   ;
+ P_Reservoir1_J16     Reservoir1           J16                              492             300             100               0                 Open   ;
+ P_Reservoir2_J17     Reservoir2           J17                             1614             200             100               0                 Open   ;
+ P_Reservoir3_J18     Reservoir3           J18                              453             400             100               0                 Open   ;
+ P_Borewell1_J19      Borewell1            J19                              994             300             100               0                 Open   ;
+ P_Borewell2_J20      Borewell2            J20                             1286             300             100               0                 Open   ;
+ P_Reservoir1_J21     Reservoir1           J21                             2291            1200             100               0                 Open   ;
+ P_Reservoir2_J22     Reservoir2           J22                              504             200             100               0                 Open   ;
+ P_Reservoir3_J23     Reservoir3           J23                              612             200             100               0                 Open   ;
+ P_Borewell1_J24      Borewell1            J24                             2038             600             100               0                 Open   ;
+ P_Borewell2_J25      Borewell2            J25                              346             300             100               0                 Open   ;
+ P_Reservoir1_J26     Reservoir1           J26                             2304             500             100               0                 Open   ;
+ P_Reservoir2_J27     Reservoir2           J27                             1561             400             100               0                 Open   ;
+ P_Reservoir3_J28     Reservoir3           J28                              883            1500             100               0                 Open   ;
+ P_Borewell1_J29      Borewell1            J29                             2143             400             100               0                 Open   ;
+ P_Borewell2_J30      Borewell2            J30                             1991             400             100               0                 Open   ;
+ P_Reservoir1_J31     Reservoir1           J31                             1055             300             100               0                 Open   ;
+ P_Reservoir2_J32     Reservoir2           J32                             2063             800             100               0                 Open   ;
+ P_Reservoir3_J33     Reservoir3           J33                              755             500             100               0                 Open   ;
+ P_Borewell1_J34      Borewell1            J34                             1639             400             100               0                 Open   ;
+ P_Borewell2_J35      Borewell2            J35                             1459             800             100               0                 Open   ;
+ P_Reservoir1_J36     Reservoir1           J36                             2080             300             100               0                 Open   ;
+ P_Reservoir2_J37     Reservoir2           J37                              993             300             100               0                 Open   ;
+ P_Reservoir3_J38     Reservoir3           J38                             1176            1000             100               0                 Open   ;
+ P_Borewell1_J39      Borewell1            J39                             1992             500             100               0                 Open   ;
+ P_Borewell2_J40      Borewell2            J40                             1428            1200             100               0                 Open   ;
+ P_Reservoir1_J41     Reservoir1           J41                             1806             500             100               0                 Open   ;
+ P_Reservoir2_J42     Reservoir2           J42                             1704            1500             100               0                 Open   ;
+ P_Reservoir3_J43     Reservoir3           J43                             1766             800             100               0                 Open   ;
+ P_Borewell1_J44      Borewell1            J44                             2258             200             100               0                 Open   ;
+ P_Borewell2_J45      Borewell2            J45                             1369            1000             100               0                 Open   ;
+ P_Reservoir1_J46     Reservoir1           J46                             1770             300             100               0                 Open   ;
+ P_Reservoir2_J47     Reservoir2           J47                             1123             400             100               0                 Open   ;
+ P_Reservoir3_J48     Reservoir3           J48                              370             200             100               0                 Open   ;
+ P_Borewell1_J49      Borewell1            J49                             1959             200             100               0                 Open   ;
+ P_Borewell2_J50      Borewell2            J50                              699            1000             100               0                 Open   ;
+ P_Reservoir1_J51     Reservoir1           J51                             2104             800             100               0                 Open   ;
+ P_Reservoir2_J52     Reservoir2           J52                             2310             800             100               0                 Open   ;
+ P_Reservoir3_J53     Reservoir3           J53                             1747             300             100               0                 Open   ;
+ P_Borewell1_J54      Borewell1            J54                              674             300             100               0                 Open   ;
+ P_Borewell2_J55      Borewell2            J55                             1041             600             100               0                 Open   ;
+ P_Reservoir1_J56     Reservoir1           J56                             1160             300             100               0                 Open   ;
+ P_Reservoir2_J57     Reservoir2           J57                              461             500             100               0                 Open   ;
+ P_Reservoir3_J58     Reservoir3           J58                             1304             600             100               0                 Open   ;
+ P_Borewell1_J59      Borewell1            J59                             1560            1500             100               0                 Open   ;
+ P_Borewell2_J60      Borewell2            J60                             1039            1000             100               0                 Open   ;
+ P_Reservoir1_J61     Reservoir1           J61                              715             300             100               0                 Open   ;
+ P_Reservoir2_J62     Reservoir2           J62                              493            1200             100               0                 Open   ;
+ P_Reservoir3_J63     Reservoir3           J63                             1682             400             100               0                 Open   ;
+ P_Borewell1_J64      Borewell1            J64                              328            1500             100               0                 Open   ;
+ P_Borewell2_J65      Borewell2            J65                             1074             300             100               0                 Open   ;
+ P_Reservoir1_J66     Reservoir1           J66                              804            1200             100               0                 Open   ;
+ P_Reservoir2_J67     Reservoir2           J67                             1470             200             100               0                 Open   ;
+ P_Reservoir3_J68     Reservoir3           J68                             1892             500             100               0                 Open   ;
+ P_Borewell1_J69      Borewell1            J69                             2300            1500             100               0                 Open   ;
+ P_Borewell2_J70      Borewell2            J70                             1705             300             100               0                 Open   ;
+ P_Reservoir1_J71     Reservoir1           J71                             2481             200             100               0                 Open   ;
+ P_Reservoir2_J72     Reservoir2           J72                             2420            1500             100               0                 Open   ;
+ P_Reservoir3_J73     Reservoir3           J73                             1685             400             100               0                 Open   ;
+ P_Borewell1_J74      Borewell1            J74                              813             400             100               0                 Open   ;
+ P_Borewell2_J75      Borewell2            J75                             1364             800             100               0                 Open   ;
+ P_Reservoir1_J76     Reservoir1           J76                              690             800             100               0                 Open   ;
+ P_Reservoir2_J77     Reservoir2           J77                             2482             200             100               0                 Open   ;
+ P_Reservoir3_J78     Reservoir3           J78                             1277            1000             100               0                 Open   ;
+ P_Borewell1_J79      Borewell1            J79                             1953             300             100               0                 Open   ;
+ P_Borewell2_J80      Borewell2            J80                              397             200             100               0                 Open   ;
+ P_Reservoir1_J81     Reservoir1           J81                              596             200             100               0                 Open   ;
+ P_Reservoir2_J82     Reservoir2           J82                              724            1000             100               0                 Open   ;
+ P_Reservoir3_J83     Reservoir3           J83                              863             200             100               0                 Open   ;
+ P_Borewell1_J84      Borewell1            J84                             1074             200             100               0                 Open   ;
+ P_Borewell2_J85      Borewell2            J85                              898            1000             100               0                 Open   ;
+ P_Reservoir1_J86     Reservoir1           J86                             1255             800             100               0                 Open   ;
+ P_Reservoir2_J87     Reservoir2           J87                             1224            1000             100               0                 Open   ;
+ P_Reservoir3_J88     Reservoir3           J88                              538            1200             100               0                 Open   ;
+ P_Borewell1_J89      Borewell1            J89                              437            1500             100               0                 Open   ;
+ P_Borewell2_J90      Borewell2            J90                             1081            1200             100               0                 Open   ;
+ P_Reservoir1_J91     Reservoir1           J91                              495             400             100               0                 Open   ;
+ P_Reservoir2_J92     Reservoir2           J92                             1253             300             100               0                 Open   ;
+ P_Reservoir3_J93     Reservoir3           J93                              318             500             100               0                 Open   ;
+ P_Borewell1_J94      Borewell1            J94                             1478             200             100               0                 Open   ;
+ P_Borewell2_J95      Borewell2            J95                              461             500             100               0                 Open   ;
+ P_Reservoir1_J96     Reservoir1           J96                             1827             600             100               0                 Open   ;
+ P_Reservoir2_J97     Reservoir2           J97                             1189            1200             100               0                 Open   ;
+ P_Reservoir3_J98     Reservoir3           J98                             2467             400             100               0                 Open   ;
+ P_Borewell1_J99      Borewell1            J99                              877            1000             100               0                 Open   ;
+ P_Borewell2_J100     Borewell2            J100                            1339            1000             100               0                 Open   ;
+ P_Reservoir1_J101    Reservoir1           J101                            1951             500             100               0                 Open   ;
+ P_Reservoir2_J102    Reservoir2           J102                            1036             200             100               0                 Open   ;
+ P_Reservoir3_J103    Reservoir3           J103                            1066             200             100               0                 Open   ;
+ P_Borewell1_J104     Borewell1            J104                            1706            1200             100               0                 Open   ;
+ P_Borewell2_J105     Borewell2            J105                            2433            1500             100               0                 Open   ;
+ P_Reservoir1_J106    Reservoir1           J106                            2244             800             100               0                 Open   ;
+ P_Reservoir2_J107    Reservoir2           J107                            1221             600             100               0                 Open   ;
+ P_Reservoir3_J108    Reservoir3           J108                            1878             400             100               0                 Open   ;
+ P_Borewell1_J109     Borewell1            J109                            1793            1000             100               0                 Open   ;
+ P_Borewell2_J110     Borewell2            J110                            1118            1000             100               0                 Open   ;
+ P_Reservoir1_J111    Reservoir1           J111                             816            1500             100               0                 Open   ;
+ P_Reservoir2_J112    Reservoir2           J112                             472             300             100               0                 Open   ;
+ P_Reservoir3_J113    Reservoir3           J113                            2233             400             100               0                 Open   ;
+ P_Borewell1_J114     Borewell1            J114                             425             200             100               0                 Open   ;
+ P_Borewell2_J115     Borewell2            J115                            1441            1500             100               0                 Open   ;
+ P_Reservoir1_J116    Reservoir1           J116                            1482            1500             100               0                 Open   ;
+ P_Reservoir2_J117    Reservoir2           J117                             621             200             100               0                 Open   ;
+ P_Reservoir3_J118    Reservoir3           J118                            1743             300             100               0                 Open   ;
+ P_Borewell1_J119     Borewell1            J119                            2314             800             100               0                 Open   ;
+ P_Borewell2_J120     Borewell2            J120                            2007             300             100               0                 Open   ;
+ P_Reservoir1_J121    Reservoir1           J121                            1156            1000             100               0                 Open   ;
+ P_Reservoir2_J122    Reservoir2           J122                             578             500             100               0                 Open   ;
+ P_Reservoir3_J123    Reservoir3           J123                            2444             600             100               0                 Open   ;
+ P_Borewell1_J124     Borewell1            J124                            1437             600             100               0                 Open   ;
+ P_Borewell2_J125     Borewell2            J125                            1685             300             100               0                 Open   ;
+ P_Reservoir1_J126    Reservoir1           J126                            2065            1500             100               0                 Open   ;
+ P_Reservoir2_J127    Reservoir2           J127                            1149             600             100               0                 Open   ;
+ P_Reservoir3_J128    Reservoir3           J128                             436             800             100               0                 Open   ;
+ P_Borewell1_J129     Borewell1            J129                             599             200             100               0                 Open   ;
+ P_Borewell2_J130     Borewell2            J130                            1770            1500             100               0                 Open   ;
+ P_Reservoir1_J131    Reservoir1           J131                            1068            1000             100               0                 Open   ;
+ P_Reservoir2_J132    Reservoir2           J132                            2216             300             100               0                 Open   ;
+ P_Reservoir3_J133    Reservoir3           J133                            1928            1000             100               0                 Open   ;
+ P_Borewell1_J134     Borewell1            J134                            2456            1000             100               0                 Open   ;
+ P_Borewell2_J135     Borewell2            J135                            1771            1000             100               0                 Open   ;
+ P_Reservoir1_J136    Reservoir1           J136                             968             400             100               0                 Open   ;
+ P_Reservoir2_J137    Reservoir2           J137                            2040            1500             100               0                 Open   ;
+ P_Reservoir3_J138    Reservoir3           J138                             362            1000             100               0                 Open   ;
+ P_Borewell1_J139     Borewell1            J139                            1447             800             100               0                 Open   ;
+ P_Borewell2_J140     Borewell2            J140                            2217             800             100               0                 Open   ;
+ P_Reservoir1_J141    Reservoir1           J141                            1432            1000             100               0                 Open   ;
+ P_Reservoir2_J142    Reservoir2           J142                             602             300             100               0                 Open   ;
+ P_Reservoir3_J143    Reservoir3           J143                            1400            1200             100               0                 Open   ;
+ P_Borewell1_J144     Borewell1            J144                            1500            1000             100               0                 Open   ;
+ P_Borewell2_J145     Borewell2            J145                            1111             600             100               0                 Open   ;
+ P_Reservoir1_J146    Reservoir1           J146                            2265             200             100               0                 Open   ;
+ P_Reservoir2_J147    Reservoir2           J147                            1048             500             100               0                 Open   ;
+ P_Reservoir3_J148    Reservoir3           J148                             897            1000             100               0                 Open   ;
+ P_Borewell1_J149     Borewell1            J149                            1413             400             100               0                 Open   ;
+ P_Borewell2_J150     Borewell2            J150                             747             500             100               0                 Open   ;
+ P_Reservoir1_J151    Reservoir1           J151                            1008            1200             100               0                 Open   ;
+ P_Reservoir2_J152    Reservoir2           J152                            1175             200             100               0                 Open   ;
+ P_Reservoir3_J153    Reservoir3           J153                            2364             600             100               0                 Open   ;
+ P_Borewell1_J154     Borewell1            J154                             476             300             100               0                 Open   ;
+ P_Borewell2_J155     Borewell2            J155                             733             400             100               0                 Open   ;
+ P_Reservoir1_J156    Reservoir1           J156                             738             600             100               0                 Open   ;
+ P_Reservoir2_J157    Reservoir2           J157                            2489             500             100               0                 Open   ;
+ P_Reservoir3_J158    Reservoir3           J158                            2259             800             100               0                 Open   ;
+ P_Borewell1_J159     Borewell1            J159                             727            1500             100               0                 Open   ;
+ P_Borewell2_J160     Borewell2            J160                            1542             400             100               0                 Open   ;
+ P_Reservoir1_J161    Reservoir1           J161                             487             300             100               0                 Open   ;
+ P_Reservoir2_J162    Reservoir2           J162                             997             600             100               0                 Open   ;
+ P_Reservoir3_J163    Reservoir3           J163                            1050            1000             100               0                 Open   ;
+ P_Borewell1_J164     Borewell1            J164                            1482             200             100               0                 Open   ;
+ P_Borewell2_J165     Borewell2            J165                            2344             600             100               0                 Open   ;
+ P_Reservoir1_J166    Reservoir1           J166                            2079             300             100               0                 Open   ;
+ P_Reservoir2_J167    Reservoir2           J167                            1475             300             100               0                 Open   ;
+ P_Reservoir3_J168    Reservoir3           J168                            2029            1200             100               0                 Open   ;
+ P_Borewell1_J169     Borewell1            J169                            1364             400             100               0                 Open   ;
+ P_Borewell2_J170     Borewell2            J170                            1907            1000             100               0                 Open   ;
+ P_Reservoir1_J171    Reservoir1           J171                            2009             500             100               0                 Open   ;
+ P_Reservoir2_J172    Reservoir2           J172                             865             500             100               0                 Open   ;
+ P_Reservoir3_J173    Reservoir3           J173                            2132             500             100               0                 Open   ;
+ P_Borewell1_J174     Borewell1            J174                            1571             400             100               0                 Open   ;
+ P_Borewell2_J175     Borewell2            J175                            1369            1500             100               0                 Open   ;
+ P_Reservoir1_J176    Reservoir1           J176                            1170             600             100               0                 Open   ;
+ P_Reservoir2_J177    Reservoir2           J177                             793             400             100               0                 Open   ;
+ P_Reservoir3_J178    Reservoir3           J178                            1402            1500             100               0                 Open   ;
+ P_Borewell1_J179     Borewell1            J179                             577             800             100               0                 Open   ;
+ P_Borewell2_J180     Borewell2            J180                            1696             500             100               0                 Open   ;
+ P_Reservoir1_J181    Reservoir1           J181                            2276            1200             100               0                 Open   ;
+ P_Reservoir2_J182    Reservoir2           J182                            2039             600             100               0                 Open   ;
+ P_Reservoir3_J183    Reservoir3           J183                            1640             200             100               0                 Open   ;
+ P_Borewell1_J184     Borewell1            J184                            1387             300             100               0                 Open   ;
+ P_Borewell2_J185     Borewell2            J185                            1830             600             100               0                 Open   ;
+ P_Reservoir1_J186    Reservoir1           J186                             569            1200             100               0                 Open   ;
+ P_Reservoir2_J187    Reservoir2           J187                             415             500             100               0                 Open   ;
+ P_Reservoir3_J188    Reservoir3           J188                            2195             400             100               0                 Open   ;
+ P_Borewell1_J189     Borewell1            J189                            1096            1000             100               0                 Open   ;
+ P_Borewell2_J190     Borewell2            J190                            1771             300             100               0                 Open   ;
+ P_Reservoir1_J191    Reservoir1           J191                            1225            1000             100               0                 Open   ;
+ P_Reservoir2_J192    Reservoir2           J192                            1089             800             100               0                 Open   ;
+ P_Reservoir3_J193    Reservoir3           J193                            1994            1500             100               0                 Open   ;
+ P_Borewell1_J194     Borewell1            J194                            1054             500             100               0                 Open   ;
+ P_Borewell2_J195     Borewell2            J195                            1958             600             100               0                 Open   ;
+ P_Reservoir1_J196    Reservoir1           J196                            2105             300             100               0                 Open   ;
+ P_Reservoir2_J197    Reservoir2           J197                             697             400             100               0                 Open   ;
+ P_Reservoir3_J198    Reservoir3           J198                            2449             800             100               0                 Open   ;
+
+[PUMPS]
+;ID                   Node1                Node2                Properties          
+
+[VALVES]
+;ID                   Node1                Node2                            Diameter Type              Setting           Minor Loss
+
+[TAGS]
+;type      name       tag       
+
+[DEMANDS]
+;ID        Demand     Pattern   
+
+[STATUS]
+;ID        Setting   
+
+[PATTERNS]
+;ID        Multipliers
+
+[CURVES]
+;ID         X-Value      Y-Value     
+
+[CONTROLS]
+
+[RULES]
+
+[ENERGY]
+GLOBAL PRICE           0.0000
+
+[EMITTERS]
+;ID        Flow coefficient
+
+[QUALITY]
+
+[SOURCES]
+;Node      Type       Quality    Pattern   
+
+[REACTIONS]
+;Type           Pipe/Tank               Coefficient
+
+ ORDER BULK 1
+ ORDER TANK 1
+ ORDER WALL 1
+ GLOBAL BULK 0.0000    
+ GLOBAL WALL 0.0000    
+
+[MIXING]
+;Tank ID             Model Fraction
+
+[TIMES]
+DURATION             00:00:00
+HYDRAULIC TIMESTEP   01:00:00
+QUALITY TIMESTEP     00:06:00
+PATTERN TIMESTEP     01:00:00
+PATTERN START        00:00:00
+REPORT TIMESTEP      01:00:00
+REPORT START         00:00:00
+START CLOCKTIME      00:00:00 AM
+RULE TIMESTEP        00:06:00
+STATISTIC            NONE      
+
+[REPORT]
+
+[OPTIONS]
+UNITS                LPS                 
+HEADLOSS             H-W                 
+SPECIFIC GRAVITY     1
+VISCOSITY            1
+TRIALS               200
+ACCURACY             0.001
+CHECKFREQ            2
+MAXCHECK             10
+UNBALANCED           STOP                
+DEMAND MULTIPLIER    1
+EMITTER EXPONENT     0.5
+QUALITY              NONE                
+DIFFUSIVITY          1
+TOLERANCE            0.01
+
+[COORDINATES]
+;Node      X-Coord    Y-Coord   
+J1                  0.000000000          0.000000000
+J2                  0.000000000          0.000000000
+J3                  0.000000000          0.000000000
+J4                  0.000000000          0.000000000
+J5                  0.000000000          0.000000000
+J6                  0.000000000          0.000000000
+J7                  0.000000000          0.000000000
+J8                  0.000000000          0.000000000
+J9                  0.000000000          0.000000000
+J10                 0.000000000          0.000000000
+J11                 0.000000000          0.000000000
+J12                 0.000000000          0.000000000
+J13                 0.000000000          0.000000000
+J14                 0.000000000          0.000000000
+J15                 0.000000000          0.000000000
+J16                 0.000000000          0.000000000
+J17                 0.000000000          0.000000000
+J18                 0.000000000          0.000000000
+J19                 0.000000000          0.000000000
+J20                 0.000000000          0.000000000
+J21                 0.000000000          0.000000000
+J22                 0.000000000          0.000000000
+J23                 0.000000000          0.000000000
+J24                 0.000000000          0.000000000
+J25                 0.000000000          0.000000000
+J26                 0.000000000          0.000000000
+J27                 0.000000000          0.000000000
+J28                 0.000000000          0.000000000
+J29                 0.000000000          0.000000000
+J30                 0.000000000          0.000000000
+J31                 0.000000000          0.000000000
+J32                 0.000000000          0.000000000
+J33                 0.000000000          0.000000000
+J34                 0.000000000          0.000000000
+J35                 0.000000000          0.000000000
+J36                 0.000000000          0.000000000
+J37                 0.000000000          0.000000000
+J38                 0.000000000          0.000000000
+J39                 0.000000000          0.000000000
+J40                 0.000000000          0.000000000
+J41                 0.000000000          0.000000000
+J42                 0.000000000          0.000000000
+J43                 0.000000000          0.000000000
+J44                 0.000000000          0.000000000
+J45                 0.000000000          0.000000000
+J46                 0.000000000          0.000000000
+J47                 0.000000000          0.000000000
+J48                 0.000000000          0.000000000
+J49                 0.000000000          0.000000000
+J50                 0.000000000          0.000000000
+J51                 0.000000000          0.000000000
+J52                 0.000000000          0.000000000
+J53                 0.000000000          0.000000000
+J54                 0.000000000          0.000000000
+J55                 0.000000000          0.000000000
+J56                 0.000000000          0.000000000
+J57                 0.000000000          0.000000000
+J58                 0.000000000          0.000000000
+J59                 0.000000000          0.000000000
+J60                 0.000000000          0.000000000
+J61                 0.000000000          0.000000000
+J62                 0.000000000          0.000000000
+J63                 0.000000000          0.000000000
+J64                 0.000000000          0.000000000
+J65                 0.000000000          0.000000000
+J66                 0.000000000          0.000000000
+J67                 0.000000000          0.000000000
+J68                 0.000000000          0.000000000
+J69                 0.000000000          0.000000000
+J70                 0.000000000          0.000000000
+J71                 0.000000000          0.000000000
+J72                 0.000000000          0.000000000
+J73                 0.000000000          0.000000000
+J74                 0.000000000          0.000000000
+J75                 0.000000000          0.000000000
+J76                 0.000000000          0.000000000
+J77                 0.000000000          0.000000000
+J78                 0.000000000          0.000000000
+J79                 0.000000000          0.000000000
+J80                 0.000000000          0.000000000
+J81                 0.000000000          0.000000000
+J82                 0.000000000          0.000000000
+J83                 0.000000000          0.000000000
+J84                 0.000000000          0.000000000
+J85                 0.000000000          0.000000000
+J86                 0.000000000          0.000000000
+J87                 0.000000000          0.000000000
+J88                 0.000000000          0.000000000
+J89                 0.000000000          0.000000000
+J90                 0.000000000          0.000000000
+J91                 0.000000000          0.000000000
+J92                 0.000000000          0.000000000
+J93                 0.000000000          0.000000000
+J94                 0.000000000          0.000000000
+J95                 0.000000000          0.000000000
+J96                 0.000000000          0.000000000
+J97                 0.000000000          0.000000000
+J98                 0.000000000          0.000000000
+J99                 0.000000000          0.000000000
+J100                0.000000000          0.000000000
+J101                0.000000000          0.000000000
+J102                0.000000000          0.000000000
+J103                0.000000000          0.000000000
+J104                0.000000000          0.000000000
+J105                0.000000000          0.000000000
+J106                0.000000000          0.000000000
+J107                0.000000000          0.000000000
+J108                0.000000000          0.000000000
+J109                0.000000000          0.000000000
+J110                0.000000000          0.000000000
+J111                0.000000000          0.000000000
+J112                0.000000000          0.000000000
+J113                0.000000000          0.000000000
+J114                0.000000000          0.000000000
+J115                0.000000000          0.000000000
+J116                0.000000000          0.000000000
+J117                0.000000000          0.000000000
+J118                0.000000000          0.000000000
+J119                0.000000000          0.000000000
+J120                0.000000000          0.000000000
+J121                0.000000000          0.000000000
+J122                0.000000000          0.000000000
+J123                0.000000000          0.000000000
+J124                0.000000000          0.000000000
+J125                0.000000000          0.000000000
+J126                0.000000000          0.000000000
+J127                0.000000000          0.000000000
+J128                0.000000000          0.000000000
+J129                0.000000000          0.000000000
+J130                0.000000000          0.000000000
+J131                0.000000000          0.000000000
+J132                0.000000000          0.000000000
+J133                0.000000000          0.000000000
+J134                0.000000000          0.000000000
+J135                0.000000000          0.000000000
+J136                0.000000000          0.000000000
+J137                0.000000000          0.000000000
+J138                0.000000000          0.000000000
+J139                0.000000000          0.000000000
+J140                0.000000000          0.000000000
+J141                0.000000000          0.000000000
+J142                0.000000000          0.000000000
+J143                0.000000000          0.000000000
+J144                0.000000000          0.000000000
+J145                0.000000000          0.000000000
+J146                0.000000000          0.000000000
+J147                0.000000000          0.000000000
+J148                0.000000000          0.000000000
+J149                0.000000000          0.000000000
+J150                0.000000000          0.000000000
+J151                0.000000000          0.000000000
+J152                0.000000000          0.000000000
+J153                0.000000000          0.000000000
+J154                0.000000000          0.000000000
+J155                0.000000000          0.000000000
+J156                0.000000000          0.000000000
+J157                0.000000000          0.000000000
+J158                0.000000000          0.000000000
+J159                0.000000000          0.000000000
+J160                0.000000000          0.000000000
+J161                0.000000000          0.000000000
+J162                0.000000000          0.000000000
+J163                0.000000000          0.000000000
+J164                0.000000000          0.000000000
+J165                0.000000000          0.000000000
+J166                0.000000000          0.000000000
+J167                0.000000000          0.000000000
+J168                0.000000000          0.000000000
+J169                0.000000000          0.000000000
+J170                0.000000000          0.000000000
+J171                0.000000000          0.000000000
+J172                0.000000000          0.000000000
+J173                0.000000000          0.000000000
+J174                0.000000000          0.000000000
+J175                0.000000000          0.000000000
+J176                0.000000000          0.000000000
+J177                0.000000000          0.000000000
+J178                0.000000000          0.000000000
+J179                0.000000000          0.000000000
+J180                0.000000000          0.000000000
+J181                0.000000000          0.000000000
+J182                0.000000000          0.000000000
+J183                0.000000000          0.000000000
+J184                0.000000000          0.000000000
+J185                0.000000000          0.000000000
+J186                0.000000000          0.000000000
+J187                0.000000000          0.000000000
+J188                0.000000000          0.000000000
+J189                0.000000000          0.000000000
+J190                0.000000000          0.000000000
+J191                0.000000000          0.000000000
+J192                0.000000000          0.000000000
+J193                0.000000000          0.000000000
+J194                0.000000000          0.000000000
+J195                0.000000000          0.000000000
+J196                0.000000000          0.000000000
+J197                0.000000000          0.000000000
+J198                0.000000000          0.000000000
+Reservoir1          0.000000000          0.000000000
+Reservoir2          0.000000000          0.000000000
+Reservoir3          0.000000000          0.000000000
+Borewell1           0.000000000          0.000000000
+Borewell2           0.000000000          0.000000000
+
+[VERTICES]
+;Link      X-Coord    Y-Coord   
+
+[LABELS]
+
+[BACKDROP]
+UNITS    NONE
+
+[END]
