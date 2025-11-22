@@ -1,0 +1,3419 @@
+{
+  "stats": {
+    "totalFeatures": 243,
+    "matchedFeatures": 224,
+    "byMatchMethod": {
+      "exact": 78,
+      "contains": 17,
+      "id": 0,
+      "fuzzy": 129,
+      "none": 19
+    },
+    "uniqueWardsMapped": 181,
+    "totalWardData": 198
+  },
+  "mappings": [
+    {
+      "featureIndex": 0,
+      "KGISWardNo": "1",
+      "KGISWardName": "Kempegowda Ward",
+      "matchedWardId": "kempegowda ward",
+      "matchedWardName": "Kempegowda Ward",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 28479.62514450001,
+        "y": 4811.513398999997,
+        "count": 367
+      }
+    },
+    {
+      "featureIndex": 1,
+      "KGISWardNo": "2",
+      "KGISWardName": "Chowdeswari Ward",
+      "matchedWardId": "chowdeshwari ward",
+      "matchedWardName": "Chowdeshwari Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9411764705882353,
+      "centroid": {
+        "x": 31652.678803799976,
+        "y": 5352.99211,
+        "count": 408
+      }
+    },
+    {
+      "featureIndex": 2,
+      "KGISWardNo": "3",
+      "KGISWardName": "Someshwara Ward",
+      "matchedWardId": "chowdeshwari ward",
+      "matchedWardName": "Chowdeshwari Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7058823529411764,
+      "centroid": {
+        "x": 24513.007053600002,
+        "y": 4141.338140700001,
+        "count": 316
+      }
+    },
+    {
+      "featureIndex": 3,
+      "KGISWardNo": "4",
+      "KGISWardName": "Atturu Layout",
+      "matchedWardId": "attur",
+      "matchedWardName": "Attur",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 28541.13756150001,
+        "y": 4820.075960999997,
+        "count": 368
+      }
+    },
+    {
+      "featureIndex": 4,
+      "KGISWardNo": "5",
+      "KGISWardName": "Yelahanka Satellite Town",
+      "matchedWardId": "yelahanka satellite town",
+      "matchedWardName": "Yelahanka Satellite Town",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14120.689420000002,
+        "y": 2382.810373199999,
+        "count": 182
+      }
+    },
+    {
+      "featureIndex": 5,
+      "KGISWardNo": "17",
+      "KGISWardName": "Shettihalli",
+      "matchedWardId": "shettyhalli",
+      "matchedWardName": "Shettyhalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 36508.91193050001,
+        "y": 6152.735654800005,
+        "count": 471
+      }
+    },
+    {
+      "featureIndex": 6,
+      "KGISWardNo": "20",
+      "KGISWardName": "Mallasandra",
+      "matchedWardId": "mallasandra",
+      "matchedWardName": "Mallasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 22091.767987299983,
+        "y": 3720.4460443000025,
+        "count": 285
+      }
+    },
+    {
+      "featureIndex": 7,
+      "KGISWardNo": "59",
+      "KGISWardName": "Mattikere",
+      "matchedWardId": "mathikere",
+      "matchedWardName": "Mathikere",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8888888888888888,
+      "centroid": {
+        "x": 15434.679410900004,
+        "y": 2593.1111624000005,
+        "count": 199
+      }
+    },
+    {
+      "featureIndex": 8,
+      "KGISWardNo": "60",
+      "KGISWardName": "Aramane Nagara",
+      "matchedWardId": "aramane nagar",
+      "matchedWardName": "Aramane Nagar",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 31340.731083299994,
+        "y": 5258.654100600002,
+        "count": 404
+      }
+    },
+    {
+      "featureIndex": 9,
+      "KGISWardNo": "61",
+      "KGISWardName": "Malleswaram",
+      "matchedWardId": "malleshwaram",
+      "matchedWardName": "Malleshwaram",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9166666666666666,
+      "centroid": {
+        "x": 15124.285439599997,
+        "y": 2538.4903649999987,
+        "count": 195
+      }
+    },
+    {
+      "featureIndex": 10,
+      "KGISWardNo": "37",
+      "KGISWardName": "Chanakya",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 13029.1805485,
+        "y": 2188.3888807,
+        "count": 168
+      }
+    },
+    {
+      "featureIndex": 11,
+      "KGISWardNo": "41",
+      "KGISWardName": "Peenya",
+      "matchedWardId": "peenya industrial area",
+      "matchedWardName": "Peenya Industrial Area",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 18683.979804499995,
+        "y": 3139.0302453000013,
+        "count": 241
+      }
+    },
+    {
+      "featureIndex": 12,
+      "KGISWardNo": "23",
+      "KGISWardName": "Nelagadderanahalli",
+      "matchedWardId": "devarajeevanahalli",
+      "matchedWardName": "Devarajeevanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 25034.125509400015,
+        "y": 4205.7733507,
+        "count": 323
+      }
+    },
+    {
+      "featureIndex": 13,
+      "KGISWardNo": "53",
+      "KGISWardName": "Nandini Layout",
+      "matchedWardId": "nandini layout",
+      "matchedWardName": "Nandini Layout",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14654.179956299991,
+        "y": 2459.7401057999987,
+        "count": 189
+      }
+    },
+    {
+      "featureIndex": 14,
+      "KGISWardNo": "50",
+      "KGISWardName": "Marappana Palya",
+      "matchedWardId": "gurappanapalya",
+      "matchedWardName": "Gurappanapalya",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8,
+      "centroid": {
+        "x": 15198.448489899998,
+        "y": 2550.8101288999997,
+        "count": 196
+      }
+    },
+    {
+      "featureIndex": 15,
+      "KGISWardNo": "62",
+      "KGISWardName": "Subramanya Nagar",
+      "matchedWardId": "subramanyanagar",
+      "matchedWardName": "Subramanyanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 12021.365498200006,
+        "y": 2015.9164925999994,
+        "count": 155
+      }
+    },
+    {
+      "featureIndex": 16,
+      "KGISWardNo": "64",
+      "KGISWardName": "Kadu Malleshwara",
+      "matchedWardId": "kadumalleshwara",
+      "matchedWardName": "Kadumalleshwara",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 15591.463031400002,
+        "y": 2613.6374332000005,
+        "count": 201
+      }
+    },
+    {
+      "featureIndex": 17,
+      "KGISWardNo": "65",
+      "KGISWardName": "Rajamahal Guttahalli",
+      "matchedWardId": "rajamahal",
+      "matchedWardName": "Rajamahal",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 10550.623301599995,
+        "y": 1768.1182234,
+        "count": 136
+      }
+    },
+    {
+      "featureIndex": 18,
+      "KGISWardNo": "119",
+      "KGISWardName": "New Bayappanahalli",
+      "matchedWardId": "marappanahalli",
+      "matchedWardName": "Marappanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 16224.7194438,
+        "y": 2714.930903299999,
+        "count": 209
+      }
+    },
+    {
+      "featureIndex": 19,
+      "KGISWardNo": "132",
+      "KGISWardName": "Dattatreya Temple",
+      "matchedWardId": "dattathreya temple",
+      "matchedWardName": "Dattathreya Temple",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9444444444444444,
+      "centroid": {
+        "x": 13653.127641700004,
+        "y": 2287.5151281999983,
+        "count": 176
+      }
+    },
+    {
+      "featureIndex": 20,
+      "KGISWardNo": "134",
+      "KGISWardName": "Subhash Nagar",
+      "matchedWardId": "subhashnagar",
+      "matchedWardName": "Subhashnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9230769230769231,
+      "centroid": {
+        "x": 21176.138808999975,
+        "y": 3544.351702799998,
+        "count": 273
+      }
+    },
+    {
+      "featureIndex": 21,
+      "KGISWardNo": "63",
+      "KGISWardName": "Gayithri Nagar",
+      "matchedWardId": "gayathrinagar",
+      "matchedWardName": "Gayathrinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8571428571428572,
+      "centroid": {
+        "x": 16209.9497384,
+        "y": 2716.581709300001,
+        "count": 209
+      }
+    },
+    {
+      "featureIndex": 22,
+      "KGISWardNo": "26",
+      "KGISWardName": "Hegganahalli",
+      "matchedWardId": "hegganahalli",
+      "matchedWardName": "Hegganahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 37825.71286049996,
+        "y": 6345.123230100001,
+        "count": 488
+      }
+    },
+    {
+      "featureIndex": 23,
+      "KGISWardNo": "27",
+      "KGISWardName": "Sunkadakatte",
+      "matchedWardId": "konanakunte",
+      "matchedWardName": "Konanakunte",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5,
+      "centroid": {
+        "x": 24258.01853500001,
+        "y": 4067.8753927999996,
+        "count": 313
+      }
+    },
+    {
+      "featureIndex": 24,
+      "KGISWardNo": "45",
+      "KGISWardName": "Vijayanagara Krishnadevaraya",
+      "matchedWardId": "jayanagar",
+      "matchedWardName": "Jayanagar",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 34339.526623100006,
+        "y": 5751.979198399996,
+        "count": 443
+      }
+    },
+    {
+      "featureIndex": 25,
+      "KGISWardNo": "56",
+      "KGISWardName": "Shankar Matt",
+      "matchedWardId": "shankaramata",
+      "matchedWardName": "Shankaramata",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "centroid": {
+        "x": 15738.913793200007,
+        "y": 2638.460263999999,
+        "count": 203
+      }
+    },
+    {
+      "featureIndex": 26,
+      "KGISWardNo": "57",
+      "KGISWardName": "Shakthi Ganapathi Nagar",
+      "matchedWardId": "shakthiganapathi nagar",
+      "matchedWardName": "Shakthiganapathi Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9565217391304348,
+      "centroid": {
+        "x": 13025.040821799998,
+        "y": 2182.989983099999,
+        "count": 168
+      }
+    },
+    {
+      "featureIndex": 27,
+      "KGISWardNo": "58",
+      "KGISWardName": "Vrisabhavathi Nagar",
+      "matchedWardId": "vrushabhavathi nagar",
+      "matchedWardName": "Vrushabhavathi Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 12869.38067890001,
+        "y": 2156.1300567000003,
+        "count": 166
+      }
+    },
+    {
+      "featureIndex": 28,
+      "KGISWardNo": "145",
+      "KGISWardName": "Kamakshipalya",
+      "matchedWardId": "kamakshipalya",
+      "matchedWardName": "Kamakshipalya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 11552.475464299998,
+        "y": 1935.007261500001,
+        "count": 149
+      }
+    },
+    {
+      "featureIndex": 29,
+      "KGISWardNo": "144",
+      "KGISWardName": "Basaveshwara Nagar",
+      "matchedWardId": "basaveshwaranagar",
+      "matchedWardName": "Basaveshwaranagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9444444444444444,
+      "centroid": {
+        "x": 11011.183546600003,
+        "y": 1844.8398535000003,
+        "count": 142
+      }
+    },
+    {
+      "featureIndex": 30,
+      "KGISWardNo": "143",
+      "KGISWardName": "Shivanagara",
+      "matchedWardId": "shivanagar",
+      "matchedWardName": "Shivanagar",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 10624.236955999993,
+        "y": 1779.4060153999992,
+        "count": 137
+      }
+    },
+    {
+      "featureIndex": 31,
+      "KGISWardNo": "141",
+      "KGISWardName": "Rajaji Nagar",
+      "matchedWardId": "rajajinagar",
+      "matchedWardName": "Rajajinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9166666666666666,
+      "centroid": {
+        "x": 12330.423800299997,
+        "y": 2066.041111400001,
+        "count": 159
+      }
+    },
+    {
+      "featureIndex": 32,
+      "KGISWardNo": "142",
+      "KGISWardName": "Sriramamandir",
+      "matchedWardId": "srirammandira ward",
+      "matchedWardName": "Srirammandira Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6111111111111112,
+      "centroid": {
+        "x": 15045.85010640001,
+        "y": 2518.572102,
+        "count": 194
+      }
+    },
+    {
+      "featureIndex": 33,
+      "KGISWardNo": "140",
+      "KGISWardName": "Prakash Nagar",
+      "matchedWardId": "prakashnagar",
+      "matchedWardName": "Prakashnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9230769230769231,
+      "centroid": {
+        "x": 16985.46157270001,
+        "y": 2845.2260326999985,
+        "count": 219
+      }
+    },
+    {
+      "featureIndex": 34,
+      "KGISWardNo": "139",
+      "KGISWardName": "Dayananda Nagar",
+      "matchedWardId": "dayanandanagar",
+      "matchedWardName": "Dayanandanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9333333333333333,
+      "centroid": {
+        "x": 11014.02722209999,
+        "y": 1844.6768228000003,
+        "count": 142
+      }
+    },
+    {
+      "featureIndex": 35,
+      "KGISWardNo": "135",
+      "KGISWardName": "Okalipuram",
+      "matchedWardId": "okalipuram",
+      "matchedWardName": "Okalipuram",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14504.360339399995,
+        "y": 2427.769780499998,
+        "count": 187
+      }
+    },
+    {
+      "featureIndex": 36,
+      "KGISWardNo": "133",
+      "KGISWardName": "Gandhinagar",
+      "matchedWardId": "gandhinagar",
+      "matchedWardName": "Gandhinagar",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 19626.405918000015,
+        "y": 3284.3497400000015,
+        "count": 253
+      }
+    },
+    {
+      "featureIndex": 37,
+      "KGISWardNo": "130",
+      "KGISWardName": "Bharathi Nagar",
+      "matchedWardId": "bharathinagar",
+      "matchedWardName": "Bharathinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9285714285714286,
+      "centroid": {
+        "x": 13193.616845400002,
+        "y": 2208.0523920999985,
+        "count": 170
+      }
+    },
+    {
+      "featureIndex": 38,
+      "KGISWardNo": "131",
+      "KGISWardName": "Ulsoor",
+      "matchedWardId": "ulsoor",
+      "matchedWardName": "Ulsoor",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 13117.778727699997,
+        "y": 2193.7059245000005,
+        "count": 169
+      }
+    },
+    {
+      "featureIndex": 39,
+      "KGISWardNo": "120",
+      "KGISWardName": "Hoysala Nagar",
+      "matchedWardId": "hoysalanagar",
+      "matchedWardName": "Hoysalanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9230769230769231,
+      "centroid": {
+        "x": 13586.040300500003,
+        "y": 2271.394627199999,
+        "count": 175
+      }
+    },
+    {
+      "featureIndex": 40,
+      "KGISWardNo": "125",
+      "KGISWardName": "Konena Agrahara",
+      "matchedWardId": "konena agrahara",
+      "matchedWardName": "Konena Agrahara",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 12425.399731200001,
+        "y": 2073.2602348999994,
+        "count": 160
+      }
+    },
+    {
+      "featureIndex": 41,
+      "KGISWardNo": "138",
+      "KGISWardName": "Chickpete",
+      "matchedWardId": "chikpet",
+      "matchedWardName": "Chikpet",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7777777777777778,
+      "centroid": {
+        "x": 12644.928008600009,
+        "y": 2114.1961288999996,
+        "count": 163
+      }
+    },
+    {
+      "featureIndex": 42,
+      "KGISWardNo": "137",
+      "KGISWardName": "Cottonpete",
+      "matchedWardId": "cottonpet",
+      "matchedWardName": "Cottonpet",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 20477.758567399993,
+        "y": 3424.0617711000014,
+        "count": 264
+      }
+    },
+    {
+      "featureIndex": 43,
+      "KGISWardNo": "136",
+      "KGISWardName": "Binnipete",
+      "matchedWardId": "binnypet",
+      "matchedWardName": "Binnypet",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7777777777777778,
+      "centroid": {
+        "x": 21716.604436199996,
+        "y": 3631.997087300001,
+        "count": 280
+      }
+    },
+    {
+      "featureIndex": 44,
+      "KGISWardNo": "33",
+      "KGISWardName": "Kengeri",
+      "matchedWardId": "kengeri",
+      "matchedWardName": "Kengeri",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 35566.38471749998,
+        "y": 5932.402586899997,
+        "count": 459
+      }
+    },
+    {
+      "featureIndex": 45,
+      "KGISWardNo": "210",
+      "KGISWardName": "Basavanagudi",
+      "matchedWardId": "basavanagudi",
+      "matchedWardName": "Basavanagudi",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14117.484477000004,
+        "y": 2354.4454066000003,
+        "count": 182
+      }
+    },
+    {
+      "featureIndex": 46,
+      "KGISWardNo": "212",
+      "KGISWardName": "Srinivasa Nagar",
+      "matchedWardId": "shanthala nagar",
+      "matchedWardName": "Shanthala Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 14037.770906899994,
+        "y": 2342.8008849000007,
+        "count": 181
+      }
+    },
+    {
+      "featureIndex": 47,
+      "KGISWardNo": "213",
+      "KGISWardName": "Srinagar",
+      "matchedWardId": "srinagar",
+      "matchedWardName": "Srinagar",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 17526.710140799998,
+        "y": 2925.5136036000004,
+        "count": 226
+      }
+    },
+    {
+      "featureIndex": 48,
+      "KGISWardNo": "214",
+      "KGISWardName": "Girinagar",
+      "matchedWardId": "girinagar",
+      "matchedWardName": "Girinagar",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 18843.828653099998,
+        "y": 3144.8606531999985,
+        "count": 243
+      }
+    },
+    {
+      "featureIndex": 49,
+      "KGISWardNo": "34",
+      "KGISWardName": "Bande Mutt",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 45252.56761930003,
+        "y": 7542.161219600003,
+        "count": 584
+      }
+    },
+    {
+      "featureIndex": 50,
+      "KGISWardNo": "243",
+      "KGISWardName": "Kudlu",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 16153.31995650001,
+        "y": 2680.8581308999997,
+        "count": 208
+      }
+    },
+    {
+      "featureIndex": 51,
+      "KGISWardNo": "106",
+      "KGISWardName": "Hudi",
+      "matchedWardId": "hoodi",
+      "matchedWardName": "Hoodi",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6,
+      "centroid": {
+        "x": 26580.460217599993,
+        "y": 4444.618001699998,
+        "count": 342
+      }
+    },
+    {
+      "featureIndex": 52,
+      "KGISWardNo": "115",
+      "KGISWardName": "Bellanduru",
+      "matchedWardId": "bellandur",
+      "matchedWardName": "Bellandur",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 34327.98162720002,
+        "y": 5720.472811099999,
+        "count": 442
+      }
+    },
+    {
+      "featureIndex": 53,
+      "KGISWardNo": "114",
+      "KGISWardName": "Marathahalli",
+      "matchedWardId": "marathalli",
+      "matchedWardName": "Marathalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "centroid": {
+        "x": 26105.904785900013,
+        "y": 4348.029174099998,
+        "count": 336
+      }
+    },
+    {
+      "featureIndex": 54,
+      "KGISWardNo": "107",
+      "KGISWardName": "Garudachar Playa",
+      "matchedWardId": "garudacharpalya",
+      "matchedWardName": "Garudacharpalya",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8125,
+      "centroid": {
+        "x": 21290.071028500017,
+        "y": 3559.5894649000015,
+        "count": 274
+      }
+    },
+    {
+      "featureIndex": 55,
+      "KGISWardNo": "122",
+      "KGISWardName": "New Thippasandra",
+      "matchedWardId": "hosathippasandra",
+      "matchedWardName": "Hosathippasandra",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.75,
+      "centroid": {
+        "x": 25006.37204360001,
+        "y": 4178.159822700001,
+        "count": 322
+      }
+    },
+    {
+      "featureIndex": 56,
+      "KGISWardNo": "123",
+      "KGISWardName": "Jalakanteshwara Nagara",
+      "matchedWardId": "basaveshwaranagar",
+      "matchedWardName": "Basaveshwaranagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6363636363636364,
+      "centroid": {
+        "x": 14525.109885200003,
+        "y": 2427.2334644,
+        "count": 187
+      }
+    },
+    {
+      "featureIndex": 57,
+      "KGISWardNo": "51",
+      "KGISWardName": "Nagapura",
+      "matchedWardId": "nagapura",
+      "matchedWardName": "Nagapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 10934.367623199996,
+        "y": 1833.6506341,
+        "count": 141
+      }
+    },
+    {
+      "featureIndex": 58,
+      "KGISWardNo": "54",
+      "KGISWardName": "Jai Maruthinagara",
+      "matchedWardId": "bharathinagar",
+      "matchedWardName": "Bharathinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5882352941176471,
+      "centroid": {
+        "x": 17522.5653788,
+        "y": 2939.707706400002,
+        "count": 226
+      }
+    },
+    {
+      "featureIndex": 59,
+      "KGISWardNo": "55",
+      "KGISWardName": "Puneet Rajkumar",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 17910.214383599992,
+        "y": 3003.4445496999997,
+        "count": 231
+      }
+    },
+    {
+      "featureIndex": 60,
+      "KGISWardNo": "129",
+      "KGISWardName": "Sampangiram Nagar",
+      "matchedWardId": "sampangiramnagar",
+      "matchedWardName": "Sampangiramnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9411764705882353,
+      "centroid": {
+        "x": 24909.534908899997,
+        "y": 4165.367832100002,
+        "count": 321
+      }
+    },
+    {
+      "featureIndex": 61,
+      "KGISWardNo": "121",
+      "KGISWardName": "Old Thippasandra",
+      "matchedWardId": "hosathippasandra",
+      "matchedWardName": "Hosathippasandra",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.75,
+      "centroid": {
+        "x": 18635.563700500003,
+        "y": 3113.4492596999985,
+        "count": 240
+      }
+    },
+    {
+      "featureIndex": 62,
+      "KGISWardNo": "124",
+      "KGISWardName": "Jeevanbhima Nagar",
+      "matchedWardId": "jeevanbhimanagar",
+      "matchedWardName": "Jeevanbhimanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9411764705882353,
+      "centroid": {
+        "x": 21742.386069999997,
+        "y": 3628.6185395999983,
+        "count": 280
+      }
+    },
+    {
+      "featureIndex": 63,
+      "KGISWardNo": "40",
+      "KGISWardName": "Veeramadakari",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 21322.7142147,
+        "y": 3586.5292336999983,
+        "count": 275
+      }
+    },
+    {
+      "featureIndex": 64,
+      "KGISWardNo": "93",
+      "KGISWardName": "HAL Airport",
+      "matchedWardId": "hal airport",
+      "matchedWardName": "Hal Airport",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 49243.24184059995,
+        "y": 8216.744832799997,
+        "count": 634
+      }
+    },
+    {
+      "featureIndex": 65,
+      "KGISWardNo": "42",
+      "KGISWardName": "Lakshmi Devi Nagar",
+      "matchedWardId": "lakshmidevinagar",
+      "matchedWardName": "Lakshmidevinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8888888888888888,
+      "centroid": {
+        "x": 22172.1407918,
+        "y": 3722.291098800002,
+        "count": 286
+      }
+    },
+    {
+      "featureIndex": 66,
+      "KGISWardNo": "31",
+      "KGISWardName": "Doddagollarahatti",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 46875.908809099936,
+        "y": 7846.835391599993,
+        "count": 605
+      }
+    },
+    {
+      "featureIndex": 67,
+      "KGISWardNo": "32",
+      "KGISWardName": "Ullal",
+      "matchedWardId": "ullalu",
+      "matchedWardName": "Ullalu",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 39286.404850399995,
+        "y": 6561.659724499996,
+        "count": 507
+      }
+    },
+    {
+      "featureIndex": 68,
+      "KGISWardNo": "21",
+      "KGISWardName": "T Dasarahalli",
+      "matchedWardId": "t. dasarahalli",
+      "matchedWardName": "T. Dasarahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 22168.46085079999,
+        "y": 3730.9272222000013,
+        "count": 286
+      }
+    },
+    {
+      "featureIndex": 69,
+      "KGISWardNo": "22",
+      "KGISWardName": "Chokkasandra",
+      "matchedWardId": "chokkasandra",
+      "matchedWardName": "Chokkasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 29452.796850100003,
+        "y": 4954.5768357000015,
+        "count": 380
+      }
+    },
+    {
+      "featureIndex": 70,
+      "KGISWardNo": "24",
+      "KGISWardName": "Rajagopal Nagar",
+      "matchedWardId": "rajagopalanagar",
+      "matchedWardName": "Rajagopalanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9333333333333333,
+      "centroid": {
+        "x": 31394.39706499997,
+        "y": 5273.310660300001,
+        "count": 405
+      }
+    },
+    {
+      "featureIndex": 71,
+      "KGISWardNo": "25",
+      "KGISWardName": "Rajeshwari Nagar",
+      "matchedWardId": "rajarajeshwarinagar",
+      "matchedWardName": "Rajarajeshwarinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.736842105263158,
+      "centroid": {
+        "x": 29300.419045099967,
+        "y": 4918.146678799998,
+        "count": 378
+      }
+    },
+    {
+      "featureIndex": 72,
+      "KGISWardNo": "43",
+      "KGISWardName": "Ranadheera Kanteerava",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 26667.811319199995,
+        "y": 4474.672690500002,
+        "count": 344
+      }
+    },
+    {
+      "featureIndex": 73,
+      "KGISWardNo": "44",
+      "KGISWardName": "Veera Sindhura Lakshamana",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 37595.1975443,
+        "y": 6304.661062900007,
+        "count": 485
+      }
+    },
+    {
+      "featureIndex": 74,
+      "KGISWardNo": "46",
+      "KGISWardName": "Sir M. Vishweshwaraiah",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 19221.028334799994,
+        "y": 3219.125742200001,
+        "count": 248
+      }
+    },
+    {
+      "featureIndex": 75,
+      "KGISWardNo": "47",
+      "KGISWardName": "Nalvadi Krishnaraja Wadior Park",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 27587.629876000003,
+        "y": 4613.071957399998,
+        "count": 356
+      }
+    },
+    {
+      "featureIndex": 76,
+      "KGISWardNo": "36",
+      "KGISWardName": "Chatrapati Shivaji",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 20239.89352089999,
+        "y": 3399.6601233999977,
+        "count": 261
+      }
+    },
+    {
+      "featureIndex": 77,
+      "KGISWardNo": "48",
+      "KGISWardName": "Jnana Bharathi",
+      "matchedWardId": "jnanabharathi ward",
+      "matchedWardName": "Jnanabharathi Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 77516.30263829991,
+        "y": 12944.877005199998,
+        "count": 1000
+      }
+    },
+    {
+      "featureIndex": 78,
+      "KGISWardNo": "49",
+      "KGISWardName": "Rajarajeshwari Nagar",
+      "matchedWardId": "rajarajeshwarinagar",
+      "matchedWardName": "Rajarajeshwarinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.95,
+      "centroid": {
+        "x": 73644.08365669998,
+        "y": 12266.281728500018,
+        "count": 950
+      }
+    },
+    {
+      "featureIndex": 79,
+      "KGISWardNo": "117",
+      "KGISWardName": "C V Raman Nagar",
+      "matchedWardId": "c.v. ramannagar",
+      "matchedWardName": "C.V. Ramannagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8666666666666667,
+      "centroid": {
+        "x": 22210.064338900007,
+        "y": 3716.0869042,
+        "count": 286
+      }
+    },
+    {
+      "featureIndex": 80,
+      "KGISWardNo": "118",
+      "KGISWardName": "Lal Bahadur Nagar",
+      "matchedWardId": "aramane nagar",
+      "matchedWardName": "Aramane Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5294117647058824,
+      "centroid": {
+        "x": 25312.990092500004,
+        "y": 4238.3133272,
+        "count": 326
+      }
+    },
+    {
+      "featureIndex": 81,
+      "KGISWardNo": "211",
+      "KGISWardName": "Hanumanth Nagar",
+      "matchedWardId": "hanumanthanagar",
+      "matchedWardName": "Hanumanthanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9333333333333333,
+      "centroid": {
+        "x": 23035.71066569998,
+        "y": 3844.7283387,
+        "count": 297
+      }
+    },
+    {
+      "featureIndex": 82,
+      "KGISWardNo": "52",
+      "KGISWardName": "Mahalakshimpuram",
+      "matchedWardId": "mahalakshmipuram",
+      "matchedWardName": "Mahalakshmipuram",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.875,
+      "centroid": {
+        "x": 20238.084627100005,
+        "y": 3395.2397136000022,
+        "count": 261
+      }
+    },
+    {
+      "featureIndex": 83,
+      "KGISWardNo": "216",
+      "KGISWardName": "Vidyapeeta ward",
+      "matchedWardId": "vidyapeetha ward",
+      "matchedWardName": "Vidyapeetha Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 18536.3050648,
+        "y": 3090.2559624,
+        "count": 239
+      }
+    },
+    {
+      "featureIndex": 84,
+      "KGISWardNo": "215",
+      "KGISWardName": "Katriguppe",
+      "matchedWardId": "katriguppe",
+      "matchedWardName": "Katriguppe",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 10314.390055400003,
+        "y": 1719.9041378000002,
+        "count": 133
+      }
+    },
+    {
+      "featureIndex": 85,
+      "KGISWardNo": "224",
+      "KGISWardName": "Anjanapura",
+      "matchedWardId": "anjanapura",
+      "matchedWardName": "Anjanapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 55844.23936030001,
+        "y": 9262.307839400006,
+        "count": 720
+      }
+    },
+    {
+      "featureIndex": 86,
+      "KGISWardNo": "181",
+      "KGISWardName": "Shantala Nagar",
+      "matchedWardId": "shanthala nagar",
+      "matchedWardName": "Shanthala Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9333333333333333,
+      "centroid": {
+        "x": 18082.663599900003,
+        "y": 3020.9510658999993,
+        "count": 233
+      }
+    },
+    {
+      "featureIndex": 87,
+      "KGISWardNo": "200",
+      "KGISWardName": "Yediyur",
+      "matchedWardId": "yadiyuru",
+      "matchedWardName": "Yadiyuru",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.75,
+      "centroid": {
+        "x": 13497.888725600002,
+        "y": 2250.5644139,
+        "count": 174
+      }
+    },
+    {
+      "featureIndex": 88,
+      "KGISWardNo": "167",
+      "KGISWardName": "Jagajivanaram Nagar",
+      "matchedWardId": "jagareevanram nagar",
+      "matchedWardName": "Jagareevanram Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7894736842105263,
+      "centroid": {
+        "x": 18846.8928314,
+        "y": 3150.604408199999,
+        "count": 243
+      }
+    },
+    {
+      "featureIndex": 89,
+      "KGISWardNo": "218",
+      "KGISWardName": "Subramanyapura",
+      "matchedWardId": "subramanyanagar",
+      "matchedWardName": "Subramanyanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7333333333333334,
+      "centroid": {
+        "x": 43575.38437580001,
+        "y": 7250.1945515,
+        "count": 562
+      }
+    },
+    {
+      "featureIndex": 90,
+      "KGISWardNo": "229",
+      "KGISWardName": "Ibluru",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 24150.470443199996,
+        "y": 4014.5711706999973,
+        "count": 311
+      }
+    },
+    {
+      "featureIndex": 91,
+      "KGISWardNo": "228",
+      "KGISWardName": "Naganathapura",
+      "matchedWardId": "vasanthapura",
+      "matchedWardName": "Vasanthapura",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7692307692307692,
+      "centroid": {
+        "x": 25162.1949357,
+        "y": 4170.632752000003,
+        "count": 324
+      }
+    },
+    {
+      "featureIndex": 92,
+      "KGISWardNo": "71",
+      "KGISWardName": "Chamundi Nagara",
+      "matchedWardId": "aramane nagar",
+      "matchedWardName": "Aramane Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6,
+      "centroid": {
+        "x": 21571.821161199994,
+        "y": 3621.0178913999994,
+        "count": 278
+      }
+    },
+    {
+      "featureIndex": 93,
+      "KGISWardNo": "239",
+      "KGISWardName": "Hulimavu",
+      "matchedWardId": "horamavu",
+      "matchedWardName": "Horamavu",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.625,
+      "centroid": {
+        "x": 28170.423470400005,
+        "y": 4673.810852499999,
+        "count": 363
+      }
+    },
+    {
+      "featureIndex": 94,
+      "KGISWardNo": "169",
+      "KGISWardName": "Devaraj Urs Nagar",
+      "matchedWardId": "aramane nagar",
+      "matchedWardName": "Aramane Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5294117647058824,
+      "centroid": {
+        "x": 9693.5003001,
+        "y": 1620.1739416000003,
+        "count": 125
+      }
+    },
+    {
+      "featureIndex": 95,
+      "KGISWardNo": "241",
+      "KGISWardName": "Puttenahalli - Sarakki Lake",
+      "matchedWardId": "puttenahalli",
+      "matchedWardName": "Puttenahalli",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 13809.667119300007,
+        "y": 2296.2267439000007,
+        "count": 178
+      }
+    },
+    {
+      "featureIndex": 96,
+      "KGISWardNo": "179",
+      "KGISWardName": "Jogupalya",
+      "matchedWardId": "jogupalya",
+      "matchedWardName": "Jogupalya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 13042.124485799997,
+        "y": 2179.5563791999994,
+        "count": 168
+      }
+    },
+    {
+      "featureIndex": 97,
+      "KGISWardNo": "178",
+      "KGISWardName": "Domlur",
+      "matchedWardId": "dommalur",
+      "matchedWardName": "Dommalur",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.75,
+      "centroid": {
+        "x": 14129.78988670001,
+        "y": 2359.395116799999,
+        "count": 182
+      }
+    },
+    {
+      "featureIndex": 98,
+      "KGISWardNo": "222",
+      "KGISWardName": "RBI layout",
+      "matchedWardId": "hbr layout",
+      "matchedWardName": "Hbr Layout",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8,
+      "centroid": {
+        "x": 22342.91065050001,
+        "y": 3711.9204859000006,
+        "count": 288
+      }
+    },
+    {
+      "featureIndex": 99,
+      "KGISWardNo": "161",
+      "KGISWardName": "Attiguppe",
+      "matchedWardId": "attiguppe",
+      "matchedWardName": "Attiguppe",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 20467.665389000005,
+        "y": 3421.2731284999995,
+        "count": 264
+      }
+    },
+    {
+      "featureIndex": 100,
+      "KGISWardNo": "160",
+      "KGISWardName": "Bapuji Nagar",
+      "matchedWardId": "bapujinagar",
+      "matchedWardName": "Bapujinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9166666666666666,
+      "centroid": {
+        "x": 10158.209009800003,
+        "y": 1697.6359737999992,
+        "count": 131
+      }
+    },
+    {
+      "featureIndex": 101,
+      "KGISWardNo": "39",
+      "KGISWardName": "Kanneshwara Rama",
+      "matchedWardId": "malleshwaram",
+      "matchedWardName": "Malleshwaram",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5625,
+      "centroid": {
+        "x": 26444.6013912,
+        "y": 4447.9854042,
+        "count": 341
+      }
+    },
+    {
+      "featureIndex": 102,
+      "KGISWardNo": "168",
+      "KGISWardName": "Padarayanapura",
+      "matchedWardId": "padarayanapura",
+      "matchedWardName": "Padarayanapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 8375.646861199999,
+        "y": 1399.9763706000006,
+        "count": 108
+      }
+    },
+    {
+      "featureIndex": 103,
+      "KGISWardNo": "220",
+      "KGISWardName": "Yelachenahalli",
+      "matchedWardId": "yelachenahalli",
+      "matchedWardName": "Yelachenahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15436.163611400001,
+        "y": 2567.5124312999997,
+        "count": 199
+      }
+    },
+    {
+      "featureIndex": 104,
+      "KGISWardNo": "38",
+      "KGISWardName": "J P Park",
+      "matchedWardId": "j.p.park",
+      "matchedWardName": "J.P.Park",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.75,
+      "centroid": {
+        "x": 21869.692055899992,
+        "y": 3675.863086000001,
+        "count": 282
+      }
+    },
+    {
+      "featureIndex": 105,
+      "KGISWardNo": "166",
+      "KGISWardName": "Chalavadipalya",
+      "matchedWardId": "chalavadipalya",
+      "matchedWardName": "Chalavadipalya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 10704.133872799997,
+        "y": 1789.0858748999997,
+        "count": 138
+      }
+    },
+    {
+      "featureIndex": 106,
+      "KGISWardNo": "236",
+      "KGISWardName": "Devarachikkanahalli",
+      "matchedWardId": "devarajeevanahalli",
+      "matchedWardName": "Devarajeevanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.736842105263158,
+      "centroid": {
+        "x": 27245.8741248,
+        "y": 4525.105764000002,
+        "count": 351
+      }
+    },
+    {
+      "featureIndex": 107,
+      "KGISWardNo": "157",
+      "KGISWardName": "Vijayanagar",
+      "matchedWardId": "jayanagar",
+      "matchedWardName": "Jayanagar",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 14114.056033999996,
+        "y": 2360.934930000001,
+        "count": 182
+      }
+    },
+    {
+      "featureIndex": 108,
+      "KGISWardNo": "231",
+      "KGISWardName": "Mangammanapalya",
+      "matchedWardId": "mangammanapalya",
+      "matchedWardName": "Mangammanapalya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 16537.161687100008,
+        "y": 2747.7270619000005,
+        "count": 213
+      }
+    },
+    {
+      "featureIndex": 109,
+      "KGISWardNo": "221",
+      "KGISWardName": "Konanakunte",
+      "matchedWardId": "konanakunte",
+      "matchedWardName": "Konanakunte",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 46227.11006769998,
+        "y": 7678.521040199988,
+        "count": 596
+      }
+    },
+    {
+      "featureIndex": 110,
+      "KGISWardNo": "238",
+      "KGISWardName": "Arakere",
+      "matchedWardId": "arakere",
+      "matchedWardName": "Arakere",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 27395.307615199985,
+        "y": 4548.856800000002,
+        "count": 353
+      }
+    },
+    {
+      "featureIndex": 111,
+      "KGISWardNo": "242",
+      "KGISWardName": "Jaraganahalli",
+      "matchedWardId": "jaraganahalli",
+      "matchedWardName": "Jaraganahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 16368.218333699995,
+        "y": 2721.997965699999,
+        "count": 211
+      }
+    },
+    {
+      "featureIndex": 112,
+      "KGISWardNo": "223",
+      "KGISWardName": "Chunchaghatta",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 33902.023627,
+        "y": 5628.3134450000025,
+        "count": 437
+      }
+    },
+    {
+      "featureIndex": 113,
+      "KGISWardNo": "230",
+      "KGISWardName": "Agara",
+      "matchedWardId": "agaram",
+      "matchedWardName": "Agaram",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 16150.110371799992,
+        "y": 2685.909645900001,
+        "count": 208
+      }
+    },
+    {
+      "featureIndex": 114,
+      "KGISWardNo": "205",
+      "KGISWardName": "Vikram Nagar",
+      "matchedWardId": "vignananagar",
+      "matchedWardName": "Vignananagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 20009.499980999997,
+        "y": 3329.190760099999,
+        "count": 258
+      }
+    },
+    {
+      "featureIndex": 115,
+      "KGISWardNo": "225",
+      "KGISWardName": "Gottigere",
+      "matchedWardId": "gottigere",
+      "matchedWardName": "Gottigere",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 21258.649925700003,
+        "y": 3523.0582125,
+        "count": 274
+      }
+    },
+    {
+      "featureIndex": 116,
+      "KGISWardNo": "201",
+      "KGISWardName": "Umamaheshwara Ward",
+      "matchedWardId": "chowdeshwari ward",
+      "matchedWardName": "Chowdeshwari Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6111111111111112,
+      "centroid": {
+        "x": 13730.393991300003,
+        "y": 2287.4646186000014,
+        "count": 177
+      }
+    },
+    {
+      "featureIndex": 117,
+      "KGISWardNo": "204",
+      "KGISWardName": "Kumaraswamy Layout",
+      "matchedWardId": "kumaraswamy layout",
+      "matchedWardName": "Kumaraswamy Layout",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 16365.930077499997,
+        "y": 2724.3623710999987,
+        "count": 211
+      }
+    },
+    {
+      "featureIndex": 118,
+      "KGISWardNo": "156",
+      "KGISWardName": "Kempapura Agrahara",
+      "matchedWardId": "kempapura agrahara",
+      "matchedWardName": "Kempapura Agrahara",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 9384.159217799996,
+        "y": 1569.6408890000007,
+        "count": 121
+      }
+    },
+    {
+      "featureIndex": 119,
+      "KGISWardNo": "187",
+      "KGISWardName": "Adugodi",
+      "matchedWardId": "adugodi",
+      "matchedWardName": "Adugodi",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14824.732367199998,
+        "y": 2471.0236935999997,
+        "count": 191
+      }
+    },
+    {
+      "featureIndex": 120,
+      "KGISWardNo": "98",
+      "KGISWardName": "Kacharkanahalli",
+      "matchedWardId": "kacharakanahalli",
+      "matchedWardName": "Kacharakanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 21580.922048699995,
+        "y": 3619.076744000003,
+        "count": 278
+      }
+    },
+    {
+      "featureIndex": 121,
+      "KGISWardNo": "185",
+      "KGISWardName": "Ejipura",
+      "matchedWardId": "ejipura",
+      "matchedWardName": "Ejipura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15215.0972556,
+        "y": 2536.7951000000016,
+        "count": 196
+      }
+    },
+    {
+      "featureIndex": 122,
+      "KGISWardNo": "99",
+      "KGISWardName": "HRBR Layout",
+      "matchedWardId": "hbr layout",
+      "matchedWardName": "Hbr Layout",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 16769.498647800006,
+        "y": 2811.9446120000002,
+        "count": 216
+      }
+    },
+    {
+      "featureIndex": 123,
+      "KGISWardNo": "74",
+      "KGISWardName": "Kaval Bairasandra",
+      "matchedWardId": "kavalbyrasandra",
+      "matchedWardName": "Kavalbyrasandra",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8235294117647058,
+      "centroid": {
+        "x": 34223.81820670001,
+        "y": 5742.840454300007,
+        "count": 441
+      }
+    },
+    {
+      "featureIndex": 124,
+      "KGISWardNo": "176",
+      "KGISWardName": "Someshwara Nagar",
+      "matchedWardId": "muneshwaranagar",
+      "matchedWardName": "Muneshwaranagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.75,
+      "centroid": {
+        "x": 13346.344165399996,
+        "y": 2225.2621803999996,
+        "count": 172
+      }
+    },
+    {
+      "featureIndex": 125,
+      "KGISWardNo": "175",
+      "KGISWardName": "Ashoka Pillar",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 19784.491830500003,
+        "y": 3300.2160564000023,
+        "count": 255
+      }
+    },
+    {
+      "featureIndex": 126,
+      "KGISWardNo": "188",
+      "KGISWardName": "Lakkasandra",
+      "matchedWardId": "lakkasandra",
+      "matchedWardName": "Lakkasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 20876.66025600002,
+        "y": 3482.1100160999986,
+        "count": 269
+      }
+    },
+    {
+      "featureIndex": 127,
+      "KGISWardNo": "177",
+      "KGISWardName": "Hombegowda Nagara",
+      "matchedWardId": "hombegowdanagar",
+      "matchedWardName": "Hombegowdanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8823529411764706,
+      "centroid": {
+        "x": 18002.612841100003,
+        "y": 3004.2791308999977,
+        "count": 232
+      }
+    },
+    {
+      "featureIndex": 128,
+      "KGISWardNo": "174",
+      "KGISWardName": "Vishveshwara Puram",
+      "matchedWardId": "vishweshrapuram",
+      "matchedWardName": "Vishweshrapuram",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7777777777777778,
+      "centroid": {
+        "x": 16912.847860399994,
+        "y": 2822.9159018999994,
+        "count": 218
+      }
+    },
+    {
+      "featureIndex": 129,
+      "KGISWardNo": "100",
+      "KGISWardName": "Banasavadi",
+      "matchedWardId": "banasawadi",
+      "matchedWardName": "Banasawadi",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 17082.691020700004,
+        "y": 2862.5127183000013,
+        "count": 220
+      }
+    },
+    {
+      "featureIndex": 130,
+      "KGISWardNo": "94",
+      "KGISWardName": "Hennur",
+      "matchedWardId": "begur",
+      "matchedWardName": "Begur",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5,
+      "centroid": {
+        "x": 45335.64644229996,
+        "y": 7614.285823700003,
+        "count": 584
+      }
+    },
+    {
+      "featureIndex": 131,
+      "KGISWardNo": "80",
+      "KGISWardName": "Pulikeshinagar",
+      "matchedWardId": "pulikeshinagar",
+      "matchedWardName": "Pulikeshinagar",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 27007.964187699985,
+        "y": 4522.8846068,
+        "count": 348
+      }
+    },
+    {
+      "featureIndex": 132,
+      "KGISWardNo": "12",
+      "KGISWardName": "Kodigehalli",
+      "matchedWardId": "kodigehalli",
+      "matchedWardName": "Kodigehalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 19471.02357250001,
+        "y": 3277.340715200001,
+        "count": 251
+      }
+    },
+    {
+      "featureIndex": 133,
+      "KGISWardNo": "8",
+      "KGISWardName": "Jakkuru",
+      "matchedWardId": "jakkur",
+      "matchedWardName": "Jakkur",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 52624.85500919996,
+        "y": 8859.516589099998,
+        "count": 678
+      }
+    },
+    {
+      "featureIndex": 134,
+      "KGISWardNo": "7",
+      "KGISWardName": "Thanisandra",
+      "matchedWardId": "thanisandra",
+      "matchedWardName": "Thanisandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 37264.07640300001,
+        "y": 6267.711888700001,
+        "count": 480
+      }
+    },
+    {
+      "featureIndex": 135,
+      "KGISWardNo": "10",
+      "KGISWardName": "Kempapura",
+      "matchedWardId": "kempapura agrahara",
+      "matchedWardName": "Kempapura Agrahara",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 27702.064130600007,
+        "y": 4658.784404600001,
+        "count": 357
+      }
+    },
+    {
+      "featureIndex": 136,
+      "KGISWardNo": "9",
+      "KGISWardName": "Amrutahalli",
+      "matchedWardId": "kammanahalli",
+      "matchedWardName": "Kammanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 23592.273926799986,
+        "y": 3969.7937589000016,
+        "count": 304
+      }
+    },
+    {
+      "featureIndex": 137,
+      "KGISWardNo": "103",
+      "KGISWardName": "Maruthi Seva Nagar",
+      "matchedWardId": "maruthiseva nagar",
+      "matchedWardName": "Maruthiseva Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9444444444444444,
+      "centroid": {
+        "x": 15216.149285900006,
+        "y": 2547.8364775000005,
+        "count": 196
+      }
+    },
+    {
+      "featureIndex": 138,
+      "KGISWardNo": "197",
+      "KGISWardName": "Shakambari Nagar",
+      "matchedWardId": "shakambarinagar",
+      "matchedWardName": "Shakambarinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 14585.272610299995,
+        "y": 2428.328314400001,
+        "count": 188
+      }
+    },
+    {
+      "featureIndex": 139,
+      "KGISWardNo": "79",
+      "KGISWardName": "Sagayarapuram",
+      "matchedWardId": "sagayapuram",
+      "matchedWardName": "Sagayapuram",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8461538461538461,
+      "centroid": {
+        "x": 14203.956366,
+        "y": 2380.0653104000007,
+        "count": 183
+      }
+    },
+    {
+      "featureIndex": 140,
+      "KGISWardNo": "101",
+      "KGISWardName": "Kammanahalli",
+      "matchedWardId": "kammanahalli",
+      "matchedWardName": "Kammanahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14440.683168200005,
+        "y": 2419.7221735000007,
+        "count": 186
+      }
+    },
+    {
+      "featureIndex": 141,
+      "KGISWardNo": "75",
+      "KGISWardName": "Kushal Nagar",
+      "matchedWardId": "kushalnagar",
+      "matchedWardName": "Kushalnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9166666666666666,
+      "centroid": {
+        "x": 22818.396931300005,
+        "y": 3828.6976088000024,
+        "count": 294
+      }
+    },
+    {
+      "featureIndex": 142,
+      "KGISWardNo": "102",
+      "KGISWardName": "Lingarajapura",
+      "matchedWardId": "lingarajapura",
+      "matchedWardName": "Lingarajapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 17853.944651800008,
+        "y": 2991.4325744999983,
+        "count": 230
+      }
+    },
+    {
+      "featureIndex": 143,
+      "KGISWardNo": "97",
+      "KGISWardName": "Venkateshpura",
+      "matchedWardId": "kaveripura",
+      "matchedWardName": "Kaveripura",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5384615384615384,
+      "centroid": {
+        "x": 12496.755158700003,
+        "y": 2095.3565637999995,
+        "count": 161
+      }
+    },
+    {
+      "featureIndex": 144,
+      "KGISWardNo": "77",
+      "KGISWardName": "Devara Jeevanahalli",
+      "matchedWardId": "devarajeevanahalli",
+      "matchedWardName": "Devarajeevanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9473684210526316,
+      "centroid": {
+        "x": 18625.631386700003,
+        "y": 3123.3047352,
+        "count": 240
+      }
+    },
+    {
+      "featureIndex": 145,
+      "KGISWardNo": "76",
+      "KGISWardName": "Muneshwara Nagar",
+      "matchedWardId": "muneshwaranagar",
+      "matchedWardName": "Muneshwaranagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 15056.7261063,
+        "y": 2524.8867638999996,
+        "count": 194
+      }
+    },
+    {
+      "featureIndex": 146,
+      "KGISWardNo": "78",
+      "KGISWardName": "S K Garden",
+      "matchedWardId": "s.k. garden",
+      "matchedWardName": "S.K. Garden",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 19712.586923300005,
+        "y": 3304.2057122999977,
+        "count": 254
+      }
+    },
+    {
+      "featureIndex": 147,
+      "KGISWardNo": "195",
+      "KGISWardName": "Tilak Nagar",
+      "matchedWardId": "vijaynagar",
+      "matchedWardName": "Vijaynagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6363636363636364,
+      "centroid": {
+        "x": 15985.0669142,
+        "y": 2663.0852197000013,
+        "count": 206
+      }
+    },
+    {
+      "featureIndex": 148,
+      "KGISWardNo": "194",
+      "KGISWardName": "Gurappanapalya",
+      "matchedWardId": "gurappanapalya",
+      "matchedWardName": "Gurappanapalya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 11175.271692999995,
+        "y": 1860.7269186000005,
+        "count": 144
+      }
+    },
+    {
+      "featureIndex": 149,
+      "KGISWardNo": "196",
+      "KGISWardName": "Byrasandra",
+      "matchedWardId": "byrasandra",
+      "matchedWardName": "Byrasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 20406.097904299986,
+        "y": 3400.3802523000013,
+        "count": 263
+      }
+    },
+    {
+      "featureIndex": 150,
+      "KGISWardNo": "191",
+      "KGISWardName": "Jakkasandra",
+      "matchedWardId": "jakkasandra",
+      "matchedWardName": "Jakkasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 6986.919434899998,
+        "y": 1162.8973961,
+        "count": 90
+      }
+    },
+    {
+      "featureIndex": 151,
+      "KGISWardNo": "189",
+      "KGISWardName": "Suddagunte Palya",
+      "matchedWardId": "sudduguntepalya",
+      "matchedWardName": "Sudduguntepalya",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.875,
+      "centroid": {
+        "x": 22428.478663299982,
+        "y": 3736.407164400003,
+        "count": 289
+      }
+    },
+    {
+      "featureIndex": 152,
+      "KGISWardNo": "173",
+      "KGISWardName": "Sunkenahalli",
+      "matchedWardId": "sunkenahalli",
+      "matchedWardName": "Sunkenahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 17685.006508399994,
+        "y": 2952.158747099998,
+        "count": 228
+      }
+    },
+    {
+      "featureIndex": 153,
+      "KGISWardNo": "186",
+      "KGISWardName": "Koramangala",
+      "matchedWardId": "koramangala",
+      "matchedWardName": "Koramangala",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 22356.808591799985,
+        "y": 3725.174778000002,
+        "count": 288
+      }
+    },
+    {
+      "featureIndex": 154,
+      "KGISWardNo": "6",
+      "KGISWardName": "Kogilu",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 45877.26827219998,
+        "y": 7739.847960899995,
+        "count": 591
+      }
+    },
+    {
+      "featureIndex": 155,
+      "KGISWardNo": "170",
+      "KGISWardName": "Azad Nagar",
+      "matchedWardId": "azadnagar",
+      "matchedWardName": "Azadnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 16519.12560999999,
+        "y": 2759.1438554999995,
+        "count": 213
+      }
+    },
+    {
+      "featureIndex": 156,
+      "KGISWardNo": "165",
+      "KGISWardName": "Chamrajapet",
+      "matchedWardId": "chamrajpet",
+      "matchedWardName": "Chamrajpet",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 23192.211220699995,
+        "y": 3875.0555382000002,
+        "count": 299
+      }
+    },
+    {
+      "featureIndex": 157,
+      "KGISWardNo": "96",
+      "KGISWardName": "Kadugondanahalli",
+      "matchedWardId": "kadugondanahalli",
+      "matchedWardName": "Kadugondanahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 21811.2255528,
+        "y": 3659.863683000001,
+        "count": 281
+      }
+    },
+    {
+      "featureIndex": 158,
+      "KGISWardNo": "110",
+      "KGISWardName": "Whitefield",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 40265.68876740003,
+        "y": 6718.4493997,
+        "count": 518
+      }
+    },
+    {
+      "featureIndex": 159,
+      "KGISWardNo": "30",
+      "KGISWardName": "Herohalli",
+      "matchedWardId": "herohalli",
+      "matchedWardName": "Herohalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 20457.839573700014,
+        "y": 3429.4422532999993,
+        "count": 264
+      }
+    },
+    {
+      "featureIndex": 160,
+      "KGISWardNo": "28",
+      "KGISWardName": "Dodda Bidarakallu",
+      "matchedWardId": "doddabidirakalu",
+      "matchedWardName": "Doddabidirakalu",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8235294117647058,
+      "centroid": {
+        "x": 40603.635892000006,
+        "y": 6824.255429200008,
+        "count": 524
+      }
+    },
+    {
+      "featureIndex": 161,
+      "KGISWardNo": "219",
+      "KGISWardName": "Vasanthpura",
+      "matchedWardId": "vasanthapura",
+      "matchedWardName": "Vasanthapura",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9166666666666666,
+      "centroid": {
+        "x": 40249.58097959998,
+        "y": 6692.135823099996,
+        "count": 519
+      }
+    },
+    {
+      "featureIndex": 162,
+      "KGISWardNo": "232",
+      "KGISWardName": "HSR - Singasandra",
+      "matchedWardId": "singasandra",
+      "matchedWardName": "Singasandra",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 33774.77615289998,
+        "y": 5607.317915100003,
+        "count": 435
+      }
+    },
+    {
+      "featureIndex": 163,
+      "KGISWardNo": "116",
+      "KGISWardName": "Doddakanahalli",
+      "matchedWardId": "bommanahalli",
+      "matchedWardName": "Bommanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6428571428571428,
+      "centroid": {
+        "x": 35578.08922940001,
+        "y": 5911.916335100003,
+        "count": 458
+      }
+    },
+    {
+      "featureIndex": 164,
+      "KGISWardNo": "159",
+      "KGISWardName": "Hampi Nagar",
+      "matchedWardId": "hampinagar",
+      "matchedWardName": "Hampinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 16128.423617600003,
+        "y": 2696.0357271,
+        "count": 208
+      }
+    },
+    {
+      "featureIndex": 165,
+      "KGISWardNo": "158",
+      "KGISWardName": "Hosahalli",
+      "matchedWardId": "hosahalli",
+      "matchedWardName": "Hosahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15509.429483799993,
+        "y": 2593.8396076000004,
+        "count": 200
+      }
+    },
+    {
+      "featureIndex": 166,
+      "KGISWardNo": "164",
+      "KGISWardName": "Avalahalli",
+      "matchedWardId": "jalahalli",
+      "matchedWardName": "Jalahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8,
+      "centroid": {
+        "x": 20162.3113619,
+        "y": 3366.8614558,
+        "count": 260
+      }
+    },
+    {
+      "featureIndex": 167,
+      "KGISWardNo": "162",
+      "KGISWardName": "Gali Anjenaya Temple ward",
+      "matchedWardId": "gali anjaneya swamy temple ward",
+      "matchedWardName": "Gali Anjaneya Swamy Temple Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7419354838709677,
+      "centroid": {
+        "x": 14188.978367799997,
+        "y": 2370.0869494999993,
+        "count": 183
+      }
+    },
+    {
+      "featureIndex": 168,
+      "KGISWardNo": "163",
+      "KGISWardName": "Veerabhadranagar",
+      "matchedWardId": "jeevanbhimanagar",
+      "matchedWardName": "Jeevanbhimanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.625,
+      "centroid": {
+        "x": 18453.641285299993,
+        "y": 3080.4367647,
+        "count": 238
+      }
+    },
+    {
+      "featureIndex": 169,
+      "KGISWardNo": "172",
+      "KGISWardName": "Dharmaraya Swamy Temple Ward",
+      "matchedWardId": "dharmarayaswamy temple ward",
+      "matchedWardName": "Dharmarayaswamy Temple Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9642857142857143,
+      "centroid": {
+        "x": 16757.938783600002,
+        "y": 2800.2514421000005,
+        "count": 216
+      }
+    },
+    {
+      "featureIndex": 170,
+      "KGISWardNo": "171",
+      "KGISWardName": "Sudham Nagara",
+      "matchedWardId": "sudamnagar",
+      "matchedWardName": "Sudamnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7692307692307692,
+      "centroid": {
+        "x": 15517.079779500014,
+        "y": 2591.5659760999997,
+        "count": 200
+      }
+    },
+    {
+      "featureIndex": 171,
+      "KGISWardNo": "180",
+      "KGISWardName": "Agaram",
+      "matchedWardId": "agaram",
+      "matchedWardName": "Agaram",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 57682.203170699926,
+        "y": 9618.734014999993,
+        "count": 743
+      }
+    },
+    {
+      "featureIndex": 172,
+      "KGISWardNo": "109",
+      "KGISWardName": "AECS Layout",
+      "matchedWardId": "btm layout",
+      "matchedWardName": "Btm Layout",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6363636363636364,
+      "centroid": {
+        "x": 14531.634954599996,
+        "y": 2424.3537123999995,
+        "count": 187
+      }
+    },
+    {
+      "featureIndex": 173,
+      "KGISWardNo": "108",
+      "KGISWardName": "Dodda Nekkundi",
+      "matchedWardId": "doddanekkundi",
+      "matchedWardName": "Doddanekkundi",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9285714285714286,
+      "centroid": {
+        "x": 29680.01874670001,
+        "y": 4955.424225299999,
+        "count": 382
+      }
+    },
+    {
+      "featureIndex": 174,
+      "KGISWardNo": "104",
+      "KGISWardName": "Kadugodi",
+      "matchedWardId": "kadugodi",
+      "matchedWardName": "Kadugodi",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 58946.88771590005,
+        "y": 9850.165024400005,
+        "count": 758
+      }
+    },
+    {
+      "featureIndex": 175,
+      "KGISWardNo": "105",
+      "KGISWardName": "Belathur",
+      "matchedWardId": "bellandur",
+      "matchedWardName": "Bellandur",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 49759.33777019999,
+        "y": 8316.987646900003,
+        "count": 640
+      }
+    },
+    {
+      "featureIndex": 176,
+      "KGISWardNo": "235",
+      "KGISWardName": "Bommanahalli",
+      "matchedWardId": "bommanahalli",
+      "matchedWardName": "Bommanahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15213.990402200005,
+        "y": 2528.8234458000006,
+        "count": 196
+      }
+    },
+    {
+      "featureIndex": 177,
+      "KGISWardNo": "234",
+      "KGISWardName": "Hongasandra",
+      "matchedWardId": "hongasandra",
+      "matchedWardName": "Hongasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 10635.054514499992,
+        "y": 1766.9967039999997,
+        "count": 137
+      }
+    },
+    {
+      "featureIndex": 178,
+      "KGISWardNo": "233",
+      "KGISWardName": "Rupenaagrahara",
+      "matchedWardId": "konena agrahara",
+      "matchedWardName": "Konena Agrahara",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7333333333333334,
+      "centroid": {
+        "x": 31519.135885199976,
+        "y": 5234.953045400001,
+        "count": 406
+      }
+    },
+    {
+      "featureIndex": 179,
+      "KGISWardNo": "237",
+      "KGISWardName": "Bilekhalli",
+      "matchedWardId": "bilekahalli",
+      "matchedWardName": "Bilekahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 25766.925868300015,
+        "y": 4283.048553799998,
+        "count": 332
+      }
+    },
+    {
+      "featureIndex": 180,
+      "KGISWardNo": "240",
+      "KGISWardName": "Vinayakanagar",
+      "matchedWardId": "vignananagar",
+      "matchedWardName": "Vignananagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6923076923076923,
+      "centroid": {
+        "x": 28478.19727440003,
+        "y": 4734.357522599995,
+        "count": 367
+      }
+    },
+    {
+      "featureIndex": 181,
+      "KGISWardNo": "209",
+      "KGISWardName": "Hosakerehalli",
+      "matchedWardId": "hosakerehalli",
+      "matchedWardName": "Hosakerehalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 14654.622626199996,
+        "y": 2443.589177100001,
+        "count": 189
+      }
+    },
+    {
+      "featureIndex": 182,
+      "KGISWardNo": "207",
+      "KGISWardName": "Kamakya Nagar",
+      "matchedWardId": "aramane nagar",
+      "matchedWardName": "Aramane Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6153846153846154,
+      "centroid": {
+        "x": 15122.344405400005,
+        "y": 2519.3935647,
+        "count": 195
+      }
+    },
+    {
+      "featureIndex": 183,
+      "KGISWardNo": "208",
+      "KGISWardName": "Deen Dayalu Ward",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 16671.5141232,
+        "y": 2778.1280071,
+        "count": 215
+      }
+    },
+    {
+      "featureIndex": 184,
+      "KGISWardNo": "95",
+      "KGISWardName": "Nagavara",
+      "matchedWardId": "nagavara",
+      "matchedWardName": "Nagavara",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 11875.693168799997,
+        "y": 1994.0815181000005,
+        "count": 153
+      }
+    },
+    {
+      "featureIndex": 185,
+      "KGISWardNo": "16",
+      "KGISWardName": "Kammagondanahalli",
+      "matchedWardId": "kadugondanahalli",
+      "matchedWardName": "Kadugondanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8235294117647058,
+      "centroid": {
+        "x": 24343.87337999999,
+        "y": 4104.590943300001,
+        "count": 314
+      }
+    },
+    {
+      "featureIndex": 186,
+      "KGISWardNo": "126",
+      "KGISWardName": "Ramaswamy Palya",
+      "matchedWardId": "ramaswamy palya",
+      "matchedWardName": "Ramaswamy Palya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 17925.91305259999,
+        "y": 3003.659122899998,
+        "count": 231
+      }
+    },
+    {
+      "featureIndex": 187,
+      "KGISWardNo": "127",
+      "KGISWardName": "Jayamahal",
+      "matchedWardId": "jayamahal",
+      "matchedWardName": "Jayamahal",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 27703.009314800016,
+        "y": 4640.034880999999,
+        "count": 357
+      }
+    },
+    {
+      "featureIndex": 188,
+      "KGISWardNo": "128",
+      "KGISWardName": "Vasanth Nagar",
+      "matchedWardId": "vasanthnagar",
+      "matchedWardName": "Vasanthnagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9230769230769231,
+      "centroid": {
+        "x": 19008.977684900005,
+        "y": 3182.3526125999992,
+        "count": 245
+      }
+    },
+    {
+      "featureIndex": 189,
+      "KGISWardNo": "190",
+      "KGISWardName": "Madivala",
+      "matchedWardId": "madiwala",
+      "matchedWardName": "Madiwala",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.875,
+      "centroid": {
+        "x": 12806.170570600003,
+        "y": 2132.5991085000005,
+        "count": 165
+      }
+    },
+    {
+      "featureIndex": 190,
+      "KGISWardNo": "192",
+      "KGISWardName": "BTM Layout",
+      "matchedWardId": "btm layout",
+      "matchedWardName": "Btm Layout",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 16609.540160099987,
+        "y": 2764.0988338,
+        "count": 214
+      }
+    },
+    {
+      "featureIndex": 191,
+      "KGISWardNo": "193",
+      "KGISWardName": "N S Palya",
+      "matchedWardId": "jogupalya",
+      "matchedWardName": "Jogupalya",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5555555555555556,
+      "centroid": {
+        "x": 12805.088769499993,
+        "y": 2130.1990335,
+        "count": 165
+      }
+    },
+    {
+      "featureIndex": 192,
+      "KGISWardNo": "66",
+      "KGISWardName": "Radhakrishna Temple Ward",
+      "matchedWardId": "radhakrishna temple ward",
+      "matchedWardName": "Radhakrishna Temple Ward",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 18152.06624359999,
+        "y": 3050.6311055999977,
+        "count": 234
+      }
+    },
+    {
+      "featureIndex": 193,
+      "KGISWardNo": "67",
+      "KGISWardName": "Sanjaya Nagar",
+      "matchedWardId": "sanjaynagar",
+      "matchedWardName": "Sanjaynagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8461538461538461,
+      "centroid": {
+        "x": 18231.254544199986,
+        "y": 3063.637667899998,
+        "count": 235
+      }
+    },
+    {
+      "featureIndex": 194,
+      "KGISWardNo": "68",
+      "KGISWardName": "Vishwanath Nagenahalli",
+      "matchedWardId": "vishwanathnagenahalli",
+      "matchedWardName": "Vishwanathnagenahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9545454545454546,
+      "centroid": {
+        "x": 18391.52315130001,
+        "y": 3089.864551399998,
+        "count": 237
+      }
+    },
+    {
+      "featureIndex": 195,
+      "KGISWardNo": "70",
+      "KGISWardName": "Hebbala",
+      "matchedWardId": "hebbal",
+      "matchedWardName": "Hebbal",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 17225.8038803,
+        "y": 2893.5284581000005,
+        "count": 222
+      }
+    },
+    {
+      "featureIndex": 196,
+      "KGISWardNo": "72",
+      "KGISWardName": "Ganga Nagar",
+      "matchedWardId": "ganganagar",
+      "matchedWardName": "Ganganagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 10940.1348921,
+        "y": 1836.1882339000001,
+        "count": 141
+      }
+    },
+    {
+      "featureIndex": 197,
+      "KGISWardNo": "73",
+      "KGISWardName": "Jayachamarajendra  Nagar",
+      "matchedWardId": "jayachamarajendra nagar",
+      "matchedWardName": "Jayachamarajendra Nagar",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 24674.878626799982,
+        "y": 4139.655652000004,
+        "count": 318
+      }
+    },
+    {
+      "featureIndex": 198,
+      "KGISWardNo": "69",
+      "KGISWardName": "Manorayanapalya",
+      "matchedWardId": "manorayanapalya",
+      "matchedWardName": "Manorayanapalya",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 18314.015190200003,
+        "y": 3075.798442600001,
+        "count": 236
+      }
+    },
+    {
+      "featureIndex": 199,
+      "KGISWardNo": "15",
+      "KGISWardName": "Kuvempunagar",
+      "matchedWardId": "kuvempunagar",
+      "matchedWardName": "Kuvempunagar",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 31715.9741839,
+        "y": 5346.144430499997,
+        "count": 409
+      }
+    },
+    {
+      "featureIndex": 200,
+      "KGISWardNo": "13",
+      "KGISWardName": "Dodda Bommasandra",
+      "matchedWardId": "doddabommasandra",
+      "matchedWardName": "Doddabommasandra",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9411764705882353,
+      "centroid": {
+        "x": 26370.66421479999,
+        "y": 4440.148484899999,
+        "count": 340
+      }
+    },
+    {
+      "featureIndex": 201,
+      "KGISWardNo": "11",
+      "KGISWardName": "Byatarayanapura",
+      "matchedWardId": "byatarayanapura",
+      "matchedWardName": "Byatarayanapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 28316.167030000026,
+        "y": 4772.9778598999965,
+        "count": 365
+      }
+    },
+    {
+      "featureIndex": 202,
+      "KGISWardNo": "14",
+      "KGISWardName": "Vidyaranyapura",
+      "matchedWardId": "vidyaranyapura",
+      "matchedWardName": "Vidyaranyapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 19622.2420877,
+        "y": 3307.298637,
+        "count": 253
+      }
+    },
+    {
+      "featureIndex": 203,
+      "KGISWardNo": "18",
+      "KGISWardName": "Bagalakunte",
+      "matchedWardId": "bagalagunte",
+      "matchedWardName": "Bagalagunte",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9090909090909091,
+      "centroid": {
+        "x": 18987.3218262,
+        "y": 3198.9234452999985,
+        "count": 245
+      }
+    },
+    {
+      "featureIndex": 204,
+      "KGISWardNo": "111",
+      "KGISWardName": "Hagadur",
+      "matchedWardId": "hagadooru",
+      "matchedWardName": "Hagadooru",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6666666666666667,
+      "centroid": {
+        "x": 51557.995598399975,
+        "y": 8600.694876399994,
+        "count": 663
+      }
+    },
+    {
+      "featureIndex": 205,
+      "KGISWardNo": "112",
+      "KGISWardName": "Varthuru",
+      "matchedWardId": "varthur",
+      "matchedWardName": "Varthur",
+      "matchMethod": "contains",
+      "matchScore": 0.9,
+      "centroid": {
+        "x": 51077.37680619998,
+        "y": 8500.486410800002,
+        "count": 657
+      }
+    },
+    {
+      "featureIndex": 206,
+      "KGISWardNo": "113",
+      "KGISWardName": "Munnekollala",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 36055.27009970003,
+        "y": 6000.801913900001,
+        "count": 464
+      }
+    },
+    {
+      "featureIndex": 207,
+      "KGISWardNo": "199",
+      "KGISWardName": "Sarakki",
+      "matchedWardId": "sarakki",
+      "matchedWardName": "Sarakki",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 18619.921665999987,
+        "y": 3097.9269800999996,
+        "count": 240
+      }
+    },
+    {
+      "featureIndex": 208,
+      "KGISWardNo": "198",
+      "KGISWardName": "J P Nagar",
+      "matchedWardId": "j.p.nagar",
+      "matchedWardName": "J.P.Nagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7777777777777778,
+      "centroid": {
+        "x": 17536.598245600002,
+        "y": 2917.7648337999976,
+        "count": 226
+      }
+    },
+    {
+      "featureIndex": 209,
+      "KGISWardNo": "81",
+      "KGISWardName": "Horamavu",
+      "matchedWardId": "horamavu",
+      "matchedWardName": "Horamavu",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 56142.28097149994,
+        "y": 9435.0514788,
+        "count": 723
+      }
+    },
+    {
+      "featureIndex": 210,
+      "KGISWardNo": "82",
+      "KGISWardName": "Babusab Palya",
+      "matchedWardId": "ramaswamy palya",
+      "matchedWardName": "Ramaswamy Palya",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6,
+      "centroid": {
+        "x": 14287.122348299998,
+        "y": 2396.9405752999987,
+        "count": 184
+      }
+    },
+    {
+      "featureIndex": 211,
+      "KGISWardNo": "83",
+      "KGISWardName": "Kalkere",
+      "matchedWardId": "arakere",
+      "matchedWardName": "Arakere",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5714285714285714,
+      "centroid": {
+        "x": 37051.09998060002,
+        "y": 6217.323109799999,
+        "count": 477
+      }
+    },
+    {
+      "featureIndex": 212,
+      "KGISWardNo": "87",
+      "KGISWardName": "Medahalli",
+      "matchedWardId": "marenahalli",
+      "matchedWardName": "Marenahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7272727272727273,
+      "centroid": {
+        "x": 29680.371675700015,
+        "y": 4974.5777275,
+        "count": 382
+      }
+    },
+    {
+      "featureIndex": 213,
+      "KGISWardNo": "84",
+      "KGISWardName": "Ramamurthy Nagara",
+      "matchedWardId": "ramamurthynagar",
+      "matchedWardName": "Ramamurthynagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8823529411764706,
+      "centroid": {
+        "x": 24311.91860260001,
+        "y": 4073.0468503999964,
+        "count": 313
+      }
+    },
+    {
+      "featureIndex": 214,
+      "KGISWardNo": "85",
+      "KGISWardName": "Vijinapura",
+      "matchedWardId": "vijinapura",
+      "matchedWardName": "Vijinapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15068.518459999998,
+        "y": 2523.3435168000005,
+        "count": 194
+      }
+    },
+    {
+      "featureIndex": 215,
+      "KGISWardNo": "86",
+      "KGISWardName": "K R Puram",
+      "matchedWardId": "k.r.puram",
+      "matchedWardName": "K.R.Puram",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7777777777777778,
+      "centroid": {
+        "x": 39856.23694160001,
+        "y": 6675.598356799992,
+        "count": 513
+      }
+    },
+    {
+      "featureIndex": 216,
+      "KGISWardNo": "88",
+      "KGISWardName": "Basavanapura",
+      "matchedWardId": "basavanapura",
+      "matchedWardName": "Basavanapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 25334.098555899996,
+        "y": 4241.9158657000025,
+        "count": 326
+      }
+    },
+    {
+      "featureIndex": 217,
+      "KGISWardNo": "89",
+      "KGISWardName": "Devasandra",
+      "matchedWardId": "devasandra",
+      "matchedWardName": "Devasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 16549.0101665,
+        "y": 2769.0707520000005,
+        "count": 213
+      }
+    },
+    {
+      "featureIndex": 218,
+      "KGISWardNo": "91",
+      "KGISWardName": "A Narayanapura",
+      "matchedWardId": "a. narayanapura",
+      "matchedWardName": "A. Narayanapura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 11961.501661200004,
+        "y": 2000.9207991000007,
+        "count": 154
+      }
+    },
+    {
+      "featureIndex": 219,
+      "KGISWardNo": "90",
+      "KGISWardName": "Mahadevapura",
+      "matchedWardId": "basavanapura",
+      "matchedWardName": "Basavanapura",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.5833333333333333,
+      "centroid": {
+        "x": 24081.925209999994,
+        "y": 4025.7371198000014,
+        "count": 310
+      }
+    },
+    {
+      "featureIndex": 220,
+      "KGISWardNo": "92",
+      "KGISWardName": "Vijnana Nagar",
+      "matchedWardId": "vignananagar",
+      "matchedWardName": "Vignananagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8461538461538461,
+      "centroid": {
+        "x": 24467.47468779998,
+        "y": 4085.3818759999963,
+        "count": 315
+      }
+    },
+    {
+      "featureIndex": 221,
+      "KGISWardNo": "227",
+      "KGISWardName": "Begur",
+      "matchedWardId": "begur",
+      "matchedWardName": "Begur",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 45183.98968879997,
+        "y": 7492.3732228,
+        "count": 582
+      }
+    },
+    {
+      "featureIndex": 222,
+      "KGISWardNo": "226",
+      "KGISWardName": "Kalena Agrahara",
+      "matchedWardId": "konena agrahara",
+      "matchedWardName": "Konena Agrahara",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8666666666666667,
+      "centroid": {
+        "x": 55412.58004819991,
+        "y": 9185.26792810001,
+        "count": 714
+      }
+    },
+    {
+      "featureIndex": 223,
+      "KGISWardNo": "217",
+      "KGISWardName": "Uttarahalli",
+      "matchedWardId": "uttarahalli",
+      "matchedWardName": "Uttarahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 26908.648825900003,
+        "y": 4479.596575099999,
+        "count": 347
+      }
+    },
+    {
+      "featureIndex": 224,
+      "KGISWardNo": "206",
+      "KGISWardName": "Padmanabha Nagar",
+      "matchedWardId": "padmanabhanagar",
+      "matchedWardName": "Padmanabhanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9375,
+      "centroid": {
+        "x": 19156.653645199993,
+        "y": 3190.245549799999,
+        "count": 247
+      }
+    },
+    {
+      "featureIndex": 225,
+      "KGISWardNo": "202",
+      "KGISWardName": "Ganesh Mandir ward",
+      "matchedWardId": "ganeshmandira ward",
+      "matchedWardName": "Ganeshmandira Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8888888888888888,
+      "centroid": {
+        "x": 20398.789254600004,
+        "y": 3399.060701799999,
+        "count": 263
+      }
+    },
+    {
+      "featureIndex": 226,
+      "KGISWardNo": "203",
+      "KGISWardName": "Banashankari Temple ward",
+      "matchedWardId": "banashankari temple ward",
+      "matchedWardName": "Banashankari Temple Ward",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 11713.074353900007,
+        "y": 1949.9590970999998,
+        "count": 151
+      }
+    },
+    {
+      "featureIndex": 227,
+      "KGISWardNo": "146",
+      "KGISWardName": "Dr. Raj Kumar Ward",
+      "matchedWardId": "dr. rajkumar ward",
+      "matchedWardName": "Dr. Rajkumar Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9411764705882353,
+      "centroid": {
+        "x": 15044.290207200002,
+        "y": 2517.810072799999,
+        "count": 194
+      }
+    },
+    {
+      "featureIndex": 228,
+      "KGISWardNo": "147",
+      "KGISWardName": "Agrahara Dasarahalli",
+      "matchedWardId": "agrahara dasarahalli",
+      "matchedWardName": "Agrahara Dasarahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 7909.069327400001,
+        "y": 1324.0991294,
+        "count": 102
+      }
+    },
+    {
+      "featureIndex": 229,
+      "KGISWardNo": "149",
+      "KGISWardName": "Kaveripura",
+      "matchedWardId": "kaveripura",
+      "matchedWardName": "Kaveripura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15892.398119,
+        "y": 2661.2817893,
+        "count": 205
+      }
+    },
+    {
+      "featureIndex": 230,
+      "KGISWardNo": "148",
+      "KGISWardName": "Govindaraja Nagar",
+      "matchedWardId": "govindrajnagara",
+      "matchedWardName": "Govindrajnagara",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7647058823529411,
+      "centroid": {
+        "x": 10001.770582900002,
+        "y": 1674.1059879000004,
+        "count": 129
+      }
+    },
+    {
+      "featureIndex": 231,
+      "KGISWardNo": "150",
+      "KGISWardName": "Marenahalli",
+      "matchedWardId": "marenahalli",
+      "matchedWardName": "Marenahalli",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 15971.102852900009,
+        "y": 2672.2992377999994,
+        "count": 206
+      }
+    },
+    {
+      "featureIndex": 232,
+      "KGISWardNo": "151",
+      "KGISWardName": "Maruthi Mandir ward",
+      "matchedWardId": "maruthi mandira ward",
+      "matchedWardName": "Maruthi Mandira Ward",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.95,
+      "centroid": {
+        "x": 18684.307839600013,
+        "y": 3125.034877599999,
+        "count": 241
+      }
+    },
+    {
+      "featureIndex": 233,
+      "KGISWardNo": "152",
+      "KGISWardName": "Mudalapalya",
+      "matchedWardId": "moodalapalya",
+      "matchedWardName": "Moodalapalya",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8333333333333334,
+      "centroid": {
+        "x": 15814.506133099996,
+        "y": 2646.3998673999995,
+        "count": 204
+      }
+    },
+    {
+      "featureIndex": 234,
+      "KGISWardNo": "153",
+      "KGISWardName": "Nagarabhavi",
+      "matchedWardId": "nagarabhavi",
+      "matchedWardName": "Nagarabhavi",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 33952.34688270001,
+        "y": 5676.6153768999975,
+        "count": 438
+      }
+    },
+    {
+      "featureIndex": 235,
+      "KGISWardNo": "154",
+      "KGISWardName": "Chandra Layout",
+      "matchedWardId": "hbr layout",
+      "matchedWardName": "Hbr Layout",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.6428571428571428,
+      "centroid": {
+        "x": 23488.51596119999,
+        "y": 3923.590400099999,
+        "count": 303
+      }
+    },
+    {
+      "featureIndex": 236,
+      "KGISWardNo": "155",
+      "KGISWardName": "Nayandahalli",
+      "matchedWardId": "nayandanahalli",
+      "matchedWardName": "Nayandanahalli",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8571428571428572,
+      "centroid": {
+        "x": 22713.574048199996,
+        "y": 3792.5096834999995,
+        "count": 293
+      }
+    },
+    {
+      "featureIndex": 237,
+      "KGISWardNo": "19",
+      "KGISWardName": "Defence Colony",
+      "matchedWardId": null,
+      "matchedWardName": null,
+      "matchMethod": "none",
+      "matchScore": 0,
+      "centroid": {
+        "x": 27049.383529300005,
+        "y": 4554.825660099999,
+        "count": 349
+      }
+    },
+    {
+      "featureIndex": 238,
+      "KGISWardNo": "35",
+      "KGISWardName": "Hemmigepura",
+      "matchedWardId": "hemmigepura",
+      "matchedWardName": "Hemmigepura",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 111692.43948630003,
+        "y": 18568.40121169998,
+        "count": 1441
+      }
+    },
+    {
+      "featureIndex": 239,
+      "KGISWardNo": "182",
+      "KGISWardName": "Shanthi Nagar",
+      "matchedWardId": "shanthinagar",
+      "matchedWardName": "Shanthinagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.9230769230769231,
+      "centroid": {
+        "x": 15132.198482800002,
+        "y": 2526.0239230999996,
+        "count": 195
+      }
+    },
+    {
+      "featureIndex": 240,
+      "KGISWardNo": "183",
+      "KGISWardName": "Neelasandra",
+      "matchedWardId": "neelasandra",
+      "matchedWardName": "Neelasandra",
+      "matchMethod": "exact",
+      "matchScore": 1,
+      "centroid": {
+        "x": 16686.0536213,
+        "y": 2785.4272407000003,
+        "count": 215
+      }
+    },
+    {
+      "featureIndex": 241,
+      "KGISWardNo": "184",
+      "KGISWardName": "Vannarapete",
+      "matchedWardId": "vannarpet",
+      "matchedWardName": "Vannarpet",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.8181818181818181,
+      "centroid": {
+        "x": 13738.563504800004,
+        "y": 2293.2352266,
+        "count": 177
+      }
+    },
+    {
+      "featureIndex": 242,
+      "KGISWardNo": "29",
+      "KGISWardName": "Vidyamanyanagar",
+      "matchedWardId": "subramanyanagar",
+      "matchedWardName": "Subramanyanagar",
+      "matchMethod": "fuzzy",
+      "matchScore": 0.7333333333333334,
+      "centroid": {
+        "x": 39439.75932539996,
+        "y": 6618.106299600003,
+        "count": 509
+      }
+    }
+  ]
+}

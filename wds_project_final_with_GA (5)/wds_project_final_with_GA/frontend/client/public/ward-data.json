@@ -1,0 +1,4160 @@
+[
+  {
+    "id": "a. narayanapura",
+    "name": "A. Narayanapura",
+    "before": {
+      "pressure": 11.15,
+      "demand": 2640.14,
+      "supply": 2370.8,
+      "shortage": 269.33,
+      "shortage_pct": 10.2,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.8,
+      "demand": 2640.14,
+      "supply": 2486.15,
+      "shortage": 153.99,
+      "shortage_pct": 5.83,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "adugodi",
+    "name": "Adugodi",
+    "before": {
+      "pressure": 10.09,
+      "demand": 1252.37,
+      "supply": 1203.18,
+      "shortage": 49.19,
+      "shortage_pct": 3.93,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.69,
+      "demand": 1252.37,
+      "supply": 1224.25,
+      "shortage": 28.12,
+      "shortage_pct": 2.25,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "agaram",
+    "name": "Agaram",
+    "before": {
+      "pressure": 9.53,
+      "demand": 1825.27,
+      "supply": 1630.64,
+      "shortage": 194.63,
+      "shortage_pct": 10.66,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.08,
+      "demand": 1825.27,
+      "supply": 1714.0,
+      "shortage": 111.28,
+      "shortage_pct": 6.1,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "agrahara dasarahalli",
+    "name": "Agrahara Dasarahalli",
+    "before": {
+      "pressure": 104.94,
+      "demand": 1078.13,
+      "supply": 1063.0,
+      "shortage": 15.14,
+      "shortage_pct": 1.4,
+      "leakage": 1.9
+    },
+    "after": {
+      "pressure": 111.09,
+      "demand": 1078.13,
+      "supply": 1069.48,
+      "shortage": 8.65,
+      "shortage_pct": 0.8,
+      "leakage": 1.74
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "anjanapura",
+    "name": "Anjanapura",
+    "before": {
+      "pressure": 9.42,
+      "demand": 3299.7,
+      "supply": 2950.49,
+      "shortage": 349.21,
+      "shortage_pct": 10.58,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.97,
+      "demand": 3299.7,
+      "supply": 3100.04,
+      "shortage": 199.65,
+      "shortage_pct": 6.05,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "arakere",
+    "name": "Arakere",
+    "before": {
+      "pressure": 122.53,
+      "demand": 4201.21,
+      "supply": 3414.46,
+      "shortage": 786.75,
+      "shortage_pct": 18.73,
+      "leakage": 2.25
+    },
+    "after": {
+      "pressure": 129.7,
+      "demand": 4201.21,
+      "supply": 3751.4,
+      "shortage": 449.81,
+      "shortage_pct": 10.71,
+      "leakage": 2.06
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "aramane nagar",
+    "name": "Aramane Nagar",
+    "before": {
+      "pressure": 92.18,
+      "demand": 923.51,
+      "supply": 897.46,
+      "shortage": 26.06,
+      "shortage_pct": 2.82,
+      "leakage": 1.64
+    },
+    "after": {
+      "pressure": 97.58,
+      "demand": 923.51,
+      "supply": 908.62,
+      "shortage": 14.9,
+      "shortage_pct": 1.61,
+      "leakage": 1.5
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "attiguppe",
+    "name": "Attiguppe",
+    "before": {
+      "pressure": 10.69,
+      "demand": 2012.22,
+      "supply": 1798.94,
+      "shortage": 213.27,
+      "shortage_pct": 10.6,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.31,
+      "demand": 2012.22,
+      "supply": 1890.28,
+      "shortage": 121.94,
+      "shortage_pct": 6.06,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "attur",
+    "name": "Attur",
+    "before": {
+      "pressure": 139.24,
+      "demand": 1970.58,
+      "supply": 1674.14,
+      "shortage": 296.43,
+      "shortage_pct": 15.04,
+      "leakage": 2.58
+    },
+    "after": {
+      "pressure": 147.39,
+      "demand": 1970.58,
+      "supply": 1801.1,
+      "shortage": 169.48,
+      "shortage_pct": 8.6,
+      "leakage": 2.37
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "azadnagar",
+    "name": "Azadnagar",
+    "before": {
+      "pressure": 118.22,
+      "demand": 1270.88,
+      "supply": 1234.78,
+      "shortage": 36.09,
+      "shortage_pct": 2.84,
+      "leakage": 2.16
+    },
+    "after": {
+      "pressure": 125.14,
+      "demand": 1270.88,
+      "supply": 1250.24,
+      "shortage": 20.64,
+      "shortage_pct": 1.62,
+      "leakage": 1.98
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "bagalagunte",
+    "name": "Bagalagunte",
+    "before": {
+      "pressure": 85.33,
+      "demand": 3162.17,
+      "supply": 2724.08,
+      "shortage": 438.09,
+      "shortage_pct": 13.85,
+      "leakage": 1.51
+    },
+    "after": {
+      "pressure": 90.33,
+      "demand": 3162.17,
+      "supply": 2911.7,
+      "shortage": 250.47,
+      "shortage_pct": 7.92,
+      "leakage": 1.38
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "banasawadi",
+    "name": "Banasawadi",
+    "before": {
+      "pressure": 9.17,
+      "demand": 3339.58,
+      "supply": 2749.84,
+      "shortage": 589.73,
+      "shortage_pct": 17.66,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.7,
+      "demand": 3339.58,
+      "supply": 3002.41,
+      "shortage": 337.17,
+      "shortage_pct": 10.1,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "banashankari temple ward",
+    "name": "Banashankari Temple Ward",
+    "before": {
+      "pressure": 10.47,
+      "demand": 1391.76,
+      "supply": 1338.11,
+      "shortage": 53.64,
+      "shortage_pct": 3.85,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.08,
+      "demand": 1391.76,
+      "supply": 1361.09,
+      "shortage": 30.67,
+      "shortage_pct": 2.2,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "bapujinagar",
+    "name": "Bapujinagar",
+    "before": {
+      "pressure": 79.99,
+      "demand": 1531.39,
+      "supply": 1328.3,
+      "shortage": 203.09,
+      "shortage_pct": 13.26,
+      "leakage": 1.4
+    },
+    "after": {
+      "pressure": 84.67,
+      "demand": 1531.39,
+      "supply": 1415.27,
+      "shortage": 116.11,
+      "shortage_pct": 7.58,
+      "leakage": 1.28
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "basavanagudi",
+    "name": "Basavanagudi",
+    "before": {
+      "pressure": 8.62,
+      "demand": 1591.83,
+      "supply": 1278.74,
+      "shortage": 313.09,
+      "shortage_pct": 19.67,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.12,
+      "demand": 1591.83,
+      "supply": 1412.83,
+      "shortage": 179.0,
+      "shortage_pct": 11.24,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "basavanapura",
+    "name": "Basavanapura",
+    "before": {
+      "pressure": 11.11,
+      "demand": 2184.08,
+      "supply": 1905.06,
+      "shortage": 279.02,
+      "shortage_pct": 12.78,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.77,
+      "demand": 2184.08,
+      "supply": 2024.56,
+      "shortage": 159.53,
+      "shortage_pct": 7.3,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "basaveshwaranagar",
+    "name": "Basaveshwaranagar",
+    "before": {
+      "pressure": 100.65,
+      "demand": 1991.56,
+      "supply": 1786.93,
+      "shortage": 204.63,
+      "shortage_pct": 10.27,
+      "leakage": 1.81
+    },
+    "after": {
+      "pressure": 106.54,
+      "demand": 1991.56,
+      "supply": 1874.57,
+      "shortage": 116.99,
+      "shortage_pct": 5.87,
+      "leakage": 1.66
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "begur",
+    "name": "Begur",
+    "before": {
+      "pressure": 36.57,
+      "demand": 3666.63,
+      "supply": 3215.11,
+      "shortage": 451.53,
+      "shortage_pct": 12.31,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 38.71,
+      "demand": 3666.63,
+      "supply": 3408.48,
+      "shortage": 258.15,
+      "shortage_pct": 7.04,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "bellandur",
+    "name": "Bellandur",
+    "before": {
+      "pressure": 9.61,
+      "demand": 3876.35,
+      "supply": 3420.55,
+      "shortage": 455.8,
+      "shortage_pct": 11.76,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.17,
+      "demand": 3876.35,
+      "supply": 3615.76,
+      "shortage": 260.6,
+      "shortage_pct": 6.72,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "benniganahalli",
+    "name": "Benniganahalli",
+    "before": {
+      "pressure": 88.21,
+      "demand": 4257.53,
+      "supply": 3747.31,
+      "shortage": 510.22,
+      "shortage_pct": 11.98,
+      "leakage": 1.56
+    },
+    "after": {
+      "pressure": 93.37,
+      "demand": 4257.53,
+      "supply": 3965.82,
+      "shortage": 291.71,
+      "shortage_pct": 6.85,
+      "leakage": 1.43
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "bharathinagar",
+    "name": "Bharathinagar",
+    "before": {
+      "pressure": 13.27,
+      "demand": 1111.81,
+      "supply": 1067.22,
+      "shortage": 44.59,
+      "shortage_pct": 4.01,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 14.05,
+      "demand": 1111.81,
+      "supply": 1086.32,
+      "shortage": 25.49,
+      "shortage_pct": 2.29,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "bilekahalli",
+    "name": "Bilekahalli",
+    "before": {
+      "pressure": 10.09,
+      "demand": 2940.94,
+      "supply": 2642.52,
+      "shortage": 298.41,
+      "shortage_pct": 10.15,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.68,
+      "demand": 2940.94,
+      "supply": 2770.33,
+      "shortage": 170.61,
+      "shortage_pct": 5.8,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "binnypet",
+    "name": "Binnypet",
+    "before": {
+      "pressure": 114.51,
+      "demand": 1217.72,
+      "supply": 1189.31,
+      "shortage": 28.4,
+      "shortage_pct": 2.33,
+      "leakage": 2.09
+    },
+    "after": {
+      "pressure": 121.21,
+      "demand": 1217.72,
+      "supply": 1201.48,
+      "shortage": 16.24,
+      "shortage_pct": 1.33,
+      "leakage": 1.91
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "bommanahalli",
+    "name": "Bommanahalli",
+    "before": {
+      "pressure": 107.2,
+      "demand": 3444.38,
+      "supply": 2820.39,
+      "shortage": 623.99,
+      "shortage_pct": 18.12,
+      "leakage": 1.94
+    },
+    "after": {
+      "pressure": 113.48,
+      "demand": 3444.38,
+      "supply": 3087.63,
+      "shortage": 356.75,
+      "shortage_pct": 10.36,
+      "leakage": 1.78
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "btm layout",
+    "name": "Btm Layout",
+    "before": {
+      "pressure": 11.33,
+      "demand": 2990.85,
+      "supply": 2543.48,
+      "shortage": 447.37,
+      "shortage_pct": 14.96,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 12.0,
+      "demand": 2990.85,
+      "supply": 2735.07,
+      "shortage": 255.78,
+      "shortage_pct": 8.55,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "byatarayanapura",
+    "name": "Byatarayanapura",
+    "before": {
+      "pressure": 11.32,
+      "demand": 3474.46,
+      "supply": 2839.19,
+      "shortage": 635.27,
+      "shortage_pct": 18.28,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.99,
+      "demand": 3474.46,
+      "supply": 3111.26,
+      "shortage": 363.2,
+      "shortage_pct": 10.45,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "byrasandra",
+    "name": "Byrasandra",
+    "before": {
+      "pressure": 8.92,
+      "demand": 1356.63,
+      "supply": 1353.73,
+      "shortage": 2.9,
+      "shortage_pct": 0.21,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.44,
+      "demand": 1356.63,
+      "supply": 1354.97,
+      "shortage": 1.66,
+      "shortage_pct": 0.12,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "c.v. ramannagar",
+    "name": "C.V. Ramannagar",
+    "before": {
+      "pressure": 97.9,
+      "demand": 941.23,
+      "supply": 907.5,
+      "shortage": 33.74,
+      "shortage_pct": 3.58,
+      "leakage": 1.76
+    },
+    "after": {
+      "pressure": 103.64,
+      "demand": 941.23,
+      "supply": 921.95,
+      "shortage": 19.29,
+      "shortage_pct": 2.05,
+      "leakage": 1.61
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "chalavadipalya",
+    "name": "Chalavadipalya",
+    "before": {
+      "pressure": 135.61,
+      "demand": 645.73,
+      "supply": 627.9,
+      "shortage": 17.83,
+      "shortage_pct": 2.76,
+      "leakage": 2.51
+    },
+    "after": {
+      "pressure": 143.55,
+      "demand": 645.73,
+      "supply": 635.53,
+      "shortage": 10.19,
+      "shortage_pct": 1.58,
+      "leakage": 2.3
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "chamrajpet",
+    "name": "Chamrajpet",
+    "before": {
+      "pressure": 49.54,
+      "demand": 1919.86,
+      "supply": 1682.7,
+      "shortage": 237.17,
+      "shortage_pct": 12.35,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 52.44,
+      "demand": 1919.86,
+      "supply": 1784.27,
+      "shortage": 135.6,
+      "shortage_pct": 7.06,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "chikkallasandra",
+    "name": "Chikkallasandra",
+    "before": {
+      "pressure": 11.41,
+      "demand": 1532.32,
+      "supply": 1368.33,
+      "shortage": 163.99,
+      "shortage_pct": 10.7,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 12.08,
+      "demand": 1532.32,
+      "supply": 1438.57,
+      "shortage": 93.76,
+      "shortage_pct": 6.12,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "chikpet",
+    "name": "Chikpet",
+    "before": {
+      "pressure": 85.34,
+      "demand": 1309.48,
+      "supply": 1247.2,
+      "shortage": 62.28,
+      "shortage_pct": 4.76,
+      "leakage": 1.51
+    },
+    "after": {
+      "pressure": 90.34,
+      "demand": 1309.48,
+      "supply": 1273.87,
+      "shortage": 35.61,
+      "shortage_pct": 2.72,
+      "leakage": 1.38
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "chokkasandra",
+    "name": "Chokkasandra",
+    "before": {
+      "pressure": 8.8,
+      "demand": 1631.14,
+      "supply": 1453.3,
+      "shortage": 177.84,
+      "shortage_pct": 10.9,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.31,
+      "demand": 1631.14,
+      "supply": 1529.47,
+      "shortage": 101.68,
+      "shortage_pct": 6.23,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "chowdeshwari ward",
+    "name": "Chowdeshwari Ward",
+    "before": {
+      "pressure": 128.22,
+      "demand": 113.53,
+      "supply": 108.84,
+      "shortage": 4.69,
+      "shortage_pct": 4.13,
+      "leakage": 2.36
+    },
+    "after": {
+      "pressure": 135.73,
+      "demand": 113.53,
+      "supply": 110.85,
+      "shortage": 2.68,
+      "shortage_pct": 2.36,
+      "leakage": 2.16
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "cottonpet",
+    "name": "Cottonpet",
+    "before": {
+      "pressure": 9.4,
+      "demand": 736.74,
+      "supply": 726.25,
+      "shortage": 10.49,
+      "shortage_pct": 1.42,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.95,
+      "demand": 736.74,
+      "supply": 730.74,
+      "shortage": 6.0,
+      "shortage_pct": 0.81,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "dattathreya temple",
+    "name": "Dattathreya Temple",
+    "before": {
+      "pressure": 10.15,
+      "demand": 1340.37,
+      "supply": 1314.8,
+      "shortage": 25.58,
+      "shortage_pct": 1.91,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.74,
+      "demand": 1340.37,
+      "supply": 1325.75,
+      "shortage": 14.62,
+      "shortage_pct": 1.09,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "dayanandanagar",
+    "name": "Dayanandanagar",
+    "before": {
+      "pressure": 107.97,
+      "demand": 981.99,
+      "supply": 955.38,
+      "shortage": 26.6,
+      "shortage_pct": 2.71,
+      "leakage": 1.96
+    },
+    "after": {
+      "pressure": 114.3,
+      "demand": 981.99,
+      "supply": 966.78,
+      "shortage": 15.21,
+      "shortage_pct": 1.55,
+      "leakage": 1.79
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "deepanjali nagar",
+    "name": "Deepanjali Nagar",
+    "before": {
+      "pressure": 130.93,
+      "demand": 892.44,
+      "supply": 879.81,
+      "shortage": 12.63,
+      "shortage_pct": 1.42,
+      "leakage": 2.42
+    },
+    "after": {
+      "pressure": 138.6,
+      "demand": 892.44,
+      "supply": 885.22,
+      "shortage": 7.22,
+      "shortage_pct": 0.81,
+      "leakage": 2.21
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "devarajeevanahalli",
+    "name": "Devarajeevanahalli",
+    "before": {
+      "pressure": 9.08,
+      "demand": 925.95,
+      "supply": 883.51,
+      "shortage": 42.44,
+      "shortage_pct": 4.58,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.61,
+      "demand": 925.95,
+      "supply": 901.68,
+      "shortage": 24.27,
+      "shortage_pct": 2.62,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "devasandra",
+    "name": "Devasandra",
+    "before": {
+      "pressure": 80.52,
+      "demand": 943.08,
+      "supply": 927.15,
+      "shortage": 15.93,
+      "shortage_pct": 1.69,
+      "leakage": 1.41
+    },
+    "after": {
+      "pressure": 85.24,
+      "demand": 943.08,
+      "supply": 933.97,
+      "shortage": 9.11,
+      "shortage_pct": 0.97,
+      "leakage": 1.29
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "dharmarayaswamy temple ward",
+    "name": "Dharmarayaswamy Temple Ward",
+    "before": {
+      "pressure": 62.99,
+      "demand": 1155.58,
+      "supply": 1139.6,
+      "shortage": 15.97,
+      "shortage_pct": 1.38,
+      "leakage": 1.06
+    },
+    "after": {
+      "pressure": 66.67,
+      "demand": 1155.58,
+      "supply": 1146.45,
+      "shortage": 9.13,
+      "shortage_pct": 0.79,
+      "leakage": 0.97
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "doddabidirakalu",
+    "name": "Doddabidirakalu",
+    "before": {
+      "pressure": 94.49,
+      "demand": -0.0,
+      "supply": 0.0,
+      "shortage": 0.0,
+      "shortage_pct": 0.0,
+      "leakage": 1.69
+    },
+    "after": {
+      "pressure": 100.02,
+      "demand": -0.0,
+      "supply": -0.0,
+      "shortage": 0.0,
+      "shortage_pct": 0.0,
+      "leakage": 1.55
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "doddabommasandra",
+    "name": "Doddabommasandra",
+    "before": {
+      "pressure": 96.47,
+      "demand": 328.83,
+      "supply": 321.69,
+      "shortage": 7.14,
+      "shortage_pct": 2.17,
+      "leakage": 1.73
+    },
+    "after": {
+      "pressure": 102.12,
+      "demand": 328.83,
+      "supply": 324.75,
+      "shortage": 4.08,
+      "shortage_pct": 1.24,
+      "leakage": 1.58
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "doddanekkundi",
+    "name": "Doddanekkundi",
+    "before": {
+      "pressure": 61.11,
+      "demand": 5084.99,
+      "supply": 4513.45,
+      "shortage": 571.53,
+      "shortage_pct": 11.24,
+      "leakage": 1.02
+    },
+    "after": {
+      "pressure": 64.69,
+      "demand": 5084.99,
+      "supply": 4758.22,
+      "shortage": 326.76,
+      "shortage_pct": 6.43,
+      "leakage": 0.94
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "dommalur",
+    "name": "Dommalur",
+    "before": {
+      "pressure": 9.46,
+      "demand": 2292.38,
+      "supply": 1952.51,
+      "shortage": 339.87,
+      "shortage_pct": 14.83,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.02,
+      "demand": 2292.38,
+      "supply": 2098.06,
+      "shortage": 194.31,
+      "shortage_pct": 8.48,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "dr. rajkumar ward",
+    "name": "Dr. Rajkumar Ward",
+    "before": {
+      "pressure": 119.7,
+      "demand": 992.58,
+      "supply": 950.94,
+      "shortage": 41.64,
+      "shortage_pct": 4.19,
+      "leakage": 2.19
+    },
+    "after": {
+      "pressure": 126.71,
+      "demand": 992.58,
+      "supply": 968.77,
+      "shortage": 23.8,
+      "shortage_pct": 2.4,
+      "leakage": 2.01
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "ejipura",
+    "name": "Ejipura",
+    "before": {
+      "pressure": 121.42,
+      "demand": 1604.96,
+      "supply": 1428.8,
+      "shortage": 176.17,
+      "shortage_pct": 10.98,
+      "leakage": 2.23
+    },
+    "after": {
+      "pressure": 128.53,
+      "demand": 1604.96,
+      "supply": 1504.24,
+      "shortage": 100.72,
+      "shortage_pct": 6.28,
+      "leakage": 2.04
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "gali anjaneya swamy temple ward",
+    "name": "Gali Anjaneya Swamy Temple Ward",
+    "before": {
+      "pressure": 9.08,
+      "demand": 1607.25,
+      "supply": 1340.9,
+      "shortage": 266.35,
+      "shortage_pct": 16.57,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.61,
+      "demand": 1607.25,
+      "supply": 1454.97,
+      "shortage": 152.28,
+      "shortage_pct": 9.47,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "gandhinagar",
+    "name": "Gandhinagar",
+    "before": {
+      "pressure": 10.37,
+      "demand": 4449.65,
+      "supply": 3741.13,
+      "shortage": 708.52,
+      "shortage_pct": 15.92,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.98,
+      "demand": 4449.65,
+      "supply": 4044.57,
+      "shortage": 405.08,
+      "shortage_pct": 9.1,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "ganeshmandira ward",
+    "name": "Ganeshmandira Ward",
+    "before": {
+      "pressure": 10.0,
+      "demand": 1289.6,
+      "supply": 1234.91,
+      "shortage": 54.7,
+      "shortage_pct": 4.24,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.58,
+      "demand": 1289.6,
+      "supply": 1258.33,
+      "shortage": 31.27,
+      "shortage_pct": 2.42,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "ganganagar",
+    "name": "Ganganagar",
+    "before": {
+      "pressure": 10.5,
+      "demand": 843.95,
+      "supply": 819.93,
+      "shortage": 24.02,
+      "shortage_pct": 2.85,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.12,
+      "demand": 843.95,
+      "supply": 830.22,
+      "shortage": 13.73,
+      "shortage_pct": 1.63,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "gangenahalli",
+    "name": "Gangenahalli",
+    "before": {
+      "pressure": 8.78,
+      "demand": 555.69,
+      "supply": 539.25,
+      "shortage": 16.44,
+      "shortage_pct": 2.96,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.29,
+      "demand": 555.69,
+      "supply": 546.29,
+      "shortage": 9.4,
+      "shortage_pct": 1.69,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "garudacharpalya",
+    "name": "Garudacharpalya",
+    "before": {
+      "pressure": 115.54,
+      "demand": 2177.93,
+      "supply": 1800.1,
+      "shortage": 377.83,
+      "shortage_pct": 17.35,
+      "leakage": 2.11
+    },
+    "after": {
+      "pressure": 122.31,
+      "demand": 2177.93,
+      "supply": 1961.91,
+      "shortage": 216.02,
+      "shortage_pct": 9.92,
+      "leakage": 1.93
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "gayathrinagar",
+    "name": "Gayathrinagar",
+    "before": {
+      "pressure": 132.03,
+      "demand": 1371.44,
+      "supply": 1358.94,
+      "shortage": 12.5,
+      "shortage_pct": 0.91,
+      "leakage": 2.44
+    },
+    "after": {
+      "pressure": 139.76,
+      "demand": 1371.44,
+      "supply": 1364.29,
+      "shortage": 7.15,
+      "shortage_pct": 0.52,
+      "leakage": 2.23
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "girinagar",
+    "name": "Girinagar",
+    "before": {
+      "pressure": 5.68,
+      "demand": 2223.33,
+      "supply": 1917.08,
+      "shortage": 306.25,
+      "shortage_pct": 13.77,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 6.02,
+      "demand": 2223.33,
+      "supply": 2048.24,
+      "shortage": 175.09,
+      "shortage_pct": 7.88,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "gottigere",
+    "name": "Gottigere",
+    "before": {
+      "pressure": 9.85,
+      "demand": 1149.8,
+      "supply": 1149.14,
+      "shortage": 0.66,
+      "shortage_pct": 0.06,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.43,
+      "demand": 1149.8,
+      "supply": 1149.42,
+      "shortage": 0.38,
+      "shortage_pct": 0.03,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "govindrajnagara",
+    "name": "Govindrajnagara",
+    "before": {
+      "pressure": 95.35,
+      "demand": 786.28,
+      "supply": 763.78,
+      "shortage": 22.51,
+      "shortage_pct": 2.86,
+      "leakage": 1.71
+    },
+    "after": {
+      "pressure": 100.94,
+      "demand": 786.28,
+      "supply": 773.41,
+      "shortage": 12.87,
+      "shortage_pct": 1.64,
+      "leakage": 1.56
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "gurappanapalya",
+    "name": "Gurappanapalya",
+    "before": {
+      "pressure": 9.32,
+      "demand": 2146.33,
+      "supply": 1769.38,
+      "shortage": 376.95,
+      "shortage_pct": 17.56,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.87,
+      "demand": 2146.33,
+      "supply": 1930.82,
+      "shortage": 215.51,
+      "shortage_pct": 10.04,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "h.m.t",
+    "name": "H.M.T",
+    "before": {
+      "pressure": 132.0,
+      "demand": 1592.08,
+      "supply": 1290.89,
+      "shortage": 301.18,
+      "shortage_pct": 18.92,
+      "leakage": 2.44
+    },
+    "after": {
+      "pressure": 139.73,
+      "demand": 1592.08,
+      "supply": 1419.88,
+      "shortage": 172.2,
+      "shortage_pct": 10.82,
+      "leakage": 2.23
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hagadooru",
+    "name": "Hagadooru",
+    "before": {
+      "pressure": 9.84,
+      "demand": 1426.1,
+      "supply": 1414.56,
+      "shortage": 11.54,
+      "shortage_pct": 0.81,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.42,
+      "demand": 1426.1,
+      "supply": 1419.5,
+      "shortage": 6.6,
+      "shortage_pct": 0.46,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "hal airport",
+    "name": "Hal Airport",
+    "before": {
+      "pressure": 116.01,
+      "demand": 1081.43,
+      "supply": 1080.38,
+      "shortage": 1.06,
+      "shortage_pct": 0.1,
+      "leakage": 2.12
+    },
+    "after": {
+      "pressure": 122.8,
+      "demand": 1081.43,
+      "supply": 1080.83,
+      "shortage": 0.6,
+      "shortage_pct": 0.06,
+      "leakage": 1.94
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "hampinagar",
+    "name": "Hampinagar",
+    "before": {
+      "pressure": 139.1,
+      "demand": 977.87,
+      "supply": 950.31,
+      "shortage": 27.56,
+      "shortage_pct": 2.82,
+      "leakage": 2.58
+    },
+    "after": {
+      "pressure": 147.24,
+      "demand": 977.87,
+      "supply": 962.12,
+      "shortage": 15.75,
+      "shortage_pct": 1.61,
+      "leakage": 2.36
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "hanumanthanagar",
+    "name": "Hanumanthanagar",
+    "before": {
+      "pressure": 9.5,
+      "demand": 1027.08,
+      "supply": 978.99,
+      "shortage": 48.09,
+      "shortage_pct": 4.68,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.05,
+      "demand": 1027.08,
+      "supply": 999.59,
+      "shortage": 27.49,
+      "shortage_pct": 2.68,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "hbr layout",
+    "name": "Hbr Layout",
+    "before": {
+      "pressure": 8.66,
+      "demand": 2780.46,
+      "supply": 2496.71,
+      "shortage": 283.75,
+      "shortage_pct": 10.21,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.17,
+      "demand": 2780.46,
+      "supply": 2618.23,
+      "shortage": 162.23,
+      "shortage_pct": 5.83,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hebbal",
+    "name": "Hebbal",
+    "before": {
+      "pressure": 111.7,
+      "demand": 1945.34,
+      "supply": 1704.15,
+      "shortage": 241.19,
+      "shortage_pct": 12.4,
+      "leakage": 2.03
+    },
+    "after": {
+      "pressure": 118.24,
+      "demand": 1945.34,
+      "supply": 1807.44,
+      "shortage": 137.9,
+      "shortage_pct": 7.09,
+      "leakage": 1.86
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hegganahalli",
+    "name": "Hegganahalli",
+    "before": {
+      "pressure": 9.24,
+      "demand": 2799.51,
+      "supply": 2282.81,
+      "shortage": 516.69,
+      "shortage_pct": 18.46,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.78,
+      "demand": 2799.51,
+      "supply": 2504.1,
+      "shortage": 295.41,
+      "shortage_pct": 10.55,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hemmigepura",
+    "name": "Hemmigepura",
+    "before": {
+      "pressure": 108.63,
+      "demand": 1111.04,
+      "supply": 1059.13,
+      "shortage": 51.91,
+      "shortage_pct": 4.67,
+      "leakage": 1.97
+    },
+    "after": {
+      "pressure": 114.99,
+      "demand": 1111.04,
+      "supply": 1081.36,
+      "shortage": 29.68,
+      "shortage_pct": 2.67,
+      "leakage": 1.81
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "herohalli",
+    "name": "Herohalli",
+    "before": {
+      "pressure": 104.24,
+      "demand": 2386.93,
+      "supply": 2032.72,
+      "shortage": 354.21,
+      "shortage_pct": 14.84,
+      "leakage": 1.88
+    },
+    "after": {
+      "pressure": 110.34,
+      "demand": 2386.93,
+      "supply": 2184.42,
+      "shortage": 202.51,
+      "shortage_pct": 8.48,
+      "leakage": 1.73
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hombegowdanagar",
+    "name": "Hombegowdanagar",
+    "before": {
+      "pressure": 9.56,
+      "demand": 2314.17,
+      "supply": 1925.41,
+      "shortage": 388.77,
+      "shortage_pct": 16.8,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.12,
+      "demand": 2314.17,
+      "supply": 2091.9,
+      "shortage": 222.27,
+      "shortage_pct": 9.6,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hongasandra",
+    "name": "Hongasandra",
+    "before": {
+      "pressure": 54.88,
+      "demand": 4084.27,
+      "supply": 3354.25,
+      "shortage": 730.02,
+      "shortage_pct": 17.87,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 58.09,
+      "demand": 4084.27,
+      "supply": 3666.89,
+      "shortage": 417.37,
+      "shortage_pct": 10.22,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hoodi",
+    "name": "Hoodi",
+    "before": {
+      "pressure": 9.89,
+      "demand": 3649.27,
+      "supply": 3203.7,
+      "shortage": 445.57,
+      "shortage_pct": 12.21,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.47,
+      "demand": 3649.27,
+      "supply": 3394.53,
+      "shortage": 254.74,
+      "shortage_pct": 6.98,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "horamavu",
+    "name": "Horamavu",
+    "before": {
+      "pressure": 9.59,
+      "demand": 1420.96,
+      "supply": 1384.6,
+      "shortage": 36.36,
+      "shortage_pct": 2.56,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.15,
+      "demand": 1420.96,
+      "supply": 1400.17,
+      "shortage": 20.79,
+      "shortage_pct": 1.46,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "hosahalli",
+    "name": "Hosahalli",
+    "before": {
+      "pressure": 12.96,
+      "demand": 1360.36,
+      "supply": 1305.67,
+      "shortage": 54.68,
+      "shortage_pct": 4.02,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 13.72,
+      "demand": 1360.36,
+      "supply": 1329.09,
+      "shortage": 31.26,
+      "shortage_pct": 2.3,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "hosakerehalli",
+    "name": "Hosakerehalli",
+    "before": {
+      "pressure": 8.79,
+      "demand": 1955.84,
+      "supply": 1685.7,
+      "shortage": 270.14,
+      "shortage_pct": 13.81,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.3,
+      "demand": 1955.84,
+      "supply": 1801.39,
+      "shortage": 154.45,
+      "shortage_pct": 7.9,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hosathippasandra",
+    "name": "Hosathippasandra",
+    "before": {
+      "pressure": 47.66,
+      "demand": 1752.99,
+      "supply": 1403.99,
+      "shortage": 349.0,
+      "shortage_pct": 19.91,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 50.45,
+      "demand": 1752.99,
+      "supply": 1553.46,
+      "shortage": 199.53,
+      "shortage_pct": 11.38,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hoysalanagar",
+    "name": "Hoysalanagar",
+    "before": {
+      "pressure": 10.88,
+      "demand": 1783.11,
+      "supply": 1467.54,
+      "shortage": 315.58,
+      "shortage_pct": 17.7,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.52,
+      "demand": 1783.11,
+      "supply": 1602.69,
+      "shortage": 180.43,
+      "shortage_pct": 10.12,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "hsr layout",
+    "name": "Hsr Layout",
+    "before": {
+      "pressure": 9.98,
+      "demand": 6622.3,
+      "supply": 5385.91,
+      "shortage": 1236.39,
+      "shortage_pct": 18.67,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.57,
+      "demand": 6622.3,
+      "supply": 5915.42,
+      "shortage": 706.88,
+      "shortage_pct": 10.67,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "j.p.nagar",
+    "name": "J.P.Nagar",
+    "before": {
+      "pressure": 10.87,
+      "demand": 2044.67,
+      "supply": 1798.24,
+      "shortage": 246.43,
+      "shortage_pct": 12.05,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.5,
+      "demand": 2044.67,
+      "supply": 1903.78,
+      "shortage": 140.89,
+      "shortage_pct": 6.89,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "j.p.park",
+    "name": "J.P.Park",
+    "before": {
+      "pressure": 9.24,
+      "demand": 1507.52,
+      "supply": 1279.7,
+      "shortage": 227.81,
+      "shortage_pct": 15.11,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.78,
+      "demand": 1507.52,
+      "supply": 1377.27,
+      "shortage": 130.25,
+      "shortage_pct": 8.64,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "jagareevanram nagar",
+    "name": "Jagareevanram Nagar",
+    "before": {
+      "pressure": 11.22,
+      "demand": 1519.34,
+      "supply": 1246.18,
+      "shortage": 273.16,
+      "shortage_pct": 17.98,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.87,
+      "demand": 1519.34,
+      "supply": 1363.16,
+      "shortage": 156.17,
+      "shortage_pct": 10.28,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "jakkasandra",
+    "name": "Jakkasandra",
+    "before": {
+      "pressure": 9.37,
+      "demand": 1458.68,
+      "supply": 1399.62,
+      "shortage": 59.06,
+      "shortage_pct": 4.05,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.92,
+      "demand": 1458.68,
+      "supply": 1424.91,
+      "shortage": 33.77,
+      "shortage_pct": 2.31,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "jakkur",
+    "name": "Jakkur",
+    "before": {
+      "pressure": 97.54,
+      "demand": 1250.89,
+      "supply": 1197.51,
+      "shortage": 53.38,
+      "shortage_pct": 4.27,
+      "leakage": 1.75
+    },
+    "after": {
+      "pressure": 103.25,
+      "demand": 1250.89,
+      "supply": 1220.37,
+      "shortage": 30.52,
+      "shortage_pct": 2.44,
+      "leakage": 1.6
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "jalahalli",
+    "name": "Jalahalli",
+    "before": {
+      "pressure": 8.98,
+      "demand": 1096.51,
+      "supply": 1095.36,
+      "shortage": 1.15,
+      "shortage_pct": 0.1,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.51,
+      "demand": 1096.51,
+      "supply": 1095.86,
+      "shortage": 0.66,
+      "shortage_pct": 0.06,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "jaraganahalli",
+    "name": "Jaraganahalli",
+    "before": {
+      "pressure": 127.45,
+      "demand": 970.43,
+      "supply": 942.59,
+      "shortage": 27.83,
+      "shortage_pct": 2.87,
+      "leakage": 2.35
+    },
+    "after": {
+      "pressure": 134.92,
+      "demand": 970.43,
+      "supply": 954.51,
+      "shortage": 15.91,
+      "shortage_pct": 1.64,
+      "leakage": 2.15
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "jayachamarajendra nagar",
+    "name": "Jayachamarajendra Nagar",
+    "before": {
+      "pressure": 11.47,
+      "demand": 2098.73,
+      "supply": 1873.49,
+      "shortage": 225.24,
+      "shortage_pct": 10.73,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 12.15,
+      "demand": 2098.73,
+      "supply": 1969.95,
+      "shortage": 128.78,
+      "shortage_pct": 6.14,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "jayamahal",
+    "name": "Jayamahal",
+    "before": {
+      "pressure": 9.37,
+      "demand": 1388.47,
+      "supply": 1348.14,
+      "shortage": 40.32,
+      "shortage_pct": 2.9,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.92,
+      "demand": 1388.47,
+      "supply": 1365.41,
+      "shortage": 23.05,
+      "shortage_pct": 1.66,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "jayanagar",
+    "name": "Jayanagar",
+    "before": {
+      "pressure": 9.68,
+      "demand": 2065.0,
+      "supply": 1856.9,
+      "shortage": 208.11,
+      "shortage_pct": 10.08,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.25,
+      "demand": 2065.0,
+      "supply": 1946.02,
+      "shortage": 118.98,
+      "shortage_pct": 5.76,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "jayanagar east",
+    "name": "Jayanagar East",
+    "before": {
+      "pressure": 84.79,
+      "demand": 1214.06,
+      "supply": 1202.23,
+      "shortage": 11.83,
+      "shortage_pct": 0.97,
+      "leakage": 1.5
+    },
+    "after": {
+      "pressure": 89.76,
+      "demand": 1214.06,
+      "supply": 1207.3,
+      "shortage": 6.76,
+      "shortage_pct": 0.56,
+      "leakage": 1.37
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "jeevanbhimanagar",
+    "name": "Jeevanbhimanagar",
+    "before": {
+      "pressure": 135.49,
+      "demand": 1762.8,
+      "supply": 1551.3,
+      "shortage": 211.49,
+      "shortage_pct": 12.0,
+      "leakage": 2.51
+    },
+    "after": {
+      "pressure": 143.43,
+      "demand": 1762.8,
+      "supply": 1641.88,
+      "shortage": 120.92,
+      "shortage_pct": 6.86,
+      "leakage": 2.3
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "jnanabharathi ward",
+    "name": "Jnanabharathi Ward",
+    "before": {
+      "pressure": 10.2,
+      "demand": 3865.02,
+      "supply": 3178.0,
+      "shortage": 687.02,
+      "shortage_pct": 17.78,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.79,
+      "demand": 3865.02,
+      "supply": 3472.23,
+      "shortage": 392.79,
+      "shortage_pct": 10.16,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "jogupalya",
+    "name": "Jogupalya",
+    "before": {
+      "pressure": 87.0,
+      "demand": 1484.51,
+      "supply": 1451.76,
+      "shortage": 32.75,
+      "shortage_pct": 2.21,
+      "leakage": 1.54
+    },
+    "after": {
+      "pressure": 92.09,
+      "demand": 1484.51,
+      "supply": 1465.78,
+      "shortage": 18.72,
+      "shortage_pct": 1.26,
+      "leakage": 1.41
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "k.r. market",
+    "name": "K.R. Market",
+    "before": {
+      "pressure": 82.63,
+      "demand": 625.72,
+      "supply": 618.53,
+      "shortage": 7.19,
+      "shortage_pct": 1.15,
+      "leakage": 1.45
+    },
+    "after": {
+      "pressure": 87.46,
+      "demand": 625.72,
+      "supply": 621.61,
+      "shortage": 4.11,
+      "shortage_pct": 0.66,
+      "leakage": 1.33
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "k.r.puram",
+    "name": "K.R.Puram",
+    "before": {
+      "pressure": 78.55,
+      "demand": 1947.94,
+      "supply": 1622.9,
+      "shortage": 325.04,
+      "shortage_pct": 16.69,
+      "leakage": 1.37
+    },
+    "after": {
+      "pressure": 83.15,
+      "demand": 1947.94,
+      "supply": 1762.1,
+      "shortage": 185.84,
+      "shortage_pct": 9.54,
+      "leakage": 1.26
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kacharakanahalli",
+    "name": "Kacharakanahalli",
+    "before": {
+      "pressure": 9.06,
+      "demand": 1558.86,
+      "supply": 1333.86,
+      "shortage": 225.01,
+      "shortage_pct": 14.43,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.59,
+      "demand": 1558.86,
+      "supply": 1430.22,
+      "shortage": 128.64,
+      "shortage_pct": 8.25,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kadugodi",
+    "name": "Kadugodi",
+    "before": {
+      "pressure": 11.15,
+      "demand": 539.46,
+      "supply": 533.38,
+      "shortage": 6.08,
+      "shortage_pct": 1.13,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.81,
+      "demand": 539.46,
+      "supply": 535.98,
+      "shortage": 3.47,
+      "shortage_pct": 0.64,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kadugondanahalli",
+    "name": "Kadugondanahalli",
+    "before": {
+      "pressure": 9.27,
+      "demand": 1608.39,
+      "supply": 1419.25,
+      "shortage": 189.14,
+      "shortage_pct": 11.76,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.81,
+      "demand": 1608.39,
+      "supply": 1500.25,
+      "shortage": 108.14,
+      "shortage_pct": 6.72,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kadumalleshwara",
+    "name": "Kadumalleshwara",
+    "before": {
+      "pressure": 9.5,
+      "demand": 1823.01,
+      "supply": 1515.92,
+      "shortage": 307.09,
+      "shortage_pct": 16.85,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.06,
+      "demand": 1823.01,
+      "supply": 1647.44,
+      "shortage": 175.57,
+      "shortage_pct": 9.63,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kamakshipalya",
+    "name": "Kamakshipalya",
+    "before": {
+      "pressure": 8.51,
+      "demand": 1110.88,
+      "supply": 1058.88,
+      "shortage": 52.0,
+      "shortage_pct": 4.68,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.01,
+      "demand": 1110.88,
+      "supply": 1081.15,
+      "shortage": 29.73,
+      "shortage_pct": 2.68,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kammanahalli",
+    "name": "Kammanahalli",
+    "before": {
+      "pressure": 144.67,
+      "demand": 2119.14,
+      "supply": 1795.32,
+      "shortage": 323.82,
+      "shortage_pct": 15.28,
+      "leakage": 2.69
+    },
+    "after": {
+      "pressure": 153.14,
+      "demand": 2119.14,
+      "supply": 1934.0,
+      "shortage": 185.14,
+      "shortage_pct": 8.74,
+      "leakage": 2.47
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "karisandra",
+    "name": "Karisandra",
+    "before": {
+      "pressure": 8.92,
+      "demand": 1402.06,
+      "supply": 1365.27,
+      "shortage": 36.78,
+      "shortage_pct": 2.62,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.44,
+      "demand": 1402.06,
+      "supply": 1381.02,
+      "shortage": 21.03,
+      "shortage_pct": 1.5,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "katriguppe",
+    "name": "Katriguppe",
+    "before": {
+      "pressure": 130.82,
+      "demand": 1695.55,
+      "supply": 1511.93,
+      "shortage": 183.62,
+      "shortage_pct": 10.83,
+      "leakage": 2.42
+    },
+    "after": {
+      "pressure": 138.48,
+      "demand": 1695.55,
+      "supply": 1590.57,
+      "shortage": 104.98,
+      "shortage_pct": 6.19,
+      "leakage": 2.21
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kavalbyrasandra",
+    "name": "Kavalbyrasandra",
+    "before": {
+      "pressure": 101.53,
+      "demand": 1304.91,
+      "supply": 1275.63,
+      "shortage": 29.28,
+      "shortage_pct": 2.24,
+      "leakage": 1.83
+    },
+    "after": {
+      "pressure": 107.47,
+      "demand": 1304.91,
+      "supply": 1288.17,
+      "shortage": 16.74,
+      "shortage_pct": 1.28,
+      "leakage": 1.68
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kaveripura",
+    "name": "Kaveripura",
+    "before": {
+      "pressure": 8.98,
+      "demand": 1257.17,
+      "supply": 1222.4,
+      "shortage": 34.78,
+      "shortage_pct": 2.77,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.5,
+      "demand": 1257.17,
+      "supply": 1237.29,
+      "shortage": 19.88,
+      "shortage_pct": 1.58,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kempapura agrahara",
+    "name": "Kempapura Agrahara",
+    "before": {
+      "pressure": 69.64,
+      "demand": 1018.97,
+      "supply": 979.54,
+      "shortage": 39.43,
+      "shortage_pct": 3.87,
+      "leakage": 1.19
+    },
+    "after": {
+      "pressure": 73.71,
+      "demand": 1018.97,
+      "supply": 996.42,
+      "shortage": 22.54,
+      "shortage_pct": 2.21,
+      "leakage": 1.09
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kempegowda ward",
+    "name": "Kempegowda Ward",
+    "before": {
+      "pressure": 11.2,
+      "demand": 1306.53,
+      "supply": 1279.79,
+      "shortage": 26.74,
+      "shortage_pct": 2.05,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.86,
+      "demand": 1306.53,
+      "supply": 1291.24,
+      "shortage": 15.29,
+      "shortage_pct": 1.17,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kengeri",
+    "name": "Kengeri",
+    "before": {
+      "pressure": 89.39,
+      "demand": 3357.91,
+      "supply": 2938.01,
+      "shortage": 419.9,
+      "shortage_pct": 12.5,
+      "leakage": 1.59
+    },
+    "after": {
+      "pressure": 94.63,
+      "demand": 3357.91,
+      "supply": 3117.84,
+      "shortage": 240.07,
+      "shortage_pct": 7.15,
+      "leakage": 1.45
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kodigehalli",
+    "name": "Kodigehalli",
+    "before": {
+      "pressure": 9.46,
+      "demand": 1552.87,
+      "supply": 1264.89,
+      "shortage": 287.98,
+      "shortage_pct": 18.54,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.01,
+      "demand": 1552.87,
+      "supply": 1388.22,
+      "shortage": 164.65,
+      "shortage_pct": 10.6,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "konanakunte",
+    "name": "Konanakunte",
+    "before": {
+      "pressure": 10.47,
+      "demand": 3458.09,
+      "supply": 2859.47,
+      "shortage": 598.62,
+      "shortage_pct": 17.31,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.09,
+      "demand": 3458.09,
+      "supply": 3115.84,
+      "shortage": 342.25,
+      "shortage_pct": 9.9,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "konena agrahara",
+    "name": "Konena Agrahara",
+    "before": {
+      "pressure": 11.32,
+      "demand": 1516.93,
+      "supply": 1284.23,
+      "shortage": 232.7,
+      "shortage_pct": 15.34,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.99,
+      "demand": 1516.93,
+      "supply": 1383.89,
+      "shortage": 133.04,
+      "shortage_pct": 8.77,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "koramangala",
+    "name": "Koramangala",
+    "before": {
+      "pressure": 131.82,
+      "demand": 3358.96,
+      "supply": 2877.65,
+      "shortage": 481.31,
+      "shortage_pct": 14.33,
+      "leakage": 2.44
+    },
+    "after": {
+      "pressure": 139.53,
+      "demand": 3358.96,
+      "supply": 3083.78,
+      "shortage": 275.18,
+      "shortage_pct": 8.19,
+      "leakage": 2.23
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kottigepalya",
+    "name": "Kottigepalya",
+    "before": {
+      "pressure": 9.89,
+      "demand": 2364.25,
+      "supply": 2090.7,
+      "shortage": 273.55,
+      "shortage_pct": 11.57,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.47,
+      "demand": 2364.25,
+      "supply": 2207.86,
+      "shortage": 156.4,
+      "shortage_pct": 6.62,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kumaraswamy layout",
+    "name": "Kumaraswamy Layout",
+    "before": {
+      "pressure": 119.21,
+      "demand": 3116.58,
+      "supply": 2697.05,
+      "shortage": 419.54,
+      "shortage_pct": 13.46,
+      "leakage": 2.18
+    },
+    "after": {
+      "pressure": 126.19,
+      "demand": 3116.58,
+      "supply": 2876.72,
+      "shortage": 239.86,
+      "shortage_pct": 7.7,
+      "leakage": 2.0
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "kushalnagar",
+    "name": "Kushalnagar",
+    "before": {
+      "pressure": 8.6,
+      "demand": 673.12,
+      "supply": 656.62,
+      "shortage": 16.5,
+      "shortage_pct": 2.45,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.11,
+      "demand": 673.12,
+      "supply": 663.69,
+      "shortage": 9.43,
+      "shortage_pct": 1.4,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "kuvempunagar",
+    "name": "Kuvempunagar",
+    "before": {
+      "pressure": 128.62,
+      "demand": 752.96,
+      "supply": 732.43,
+      "shortage": 20.53,
+      "shortage_pct": 2.73,
+      "leakage": 2.37
+    },
+    "after": {
+      "pressure": 136.15,
+      "demand": 752.96,
+      "supply": 741.22,
+      "shortage": 11.74,
+      "shortage_pct": 1.56,
+      "leakage": 2.17
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "laggere",
+    "name": "Laggere",
+    "before": {
+      "pressure": 75.22,
+      "demand": 2870.62,
+      "supply": 2426.45,
+      "shortage": 444.16,
+      "shortage_pct": 15.47,
+      "leakage": 1.3
+    },
+    "after": {
+      "pressure": 79.63,
+      "demand": 2870.62,
+      "supply": 2616.68,
+      "shortage": 253.94,
+      "shortage_pct": 8.85,
+      "leakage": 1.19
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "lakkasandra",
+    "name": "Lakkasandra",
+    "before": {
+      "pressure": 8.82,
+      "demand": 1107.51,
+      "supply": 1099.26,
+      "shortage": 8.25,
+      "shortage_pct": 0.74,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.33,
+      "demand": 1107.51,
+      "supply": 1102.79,
+      "shortage": 4.72,
+      "shortage_pct": 0.43,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "lakshmidevinagar",
+    "name": "Lakshmidevinagar",
+    "before": {
+      "pressure": 113.34,
+      "demand": 1216.64,
+      "supply": 1194.26,
+      "shortage": 22.38,
+      "shortage_pct": 1.84,
+      "leakage": 2.07
+    },
+    "after": {
+      "pressure": 119.98,
+      "demand": 1216.64,
+      "supply": 1203.84,
+      "shortage": 12.8,
+      "shortage_pct": 1.05,
+      "leakage": 1.89
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "lingarajapura",
+    "name": "Lingarajapura",
+    "before": {
+      "pressure": 8.85,
+      "demand": 1102.88,
+      "supply": 1078.9,
+      "shortage": 23.98,
+      "shortage_pct": 2.17,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.37,
+      "demand": 1102.88,
+      "supply": 1089.17,
+      "shortage": 13.71,
+      "shortage_pct": 1.24,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "madiwala",
+    "name": "Madiwala",
+    "before": {
+      "pressure": 10.88,
+      "demand": 2004.45,
+      "supply": 1712.53,
+      "shortage": 291.92,
+      "shortage_pct": 14.56,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.52,
+      "demand": 2004.45,
+      "supply": 1837.55,
+      "shortage": 166.9,
+      "shortage_pct": 8.33,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "mahalakshmipuram",
+    "name": "Mahalakshmipuram",
+    "before": {
+      "pressure": 9.28,
+      "demand": 1386.17,
+      "supply": 1370.83,
+      "shortage": 15.34,
+      "shortage_pct": 1.11,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.82,
+      "demand": 1386.17,
+      "supply": 1377.4,
+      "shortage": 8.77,
+      "shortage_pct": 0.63,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "mallasandra",
+    "name": "Mallasandra",
+    "before": {
+      "pressure": 9.62,
+      "demand": 866.2,
+      "supply": 860.82,
+      "shortage": 5.38,
+      "shortage_pct": 0.62,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.18,
+      "demand": 866.2,
+      "supply": 863.13,
+      "shortage": 3.08,
+      "shortage_pct": 0.36,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "malleshwaram",
+    "name": "Malleshwaram",
+    "before": {
+      "pressure": 86.89,
+      "demand": 1222.01,
+      "supply": 1163.69,
+      "shortage": 58.32,
+      "shortage_pct": 4.77,
+      "leakage": 1.54
+    },
+    "after": {
+      "pressure": 91.97,
+      "demand": 1222.01,
+      "supply": 1188.66,
+      "shortage": 33.34,
+      "shortage_pct": 2.73,
+      "leakage": 1.41
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "mangammanapalya",
+    "name": "Mangammanapalya",
+    "before": {
+      "pressure": 9.53,
+      "demand": 1059.04,
+      "supply": 1020.72,
+      "shortage": 38.32,
+      "shortage_pct": 3.62,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.09,
+      "demand": 1059.04,
+      "supply": 1037.13,
+      "shortage": 21.91,
+      "shortage_pct": 2.07,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "manorayanapalya",
+    "name": "Manorayanapalya",
+    "before": {
+      "pressure": 119.54,
+      "demand": 691.39,
+      "supply": 660.84,
+      "shortage": 30.55,
+      "shortage_pct": 4.42,
+      "leakage": 2.19
+    },
+    "after": {
+      "pressure": 126.54,
+      "demand": 691.39,
+      "supply": 673.92,
+      "shortage": 17.47,
+      "shortage_pct": 2.53,
+      "leakage": 2.01
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "marappanahalli",
+    "name": "Marappanahalli",
+    "before": {
+      "pressure": 9.26,
+      "demand": 1438.05,
+      "supply": 1416.07,
+      "shortage": 21.98,
+      "shortage_pct": 1.53,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.8,
+      "demand": 1438.05,
+      "supply": 1425.48,
+      "shortage": 12.57,
+      "shortage_pct": 0.87,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "marathalli",
+    "name": "Marathalli",
+    "before": {
+      "pressure": 105.85,
+      "demand": 1838.62,
+      "supply": 1599.02,
+      "shortage": 239.6,
+      "shortage_pct": 13.03,
+      "leakage": 1.92
+    },
+    "after": {
+      "pressure": 112.05,
+      "demand": 1838.62,
+      "supply": 1701.63,
+      "shortage": 136.99,
+      "shortage_pct": 7.45,
+      "leakage": 1.75
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "marenahalli",
+    "name": "Marenahalli",
+    "before": {
+      "pressure": 10.02,
+      "demand": 1089.75,
+      "supply": 1056.68,
+      "shortage": 33.07,
+      "shortage_pct": 3.04,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.61,
+      "demand": 1089.75,
+      "supply": 1070.84,
+      "shortage": 18.91,
+      "shortage_pct": 1.74,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "maruthi mandira ward",
+    "name": "Maruthi Mandira Ward",
+    "before": {
+      "pressure": 138.48,
+      "demand": 1176.8,
+      "supply": 1117.96,
+      "shortage": 58.84,
+      "shortage_pct": 5.0,
+      "leakage": 2.57
+    },
+    "after": {
+      "pressure": 146.59,
+      "demand": 1176.8,
+      "supply": 1143.16,
+      "shortage": 33.64,
+      "shortage_pct": 2.86,
+      "leakage": 2.35
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "maruthiseva nagar",
+    "name": "Maruthiseva Nagar",
+    "before": {
+      "pressure": 90.89,
+      "demand": 1866.88,
+      "supply": 1599.95,
+      "shortage": 266.93,
+      "shortage_pct": 14.3,
+      "leakage": 1.62
+    },
+    "after": {
+      "pressure": 96.21,
+      "demand": 1866.88,
+      "supply": 1714.27,
+      "shortage": 152.61,
+      "shortage_pct": 8.17,
+      "leakage": 1.48
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "mathikere",
+    "name": "Mathikere",
+    "before": {
+      "pressure": 8.92,
+      "demand": 1053.07,
+      "supply": 1017.87,
+      "shortage": 35.2,
+      "shortage_pct": 3.34,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.45,
+      "demand": 1053.07,
+      "supply": 1032.95,
+      "shortage": 20.13,
+      "shortage_pct": 1.91,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "moodalapalya",
+    "name": "Moodalapalya",
+    "before": {
+      "pressure": 62.14,
+      "demand": 1555.14,
+      "supply": 1266.84,
+      "shortage": 288.29,
+      "shortage_pct": 18.54,
+      "leakage": 1.04
+    },
+    "after": {
+      "pressure": 65.78,
+      "demand": 1555.14,
+      "supply": 1390.31,
+      "shortage": 164.82,
+      "shortage_pct": 10.6,
+      "leakage": 0.95
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "muneshwaranagar",
+    "name": "Muneshwaranagar",
+    "before": {
+      "pressure": 10.96,
+      "demand": 429.77,
+      "supply": 424.92,
+      "shortage": 4.85,
+      "shortage_pct": 1.13,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.6,
+      "demand": 429.77,
+      "supply": 426.99,
+      "shortage": 2.77,
+      "shortage_pct": 0.65,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "nagapura",
+    "name": "Nagapura",
+    "before": {
+      "pressure": 9.41,
+      "demand": 2038.63,
+      "supply": 1729.35,
+      "shortage": 309.27,
+      "shortage_pct": 15.17,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.96,
+      "demand": 2038.63,
+      "supply": 1861.8,
+      "shortage": 176.82,
+      "shortage_pct": 8.67,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "nagarabhavi",
+    "name": "Nagarabhavi",
+    "before": {
+      "pressure": 125.05,
+      "demand": 3018.75,
+      "supply": 2551.55,
+      "shortage": 467.2,
+      "shortage_pct": 15.48,
+      "leakage": 2.3
+    },
+    "after": {
+      "pressure": 132.37,
+      "demand": 3018.75,
+      "supply": 2751.64,
+      "shortage": 267.11,
+      "shortage_pct": 8.85,
+      "leakage": 2.11
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "nagavara",
+    "name": "Nagavara",
+    "before": {
+      "pressure": 10.15,
+      "demand": 2300.0,
+      "supply": 2060.57,
+      "shortage": 239.42,
+      "shortage_pct": 10.41,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.74,
+      "demand": 2300.0,
+      "supply": 2163.11,
+      "shortage": 136.89,
+      "shortage_pct": 5.95,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "nandini layout",
+    "name": "Nandini Layout",
+    "before": {
+      "pressure": 99.35,
+      "demand": 1786.17,
+      "supply": 1568.42,
+      "shortage": 217.76,
+      "shortage_pct": 12.19,
+      "leakage": 1.79
+    },
+    "after": {
+      "pressure": 105.17,
+      "demand": 1786.17,
+      "supply": 1661.67,
+      "shortage": 124.5,
+      "shortage_pct": 6.97,
+      "leakage": 1.64
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "nayandanahalli",
+    "name": "Nayandanahalli",
+    "before": {
+      "pressure": 130.18,
+      "demand": 1443.75,
+      "supply": 1401.93,
+      "shortage": 41.82,
+      "shortage_pct": 2.9,
+      "leakage": 2.4
+    },
+    "after": {
+      "pressure": 137.8,
+      "demand": 1443.75,
+      "supply": 1419.84,
+      "shortage": 23.91,
+      "shortage_pct": 1.66,
+      "leakage": 2.2
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "neelasandra",
+    "name": "Neelasandra",
+    "before": {
+      "pressure": 124.63,
+      "demand": 731.63,
+      "supply": 720.55,
+      "shortage": 11.08,
+      "shortage_pct": 1.51,
+      "leakage": 2.29
+    },
+    "after": {
+      "pressure": 131.93,
+      "demand": 731.63,
+      "supply": 725.29,
+      "shortage": 6.34,
+      "shortage_pct": 0.87,
+      "leakage": 2.1
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "okalipuram",
+    "name": "Okalipuram",
+    "before": {
+      "pressure": 18.79,
+      "demand": 1516.59,
+      "supply": 1362.18,
+      "shortage": 154.41,
+      "shortage_pct": 10.18,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 19.89,
+      "demand": 1516.59,
+      "supply": 1428.31,
+      "shortage": 88.28,
+      "shortage_pct": 5.82,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "padarayanapura",
+    "name": "Padarayanapura",
+    "before": {
+      "pressure": 98.08,
+      "demand": 845.42,
+      "supply": 839.45,
+      "shortage": 5.96,
+      "shortage_pct": 0.71,
+      "leakage": 1.76
+    },
+    "after": {
+      "pressure": 103.82,
+      "demand": 845.42,
+      "supply": 842.01,
+      "shortage": 3.41,
+      "shortage_pct": 0.4,
+      "leakage": 1.61
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "padmanabhanagar",
+    "name": "Padmanabhanagar",
+    "before": {
+      "pressure": 10.53,
+      "demand": 2132.91,
+      "supply": 1731.32,
+      "shortage": 401.59,
+      "shortage_pct": 18.83,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.15,
+      "demand": 2132.91,
+      "supply": 1903.31,
+      "shortage": 229.6,
+      "shortage_pct": 10.76,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "pattabhiramnagar",
+    "name": "Pattabhiramnagar",
+    "before": {
+      "pressure": 128.25,
+      "demand": 1754.32,
+      "supply": 1568.94,
+      "shortage": 185.38,
+      "shortage_pct": 10.57,
+      "leakage": 2.37
+    },
+    "after": {
+      "pressure": 135.76,
+      "demand": 1754.32,
+      "supply": 1648.33,
+      "shortage": 105.99,
+      "shortage_pct": 6.04,
+      "leakage": 2.16
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "peenya industrial area",
+    "name": "Peenya Industrial Area",
+    "before": {
+      "pressure": 11.41,
+      "demand": 2259.34,
+      "supply": 1920.57,
+      "shortage": 338.78,
+      "shortage_pct": 14.99,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 12.08,
+      "demand": 2259.34,
+      "supply": 2065.65,
+      "shortage": 193.69,
+      "shortage_pct": 8.57,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "prakashnagar",
+    "name": "Prakashnagar",
+    "before": {
+      "pressure": 10.63,
+      "demand": 956.59,
+      "supply": 950.56,
+      "shortage": 6.03,
+      "shortage_pct": 0.63,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.25,
+      "demand": 956.59,
+      "supply": 953.15,
+      "shortage": 3.45,
+      "shortage_pct": 0.36,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "pulikeshinagar",
+    "name": "Pulikeshinagar",
+    "before": {
+      "pressure": 140.79,
+      "demand": 1373.67,
+      "supply": 1305.65,
+      "shortage": 68.02,
+      "shortage_pct": 4.95,
+      "leakage": 2.62
+    },
+    "after": {
+      "pressure": 149.03,
+      "demand": 1373.67,
+      "supply": 1334.78,
+      "shortage": 38.89,
+      "shortage_pct": 2.83,
+      "leakage": 2.39
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "puttenahalli",
+    "name": "Puttenahalli",
+    "before": {
+      "pressure": 43.44,
+      "demand": 1795.62,
+      "supply": 1461.64,
+      "shortage": 333.98,
+      "shortage_pct": 18.6,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 45.98,
+      "demand": 1795.62,
+      "supply": 1604.67,
+      "shortage": 190.95,
+      "shortage_pct": 10.63,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "radhakrishna temple ward",
+    "name": "Radhakrishna Temple Ward",
+    "before": {
+      "pressure": 21.55,
+      "demand": 1160.24,
+      "supply": 1104.99,
+      "shortage": 55.25,
+      "shortage_pct": 4.76,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 22.81,
+      "demand": 1160.24,
+      "supply": 1128.65,
+      "shortage": 31.59,
+      "shortage_pct": 2.72,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "rajagopalanagar",
+    "name": "Rajagopalanagar",
+    "before": {
+      "pressure": 8.87,
+      "demand": 2328.29,
+      "supply": 1882.38,
+      "shortage": 445.91,
+      "shortage_pct": 19.15,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.39,
+      "demand": 2328.29,
+      "supply": 2073.35,
+      "shortage": 254.94,
+      "shortage_pct": 10.95,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "rajajinagar",
+    "name": "Rajajinagar",
+    "before": {
+      "pressure": 72.42,
+      "demand": 1340.65,
+      "supply": 1302.05,
+      "shortage": 38.61,
+      "shortage_pct": 2.88,
+      "leakage": 1.25
+    },
+    "after": {
+      "pressure": 76.66,
+      "demand": 1340.65,
+      "supply": 1318.58,
+      "shortage": 22.07,
+      "shortage_pct": 1.65,
+      "leakage": 1.14
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "rajamahal",
+    "name": "Rajamahal",
+    "before": {
+      "pressure": 86.97,
+      "demand": 1067.17,
+      "supply": 1057.98,
+      "shortage": 9.19,
+      "shortage_pct": 0.86,
+      "leakage": 1.54
+    },
+    "after": {
+      "pressure": 92.06,
+      "demand": 1067.17,
+      "supply": 1061.92,
+      "shortage": 5.25,
+      "shortage_pct": 0.49,
+      "leakage": 1.41
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "rajarajeshwarinagar",
+    "name": "Rajarajeshwarinagar",
+    "before": {
+      "pressure": 9.68,
+      "demand": 5263.44,
+      "supply": 4552.99,
+      "shortage": 710.46,
+      "shortage_pct": 13.5,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.25,
+      "demand": 5263.44,
+      "supply": 4857.25,
+      "shortage": 406.19,
+      "shortage_pct": 7.72,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "ramamurthynagar",
+    "name": "Ramamurthynagar",
+    "before": {
+      "pressure": 11.22,
+      "demand": 3054.08,
+      "supply": 2536.1,
+      "shortage": 517.99,
+      "shortage_pct": 16.96,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.88,
+      "demand": 3054.08,
+      "supply": 2757.93,
+      "shortage": 296.15,
+      "shortage_pct": 9.7,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "ramaswamy palya",
+    "name": "Ramaswamy Palya",
+    "before": {
+      "pressure": 118.41,
+      "demand": 911.47,
+      "supply": 889.46,
+      "shortage": 22.01,
+      "shortage_pct": 2.41,
+      "leakage": 2.17
+    },
+    "after": {
+      "pressure": 125.34,
+      "demand": 911.47,
+      "supply": 898.88,
+      "shortage": 12.58,
+      "shortage_pct": 1.38,
+      "leakage": 1.98
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "rayapuram",
+    "name": "Rayapuram",
+    "before": {
+      "pressure": 116.21,
+      "demand": 945.98,
+      "supply": 903.97,
+      "shortage": 42.01,
+      "shortage_pct": 4.44,
+      "leakage": 2.12
+    },
+    "after": {
+      "pressure": 123.02,
+      "demand": 945.98,
+      "supply": 921.96,
+      "shortage": 24.02,
+      "shortage_pct": 2.54,
+      "leakage": 1.94
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "s.k. garden",
+    "name": "S.K. Garden",
+    "before": {
+      "pressure": 9.82,
+      "demand": 918.93,
+      "supply": 874.82,
+      "shortage": 44.11,
+      "shortage_pct": 4.8,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.39,
+      "demand": 918.93,
+      "supply": 893.71,
+      "shortage": 25.22,
+      "shortage_pct": 2.74,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "sagayapuram",
+    "name": "Sagayapuram",
+    "before": {
+      "pressure": 96.39,
+      "demand": 1138.48,
+      "supply": 1132.82,
+      "shortage": 5.66,
+      "shortage_pct": 0.5,
+      "leakage": 1.73
+    },
+    "after": {
+      "pressure": 102.03,
+      "demand": 1138.48,
+      "supply": 1135.24,
+      "shortage": 3.24,
+      "shortage_pct": 0.28,
+      "leakage": 1.58
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "sampangiramnagar",
+    "name": "Sampangiramnagar",
+    "before": {
+      "pressure": 95.26,
+      "demand": 1539.07,
+      "supply": 1299.47,
+      "shortage": 239.6,
+      "shortage_pct": 15.57,
+      "leakage": 1.71
+    },
+    "after": {
+      "pressure": 100.84,
+      "demand": 1539.07,
+      "supply": 1402.08,
+      "shortage": 136.99,
+      "shortage_pct": 8.9,
+      "leakage": 1.56
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "sanjaynagar",
+    "name": "Sanjaynagar",
+    "before": {
+      "pressure": 11.5,
+      "demand": 985.84,
+      "supply": 959.84,
+      "shortage": 26.0,
+      "shortage_pct": 2.64,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 12.17,
+      "demand": 985.84,
+      "supply": 970.98,
+      "shortage": 14.87,
+      "shortage_pct": 1.51,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "sarakki",
+    "name": "Sarakki",
+    "before": {
+      "pressure": 145.71,
+      "demand": 2050.39,
+      "supply": 1727.34,
+      "shortage": 323.05,
+      "shortage_pct": 15.76,
+      "leakage": 2.71
+    },
+    "after": {
+      "pressure": 154.24,
+      "demand": 2050.39,
+      "supply": 1865.69,
+      "shortage": 184.7,
+      "shortage_pct": 9.01,
+      "leakage": 2.48
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "sarvagnanagar",
+    "name": "Sarvagnanagar",
+    "before": {
+      "pressure": 10.43,
+      "demand": 925.91,
+      "supply": 918.56,
+      "shortage": 7.35,
+      "shortage_pct": 0.79,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.04,
+      "demand": 925.91,
+      "supply": 921.71,
+      "shortage": 4.2,
+      "shortage_pct": 0.45,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "shakambarinagar",
+    "name": "Shakambarinagar",
+    "before": {
+      "pressure": 88.76,
+      "demand": 1310.17,
+      "supply": 1286.8,
+      "shortage": 23.37,
+      "shortage_pct": 1.78,
+      "leakage": 1.58
+    },
+    "after": {
+      "pressure": 93.95,
+      "demand": 1310.17,
+      "supply": 1296.81,
+      "shortage": 13.36,
+      "shortage_pct": 1.02,
+      "leakage": 1.44
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "shakthiganapathi nagar",
+    "name": "Shakthiganapathi Nagar",
+    "before": {
+      "pressure": 8.97,
+      "demand": 1872.56,
+      "supply": 1647.87,
+      "shortage": 224.69,
+      "shortage_pct": 12.0,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.5,
+      "demand": 1872.56,
+      "supply": 1744.1,
+      "shortage": 128.46,
+      "shortage_pct": 6.86,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "shankaramata",
+    "name": "Shankaramata",
+    "before": {
+      "pressure": 88.09,
+      "demand": 1717.77,
+      "supply": 1374.79,
+      "shortage": 342.99,
+      "shortage_pct": 19.97,
+      "leakage": 1.56
+    },
+    "after": {
+      "pressure": 93.24,
+      "demand": 1717.77,
+      "supply": 1521.68,
+      "shortage": 196.1,
+      "shortage_pct": 11.42,
+      "leakage": 1.43
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "shanthala nagar",
+    "name": "Shanthala Nagar",
+    "before": {
+      "pressure": 126.86,
+      "demand": 2712.33,
+      "supply": 2441.01,
+      "shortage": 271.32,
+      "shortage_pct": 10.0,
+      "leakage": 2.34
+    },
+    "after": {
+      "pressure": 134.28,
+      "demand": 2712.33,
+      "supply": 2557.21,
+      "shortage": 155.12,
+      "shortage_pct": 5.72,
+      "leakage": 2.14
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "shanthinagar",
+    "name": "Shanthinagar",
+    "before": {
+      "pressure": 10.31,
+      "demand": 2851.23,
+      "supply": 2413.26,
+      "shortage": 437.97,
+      "shortage_pct": 15.36,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.92,
+      "demand": 2851.23,
+      "supply": 2600.83,
+      "shortage": 250.4,
+      "shortage_pct": 8.78,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "shettyhalli",
+    "name": "Shettyhalli",
+    "before": {
+      "pressure": 9.04,
+      "demand": 1626.28,
+      "supply": 1455.52,
+      "shortage": 170.77,
+      "shortage_pct": 10.5,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.57,
+      "demand": 1626.28,
+      "supply": 1528.65,
+      "shortage": 97.63,
+      "shortage_pct": 6.0,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "shivajinagar",
+    "name": "Shivajinagar",
+    "before": {
+      "pressure": 9.16,
+      "demand": 2408.02,
+      "supply": 2019.41,
+      "shortage": 388.6,
+      "shortage_pct": 16.14,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.69,
+      "demand": 2408.02,
+      "supply": 2185.84,
+      "shortage": 222.17,
+      "shortage_pct": 9.23,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "shivanagar",
+    "name": "Shivanagar",
+    "before": {
+      "pressure": 91.49,
+      "demand": 1022.92,
+      "supply": 1012.11,
+      "shortage": 10.81,
+      "shortage_pct": 1.06,
+      "leakage": 1.63
+    },
+    "after": {
+      "pressure": 96.85,
+      "demand": 1022.92,
+      "supply": 1016.74,
+      "shortage": 6.18,
+      "shortage_pct": 0.6,
+      "leakage": 1.49
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "siddapura",
+    "name": "Siddapura",
+    "before": {
+      "pressure": 75.06,
+      "demand": 1469.93,
+      "supply": 1466.29,
+      "shortage": 3.64,
+      "shortage_pct": 0.25,
+      "leakage": 1.3
+    },
+    "after": {
+      "pressure": 79.45,
+      "demand": 1469.93,
+      "supply": 1467.85,
+      "shortage": 2.08,
+      "shortage_pct": 0.14,
+      "leakage": 1.19
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "singasandra",
+    "name": "Singasandra",
+    "before": {
+      "pressure": 116.07,
+      "demand": 2011.31,
+      "supply": 1778.48,
+      "shortage": 232.82,
+      "shortage_pct": 11.58,
+      "leakage": 2.12
+    },
+    "after": {
+      "pressure": 122.86,
+      "demand": 2011.31,
+      "supply": 1878.19,
+      "shortage": 133.11,
+      "shortage_pct": 6.62,
+      "leakage": 1.94
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "srinagar",
+    "name": "Srinagar",
+    "before": {
+      "pressure": 86.77,
+      "demand": 1662.93,
+      "supply": 1467.95,
+      "shortage": 194.97,
+      "shortage_pct": 11.72,
+      "leakage": 1.54
+    },
+    "after": {
+      "pressure": 91.85,
+      "demand": 1662.93,
+      "supply": 1551.45,
+      "shortage": 111.47,
+      "shortage_pct": 6.7,
+      "leakage": 1.41
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "srirammandira ward",
+    "name": "Srirammandira Ward",
+    "before": {
+      "pressure": 10.17,
+      "demand": 1368.3,
+      "supply": 1321.97,
+      "shortage": 46.33,
+      "shortage_pct": 3.39,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.77,
+      "demand": 1368.3,
+      "supply": 1341.81,
+      "shortage": 26.49,
+      "shortage_pct": 1.94,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "subhashnagar",
+    "name": "Subhashnagar",
+    "before": {
+      "pressure": 77.09,
+      "demand": 691.94,
+      "supply": 660.33,
+      "shortage": 31.61,
+      "shortage_pct": 4.57,
+      "leakage": 1.34
+    },
+    "after": {
+      "pressure": 81.6,
+      "demand": 691.94,
+      "supply": 673.87,
+      "shortage": 18.08,
+      "shortage_pct": 2.61,
+      "leakage": 1.23
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "subramanyanagar",
+    "name": "Subramanyanagar",
+    "before": {
+      "pressure": 122.38,
+      "demand": 1403.13,
+      "supply": 1344.27,
+      "shortage": 58.86,
+      "shortage_pct": 4.19,
+      "leakage": 2.25
+    },
+    "after": {
+      "pressure": 129.55,
+      "demand": 1403.13,
+      "supply": 1369.48,
+      "shortage": 33.65,
+      "shortage_pct": 2.4,
+      "leakage": 2.06
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "sudamnagar",
+    "name": "Sudamnagar",
+    "before": {
+      "pressure": 8.89,
+      "demand": 1191.5,
+      "supply": 1142.38,
+      "shortage": 49.12,
+      "shortage_pct": 4.12,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.42,
+      "demand": 1191.5,
+      "supply": 1163.42,
+      "shortage": 28.08,
+      "shortage_pct": 2.36,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "sudduguntepalya",
+    "name": "Sudduguntepalya",
+    "before": {
+      "pressure": 8.71,
+      "demand": 1670.05,
+      "supply": 1476.77,
+      "shortage": 193.28,
+      "shortage_pct": 11.57,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.22,
+      "demand": 1670.05,
+      "supply": 1559.55,
+      "shortage": 110.5,
+      "shortage_pct": 6.62,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "sunkenahalli",
+    "name": "Sunkenahalli",
+    "before": {
+      "pressure": 9.1,
+      "demand": 765.73,
+      "supply": 732.93,
+      "shortage": 32.79,
+      "shortage_pct": 4.28,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.63,
+      "demand": 765.73,
+      "supply": 746.98,
+      "shortage": 18.75,
+      "shortage_pct": 2.45,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "t. dasarahalli",
+    "name": "T. Dasarahalli",
+    "before": {
+      "pressure": 73.82,
+      "demand": 1687.01,
+      "supply": 1413.64,
+      "shortage": 273.37,
+      "shortage_pct": 16.2,
+      "leakage": 1.28
+    },
+    "after": {
+      "pressure": 78.14,
+      "demand": 1687.01,
+      "supply": 1530.71,
+      "shortage": 156.3,
+      "shortage_pct": 9.26,
+      "leakage": 1.17
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "thanisandra",
+    "name": "Thanisandra",
+    "before": {
+      "pressure": 131.27,
+      "demand": 618.41,
+      "supply": 592.9,
+      "shortage": 25.52,
+      "shortage_pct": 4.13,
+      "leakage": 2.43
+    },
+    "after": {
+      "pressure": 138.96,
+      "demand": 618.41,
+      "supply": 603.82,
+      "shortage": 14.59,
+      "shortage_pct": 2.36,
+      "leakage": 2.22
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "ullalu",
+    "name": "Ullalu",
+    "before": {
+      "pressure": 103.81,
+      "demand": 2237.45,
+      "supply": 1968.89,
+      "shortage": 268.57,
+      "shortage_pct": 12.0,
+      "leakage": 1.88
+    },
+    "after": {
+      "pressure": 109.89,
+      "demand": 2237.45,
+      "supply": 2083.9,
+      "shortage": 153.55,
+      "shortage_pct": 6.86,
+      "leakage": 1.72
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "ulsoor",
+    "name": "Ulsoor",
+    "before": {
+      "pressure": 83.41,
+      "demand": 3785.02,
+      "supply": 3183.12,
+      "shortage": 601.9,
+      "shortage_pct": 15.9,
+      "leakage": 1.47
+    },
+    "after": {
+      "pressure": 88.29,
+      "demand": 3785.02,
+      "supply": 3440.9,
+      "shortage": 344.13,
+      "shortage_pct": 9.09,
+      "leakage": 1.34
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "uttarahalli",
+    "name": "Uttarahalli",
+    "before": {
+      "pressure": 9.49,
+      "demand": 3790.19,
+      "supply": 3355.27,
+      "shortage": 434.93,
+      "shortage_pct": 11.48,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.05,
+      "demand": 3790.19,
+      "supply": 3541.53,
+      "shortage": 248.66,
+      "shortage_pct": 6.56,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vannarpet",
+    "name": "Vannarpet",
+    "before": {
+      "pressure": 94.01,
+      "demand": 1255.93,
+      "supply": 1244.5,
+      "shortage": 11.43,
+      "shortage_pct": 0.91,
+      "leakage": 1.68
+    },
+    "after": {
+      "pressure": 99.52,
+      "demand": 1255.93,
+      "supply": 1249.39,
+      "shortage": 6.53,
+      "shortage_pct": 0.52,
+      "leakage": 1.54
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "varthur",
+    "name": "Varthur",
+    "before": {
+      "pressure": 10.17,
+      "demand": 1937.67,
+      "supply": 1648.58,
+      "shortage": 289.1,
+      "shortage_pct": 14.92,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.76,
+      "demand": 1937.67,
+      "supply": 1772.39,
+      "shortage": 165.28,
+      "shortage_pct": 8.53,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vasanthapura",
+    "name": "Vasanthapura",
+    "before": {
+      "pressure": 9.35,
+      "demand": 1771.06,
+      "supply": 1449.06,
+      "shortage": 322.0,
+      "shortage_pct": 18.18,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.9,
+      "demand": 1771.06,
+      "supply": 1586.97,
+      "shortage": 184.1,
+      "shortage_pct": 10.39,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vasanthnagar",
+    "name": "Vasanthnagar",
+    "before": {
+      "pressure": 9.47,
+      "demand": 2937.34,
+      "supply": 2469.19,
+      "shortage": 468.15,
+      "shortage_pct": 15.94,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 10.02,
+      "demand": 2937.34,
+      "supply": 2669.68,
+      "shortage": 267.66,
+      "shortage_pct": 9.11,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vidyapeetha ward",
+    "name": "Vidyapeetha Ward",
+    "before": {
+      "pressure": 8.57,
+      "demand": 1250.19,
+      "supply": 1238.71,
+      "shortage": 11.48,
+      "shortage_pct": 0.92,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.07,
+      "demand": 1250.19,
+      "supply": 1243.63,
+      "shortage": 6.56,
+      "shortage_pct": 0.53,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "vidyaranyapura",
+    "name": "Vidyaranyapura",
+    "before": {
+      "pressure": 8.72,
+      "demand": 4782.2,
+      "supply": 4021.99,
+      "shortage": 760.21,
+      "shortage_pct": 15.9,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.23,
+      "demand": 4782.2,
+      "supply": 4347.56,
+      "shortage": 434.63,
+      "shortage_pct": 9.09,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vignananagar",
+    "name": "Vignananagar",
+    "before": {
+      "pressure": 10.89,
+      "demand": 2309.18,
+      "supply": 2007.87,
+      "shortage": 301.31,
+      "shortage_pct": 13.05,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.53,
+      "demand": 2309.18,
+      "supply": 2136.91,
+      "shortage": 172.27,
+      "shortage_pct": 7.46,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vijaynagar",
+    "name": "Vijaynagar",
+    "before": {
+      "pressure": 54.46,
+      "demand": 1082.93,
+      "supply": 1064.88,
+      "shortage": 18.05,
+      "shortage_pct": 1.67,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 57.65,
+      "demand": 1082.93,
+      "supply": 1072.61,
+      "shortage": 10.32,
+      "shortage_pct": 0.95,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "vijinapura",
+    "name": "Vijinapura",
+    "before": {
+      "pressure": 112.4,
+      "demand": 1503.88,
+      "supply": 1239.9,
+      "shortage": 263.97,
+      "shortage_pct": 17.55,
+      "leakage": 2.05
+    },
+    "after": {
+      "pressure": 118.98,
+      "demand": 1503.88,
+      "supply": 1352.96,
+      "shortage": 150.92,
+      "shortage_pct": 10.04,
+      "leakage": 1.87
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "vishwanathnagenahalli",
+    "name": "Vishwanathnagenahalli",
+    "before": {
+      "pressure": 9.22,
+      "demand": 923.23,
+      "supply": 890.94,
+      "shortage": 32.29,
+      "shortage_pct": 3.5,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.76,
+      "demand": 923.23,
+      "supply": 904.77,
+      "shortage": 18.46,
+      "shortage_pct": 2.0,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "vishweshrapuram",
+    "name": "Vishweshrapuram",
+    "before": {
+      "pressure": 128.22,
+      "demand": 1413.43,
+      "supply": 1403.73,
+      "shortage": 9.69,
+      "shortage_pct": 0.69,
+      "leakage": 2.36
+    },
+    "after": {
+      "pressure": 135.73,
+      "demand": 1413.43,
+      "supply": 1407.89,
+      "shortage": 5.54,
+      "shortage_pct": 0.39,
+      "leakage": 2.16
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "vrushabhavathi nagar",
+    "name": "Vrushabhavathi Nagar",
+    "before": {
+      "pressure": 9.07,
+      "demand": 1152.22,
+      "supply": 1120.7,
+      "shortage": 31.52,
+      "shortage_pct": 2.74,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.6,
+      "demand": 1152.22,
+      "supply": 1134.2,
+      "shortage": 18.02,
+      "shortage_pct": 1.56,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "yadiyuru",
+    "name": "Yadiyuru",
+    "before": {
+      "pressure": 9.02,
+      "demand": 1251.97,
+      "supply": 1223.48,
+      "shortage": 28.49,
+      "shortage_pct": 2.28,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 9.55,
+      "demand": 1251.97,
+      "supply": 1235.68,
+      "shortage": 16.29,
+      "shortage_pct": 1.3,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  },
+  {
+    "id": "yelachenahalli",
+    "name": "Yelachenahalli",
+    "before": {
+      "pressure": 11.13,
+      "demand": 2298.94,
+      "supply": 1860.52,
+      "shortage": 438.43,
+      "shortage_pct": 19.07,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.79,
+      "demand": 2298.94,
+      "supply": 2048.28,
+      "shortage": 250.66,
+      "shortage_pct": 10.9,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "yelahanka satellite town",
+    "name": "Yelahanka Satellite Town",
+    "before": {
+      "pressure": 11.03,
+      "demand": 4695.33,
+      "supply": 3803.52,
+      "shortage": 891.81,
+      "shortage_pct": 18.99,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.68,
+      "demand": 4695.33,
+      "supply": 4185.45,
+      "shortage": 509.87,
+      "shortage_pct": 10.86,
+      "leakage": 0.92
+    },
+    "explanation": "Moderate shortage: partial supply, review local distribution trunk and pressures."
+  },
+  {
+    "id": "yeshwanthpur",
+    "name": "Yeshwanthpur",
+    "before": {
+      "pressure": 10.74,
+      "demand": 715.09,
+      "supply": 699.69,
+      "shortage": 15.4,
+      "shortage_pct": 2.15,
+      "leakage": 1.0
+    },
+    "after": {
+      "pressure": 11.37,
+      "demand": 715.09,
+      "supply": 706.28,
+      "shortage": 8.8,
+      "shortage_pct": 1.23,
+      "leakage": 0.92
+    },
+    "explanation": "Satisfactory supply."
+  }
+]
